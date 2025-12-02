@@ -1,0 +1,12 @@
+5 điều tuyệt đối không tâm sự với ChatGPT
+Những thông tin bạn cung cấp cho ChatGPT có thể trở thành bất lợi cho bạn sau này.
+Khi bạn cung cấp thông tin cho ChatGPT hay bất kỳ chatbot nào khác, theo thời gian, nó sẽ ngày càng hiểu rõ hơn về người dùng. Điều này đồng nghĩa với việc nó có thể ghi nhớ những suy nghĩ và cảm xúc thầm kín của bạn.
+Mặc dù chatbot mang lại nhiều lợi ích, nhưng điều quan trọng là phải nhận thức rằng không phải tất cả thông tin đều phù hợp để chia sẻ, đặc biệt là những dữ liệu nhạy cảm như số căn cước công dân hoặc thông tin độc quyền của công ty.
+Các nhà phát triển như OpenAI và Google luôn cảnh báo người dùng không chia sẻ thông tin nhạy cảm hay bí mật trong các cuộc trò chuyện, dù họ có nhu cầu dữ liệu lớn đến đâu.
+Theo các chuyên gia AI, những cuộc trò chuyện về bệnh tật, khó khăn tài chính hay các vấn đề riêng tư khác hoàn toàn có thể bị rò rỉ hoặc bị yêu cầu cung cấp khi có yêu cầu từ cơ quan chức năng.
+Jennifer King, thành viên tại Viện AI Stanford, chỉ ra rằng con người thường “cởi mở một cách bất ngờ” với chatbot. Bà cảnh báo, khi bạn nhập thông tin vào chatbot, “bạn sẽ mất quyền sở hữu nó”.
+Tháng 3/2023, ChatGPT đã gặp phải sự cố khi cho phép người dùng nhìn thấy trò chuyện của người khác. Ngoài ra, OpenAI cũng đã gửi nhầm email xác nhận thông tin, dẫn đến lộ lọt tên tuổi, email và tài khoản thanh toán của người dùng.
+Vì những lý do trên, bạn tuyệt đối không chia sẻ 5 loại thông tin sau với ChatGPT hay chatbot nói chung: thông tin định danh, bao gồm số căn cước công dân, bằng lái xe, hộ chiếu, sinh nhật, địa chỉ, số điện thoại; kết quả khám bệnh; thông tin tài chính, bao gồm số tài khoản ngân hàng; thông tin độc quyền của doanh nghiệp, Samsung đã cấm ChatGPT sau khi một kỹ sư vô tình để lộ mã nguồn; thông tin đăng nhập như mật khẩu, mã PIN, câu hỏi bảo mật.
+Một số chatbot như Claude của Anthropic không dùng các cuộc trò chuyện để đào tạo và xóa dữ liệu sau hai năm. ChatGPT, Microsoft Copilot và Google Gemini sử dụng nội dung trò chuyện nhưng có chế độ “không tham gia” trong phần cài đặt.
+Nếu quan tâm đến quyền riêng tư, bạn nên xóa dữ liệu sau khi kết thúc trò chuyện, theo Giám đốc An toàn thông tin Jason Clinton của Anthropic; dùng chế độ chat tạm thời (temporary chat), tương tự chế độ ẩn danh trên trình duyệt.
+(Theo WSJ)

@@ -1,0 +1,10 @@
+
+Google giảm số lần dùng trình tạo ảnh Nano Banana Pro miễn phí 
+Quyền truy cập vào Nano Banana Pro, trình tạo ảnh AI đang gây sốt của Google, bị thu hẹp khi công ty cố gắng đáp ứng nhu cầu bùng nổ.
+Google tuần trước ra Gemini 3 Pro, cung cấp cho người dùng miễn phí tối đa năm câu lệnh (prompt) và ba ảnh mỗi ngày với trình tạo ảnh Nano Banana Pro đi kèm. Giới hạn này tương đương những gì người dùng miễn phí nhận được với mô hình Gemini 2.5 Pro trước đó.
+Tuy nhiên, Google đang thay đổi giới hạn cho Gemini 3 Pro. Tài liệu hỗ trợ của công ty nêu người dùng miễn phí sẽ nhận "quyền truy cập cơ bản" và "giới hạn hàng ngày có thể thay đổi thường xuyên". Việc tạo và sửa ảnh bằng Nano Banana Pro giảm từ ba xuống hai ảnh mỗi ngày.
+Với người đăng ký gói Google AI Pro và Ultra, giới hạn không thay đổi, lần lượt là 100 và 500 câu lệnh mỗi ngày.
+OpenAI, đối thủ về AI tạo sinh của Google, cũng giới hạn 6 câu lệnh tạo video AI mỗi ngày với người dùng Sora miễn phí. "GPU của chúng tôi đang tan chảy, và chúng tôi muốn hỗ trợ nhiều người dùng Sora nhất có thể", Bill Peebles, đứng đầu nhóm Sora, viết trên X hôm 28/11.
+"GPU tan chảy" ám chỉ nhu cầu điện toán khổng lồ của các video Sora. Tạo ảnh và video ngốn nhiều năng lượng hơn văn bản, nên việc giới hạn số lượng video miễn phí sẽ giúp máy chủ của OpenAI có thời gian "hạ nhiệt". Trong khi đó, giới hạn với người dùng ChatGPT Plus và Pro vẫn giữ nguyên.
+TechRadar đánh giá, việc Google và OpenAI đều siết chặt quyền sử dụng miễn phí có thể trùng hợp, nhưng cũng có thể là dấu hiệu cho thấy ngành công nghiệp AI đang phải vật lộn với chi phí điện toán khổng lồ cho phản hồi, ảnh và video. Năm tới, nhiều khả năng người dùng sẽ chứng kiến thêm những động thái nhỏ nhằm thúc đẩy họ chuyển sang gói trả phí.
+Thu Thảo (Theo Mashable, TechRadar)

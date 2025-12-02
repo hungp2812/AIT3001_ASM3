@@ -1,0 +1,14 @@
+Kỹ sư bán dẫn Trung Quốc trở về nước sau 7 năm làm việc tại Apple để cống hiến
+Cựu kỹ sư bán dẫn của Apple rời Mỹ, trở về Trung Quốc và gia nhập Đại học Phúc Đán để cống hiến.
+Kong Long là kỹ sư thứ hai của Apple về Trung Quốc trong thời gian gần đây, sau Wang Huanyu.
+Sau khi dành 7 năm tại nhà sản xuất iPhone để nghiên cứu chip bán dẫn không dây, Long trở về Trường Vi điện tử Phúc Đán làm chuyên gia nghiên cứu kiêm cố vấn luận án.
+Công việc của ông tập trung vào thiết kế hệ thống mạch tích hợp tần số vô tuyến (IC), chip điện toán lai kỹ thuật số-analogue và IC giao diện dữ liệu tốc độ cao.
+SCMP nhận định sự trở về của ông Kong nhấn mạnh xu hướng các kỹ sư Trung Quốc quay lại phục vụ quê hương trong bối cảnh Bắc Kinh đẩy mạnh chip tiên tiến dưới gọng kìm của Mỹ. Trung Quốc đang nỗ lực nuôi dưỡng thế hệ chuyên gia bán dẫn mới để giảm lệ thuộc vào công nghệ nước ngoài.
+Sau khi tốt nghiệp Đại học Giao thông Thượng Hải với bằng vi điện tử, Kong lấy bằng tiến sĩ kỹ thuật điện tại Đại học California (Mỹ) vào năm 2016.
+Ông bắt đầu sự nghiệp của mình tại công ty điện toán đám mây Oracle với tư cách kỹ sư phần cứng, nghiên cứu các thiết kế IC tín hiệu hỗn hợp. Năm 2017, ông đầu quân cho Apple, đóng góp vào sự phát triển chip tần số vô tuyến trên iPhone, Apple Watch và AirPods.
+Kong cũng là một nhà nghiên cứu nổi bật với 11 báo cáo xuất bản trên các tạp chí học thuật hàng dầu và ít nhất 11 bằng sáng chế Mỹ mang tên mình.
+Trước đó, Wang Huanyu, cựu kỹ sư chip khác của Apple, cũng về Trung Quốc để làm việc tại Trường Mạch tích hợp thuộc Đại học Khoa học và Công nghệ Huazhong (HUST), nơi ông từng theo học.
+Wang, người tham gia phát triển chip M3 và M4 trên máy tính Mac và máy tính bảng iPad Pro, rời công ty vào tháng 12/2024, sau ba năm làm kỹ sư triển khai CPU.
+Tương tự Kong, Wang lấy bằng tiến sĩ ở Mỹ tại Đại học Florida. Ông học kỹ thuật điện và máy tính, tập trung vào thiết kế an toàn, phần cứng IC và tự động hóa thiết kế điện tử.
+Hơn 10 đại học ở Trung Quốc đã thành lập một trường vi mạch chuyên đào tạo thế hệ tài năng công nghệ tiếp theo. Đơn cử, Đại học Thanh Hoa và Đại học Bắc Kinh thành lập các khoa IC vào năm 2021, HUST năm 2023.
+(Theo SCMP)

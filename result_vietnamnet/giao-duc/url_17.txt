@@ -1,0 +1,20 @@
+Bộ GD-ĐT tính đưa giáo dục trí tuệ nhân tạo vào trường phổ thông
+Bộ GD-ĐT vừa gửi văn bản tới các sở GD-ĐT để lấy ý kiến về dự thảo hướng dẫn triển khai thí điểm nội dung giáo dục trí tuệ nhân tạo trong giáo dục phổ thông.
+Thiết kế theo 4 mạch kiến thức chính, tương ứng với 4 miền năng lực 
+Theo Bộ GD-ĐT, trong bối cảnh mới, giáo dục AI giữ vai trò quan trọng trong việc giúp học sinh tiếp nhận, mở rộng tri thức, sáng tạo trong môi trường số và thích ứng với xã hội hiện đại. AI cũng hỗ trợ hình thành năng lực ứng dụng công nghệ trong học tập và công việc. 
+Khung nội dung giáo dục AI được xây dựng trên bốn mạch kiến thức, tương ứng với bốn miền năng lực: tư duy lấy con người làm trung tâm, đạo đức AI, kỹ thuật và ứng dụng AI, thiết kế hệ thống AI. Các mạch kiến thức này bổ trợ lẫn nhau giúp học sinh hiểu ranh giới giữa sử dụng công nghệ và trách nhiệm xã hội, bảo đảm AI phục vụ con người một cách an toàn và nhân văn.
+Nội dung giáo dục AI theo cấp học
+Khung nội dung chia thành hai giai đoạn: giáo dục cơ bản (tiểu học và THCS) và định hướng nghề nghiệp (THPT), thiết kế liên thông nhưng phân hóa theo đặc điểm lứa tuổi:
+Tiểu học (làm quen): Học sinh nhận biết AI qua các ứng dụng trực quan (nhận diện hình ảnh, giọng nói), hiểu rằng AI do con người tạo ra và bước đầu hình thành ý thức bảo vệ dữ liệu cá nhân.
+THCS (hiểu biết cơ bản): Hiểu nguyên lý hoạt động (dữ liệu, thuật toán), thực hành sử dụng công cụ AI để giải quyết vấn đề học tập và nhận diện các rủi ro, thiên kiến của AI.
+THPT (kiến tạo và định hướng nghề nghiệp): Học sinh thiết kế các hệ thống AI đơn giản, phát triển tư duy giải quyết vấn đề phức tạp và định hướng nghề nghiệp trong lĩnh vực công nghệ.
+Triển khai linh hoạt, không gây quá tải
+Dự thảo yêu cầu triển khai nội dung AI thống nhất trên toàn quốc nhưng linh hoạt theo điều kiện từng địa phương, trường học. Việc thực hiện không làm thay đổi hay gây quá tải Chương trình GDPT; các nội dung AI phải gắn với yêu cầu cần đạt của từng môn và phù hợp tâm lý lứa tuổi.
+Các trường chủ động lựa chọn hình thức triển khai như lồng ghép vào môn học, tổ chức chuyên đề, dự án, câu lạc bộ…; phù hợp với điều kiện thực tiễn. 
+Bộ GD-ĐT cũng yêu cầu các địa phương phát huy tối đa nguồn lực và cơ sở vật chất sẵn có, tránh đầu tư dàn trải, không hiệu quả. Khuyến khích hợp tác, xã hội hóa để huy động các nguồn lực hỗ trợ chuyên môn, học liệu và trải nghiệm thực tế. Có giải pháp phù hợp để mọi học sinh, nhất là vùng điều kiện kinh tế - xã hội khó khăn, đều có cơ hội tiếp cận với giáo dục AI.
+Dự kiến lộ trình thực hiện
+Theo kế hoạch, tháng 12/2025, Bộ GD-ĐT sẽ xây dựng tài liệu, tập huấn đội ngũ cốt cán triển khai thực hiện thí điểm.
+Từ tháng 12/2025 đến tháng 5/2026: Thí điểm tại một số cơ sở giáo dục.
+Tháng 6/2026: Tổng kết, đánh giá kết quả thí điểm, hoàn thiện Khung nội dung AI để đề xuất triển khai rộng rãi trong các năm học tiếp theo.
+Song song với giáo dục học sinh, Bộ cũng triển khai thí điểm ứng dụng AI trong quản lý, hỗ trợ giáo viên soạn bài và đổi mới phương pháp kiểm tra đánh giá.
+Mời quý độc giả xem chi tiết dự thảo khung nội dung giáo dục trí tuệ nhân tạo dưới đây:

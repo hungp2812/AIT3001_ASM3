@@ -1,0 +1,11 @@
+
+Nvidia tuyên bố 'đi trước một thế hệ' trong ngành chip 
+Nvidia khẳng định sở hữu công nghệ vượt trội trong bối cảnh các nhà đầu tư lo ngại vị thế của hãng sẽ bị Google đe dọa với chip AI mới.
+"Chúng tôi vui mừng trước thành công của Google, họ đã có tiến bộ vượt bậc về AI và chúng tôi sẽ tiếp tục cung cấp dịch vụ cho họ. Nvidia đi trước ngành một thế hệ. Đây là nền tảng duy nhất chạy mọi mô hình AI và hoạt động ở mọi nơi có điện toán", Nvidia tuyên bố trên X ngày 26/11.
+Thông điệp được đưa ra khi cổ phiếu Nvidia giảm 3% hôm 25/11, sau khi xuất hiện thông tin Meta, một trong những khách hàng then chốt của công ty, có thể đạt thỏa thuận trị giá hàng tỷ USD với Google để sử dụng bộ xử lý tensor (TPU) cho các trung tâm dữ liệu của mình.
+Trong bài đăng trên X, Nvidia khẳng định chip của hãng linh hoạt và mạnh mẽ hơn so với chip ASIC - vi mạch tích hợp được thiết kế cho công ty hoặc chức năng cụ thể, ví dụ TPU của Google.
+Giới phân tích cho biết, Nvidia chiếm hơn 90% thị phần chip AI với sản phẩm bộ xử lý đồ họa (GPU). Tuy nhiên vài tuần qua, chip tự phát triển của Google thu hút nhiều sự chú ý và được đánh giá là giải pháp thay thế khả thi cho Blackwell - dòng chip mới nhất của Nvidia, mạnh mẽ và đắt đỏ.
+Khác với Nvidia, Google không bán TPU mà dùng nội bộ và cho phép những công ty khác thuê thông qua Google Cloud. Họ cũng mới phát hành Gemini 3, mô hình AI tiên tiến được đánh giá cao, đào tạo bằng TPU thay vì GPU của Nvidia.
+"Chúng tôi nhận thấy nhu cầu về cả TPU tùy chỉnh lẫn GPU của Nvidia ngày càng tăng", phát ngôn viên của Google cho biết. "Chúng tôi cam kết hỗ trợ cả hai, như vẫn làm suốt nhiều năm qua".
+Jensen Huang, CEO Nvidia, đề cập đến sự cạnh tranh ngày càng tăng từ TPU trong cuộc họp báo cáo tài chính hồi đầu tháng, lưu ý Google là khách hàng dùng GPU và Gemini có thể chạy trên công nghệ của Nvidia. Ông cũng cho biết mình đã liên lạc với Demis Hassabis, CEO Google DeepMind, và Hassabis ủng hộ "quy luật mở rộng" của ngành công nghệ, vốn cho rằng việc sử dụng nhiều chip và dữ liệu hơn sẽ tạo ra mô hình AI mạnh mẽ hơn. Theo Huang, quy luật mở rộng sẽ dẫn đến nhu cầu cao hơn nữa với các chip và hệ thống của công ty.
+Thu Thảo (Theo CNBC, Business Insider)

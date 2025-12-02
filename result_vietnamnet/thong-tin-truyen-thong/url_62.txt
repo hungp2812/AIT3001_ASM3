@@ -1,0 +1,190 @@
+Bài toán vĩ đại, việc vĩ đại của đất nước sẽ tạo ra KHCN, ĐMST và CĐS xuất sắc
+Bộ 3 khoa học công nghệ (KHCN), đổi mới sáng tạo (ĐMST) và chuyển đổi số (CĐS) là lựa chọn bắt buộc, là lựa chọn chiến lược, ưu tiên hàng đầu, là điều kiện tiên quyết, là thời cơ để Việt Nam giàu mạnh và hùng cường trong kỷ nguyên mới.
+I. Khái niệm và một số vấn đề liên quan
+Về khái niệm
+Khoa học (KH) là quá trình khám phá quy luật và bản chất của thế giới tự nhiên và xã hội.
+Công nghệ (CN) là việc ứng dụng tri thức khoa học để tạo ra công cụ, quy trình hoặc sản phẩm phục vụ con người.
+Đổi mới sáng tạo là đưa công cụ, tri thức vào cuộc sống và thị trường một cách sáng tạo để tạo ra các giá trị mới.
+Chuyển đổi số (CĐS) là việc số hoá toàn diện, tạo ra một môi trường mới - môi trường số, và tương tác với môi trường thực để thay đổi cách tổ chức hoạt động, cách cung cấp dịch vụ và cách tạo ra giá trị mới. CĐS tạo ra mảnh đất mới cho việc ứng dụng và phổ cập nhanh các kết quả nghiên cứu.
+Về một thí dụ minh hoạ
+Công ty Hachi, một công ty của Việt Nam, nghiên cứu ra chất dinh dưỡng cho vào nước để trồng rau, không cần đất. Nghiên cứu ra chất dinh dưỡng này là KH.
+Công ty Hachi dùng cảm biến để đo nồng độ dinh dưỡng trong nước, gửi thông tin qua mạng điện thoại di động về máy chủ, phần mềm máy chủ ra quyết định khi nào thì bơm thêm chất dinh dưỡng vào nước. Hachi cũng phát triển một ứng dụng phần mềm để người trồng rau xem được tình trạng của rau. Hachi kết nối nước, dinh dưỡng, cảm biến, bơm và phần mềm thành một hệ thống trồng rau hoàn chỉnh. Đây là công đoạn biến tri thức KH thành một thiết bị trồng rau thông minh, là quá trình phát triển CN.
+Công ty Hachi có thể kinh doanh theo cách truyền thống là dùng sản phẩm mới này để trồng rau bằng nước và bán rau thu tiền. Nhưng Hachi lại chọn cách kinh doanh khác là cho các hộ gia đình thuê hệ thống trồng rau. Các gia đình sẽ trả tiền thuê hệ thống theo tháng, sau đó mua giống, mua chất dinh dưỡng từ Hachi. Hachi không trồng rau, không bán rau mà bán công nghệ và các thứ tạo ra rau, các hộ gia đình mới là người trồng rau và tiêu thụ rau. Đây là đổi mới mô hình kinh doanh. Với mô hình kinh doanh mới này thì có hàng chục ngàn hộ gia đình trồng rau, tiêu thụ rau. Hachi vì thế mà lớn mạnh nhanh chóng. ĐMST trong câu chuyện này là đổi mới mô hình kinh doanh.
+Thiết bị trồng rau thông minh được số hoá toàn diện, một máy chủ, một trung tâm dữ liệu, một app ứng dụng, một đội ngũ kỹ thuật hỗ trợ, nhưng hàng chục ngàn hộ sử dụng, có thể nhân rộng ra toàn quốc mà vẫn duy trì được chất lượng. Không những thế, vì có nhiều người dùng, hệ thống thu thập được nhiều thông tin hơn và ngày càng thông minh hơn, trồng rau hiệu quả hơn. CĐS là môi trường để đổi mới mô hình kinh doanh, nhân rộng sản phẩm. Không có CĐS thì công ty Hachi phải có nhân viên kỹ thuật đi đến hàng chục ngàn hộ gia đình để hỗ trợ kỹ thuật và điều này rất tốn kém và không khả thi.
+Về 3 giai đoạn phát triển của Việt Nam
+Nông nghiệp giúp Việt Nam thoát nghèo.
+Công nghiệp (FDI, gia công, lắp ráp) giúp Việt Nam thành nước thu nhập trung bình.
+KHCN/ĐMST/CĐS sẽ giúp Việt Nam thoát bẫy thu nhập trung bình, thành nước phát triển thu nhập cao.
+Về 3 giai đoạn phát triển công nghệ của một quốc gia
+3 giai đoạn này đi từ Đầu tư (là mua về dùng), đến Thẩm thấu (là hiểu), rồi đến Sáng tạo (là tạo ra cái mới). Nó giống như Ăn -> Tiêu hoá -> Sáng tạo.
+Đầu tư là mua công nghệ của nước ngoài về dùng. Đây là ưu tiên trong giai đoạn đất nước có thu nhập thấp, công nghệ lạc hậu.
+Thẩm thấu công nghệ, tức là tiêu hoá công nghệ, làm chủ và cải thiện công nghệ từ nước ngoài, đưa thêm các xúc tác mềm như chuyên gia, đào tạo, kiến thức, tư duy lãnh đạo, quản trị và quản lý hiện đại, từ đó tạo ra sản phẩm tốt hơn, tăng hiệu suất của CN. Đây là ưu tiên trong giai đoạn đất nước có thu nhập trung bình, làm chủ công nghệ ở mức sử dụng và cải tiến.
+Sáng tạo là đầu tư mạnh mẽ cho nghiên cứu phát triển để tạo ra công nghệ và sản phẩm mới, đồng thời với nó là đổi mới thể chế, quản trị quốc gia và mô hình phát triển địa phương. Đây là ưu tiên trong giai đoạn đất nước đã bước vào mức thu nhập trung bình cao, đã sở hữu nền tảng công nghệ của giai đoạn đầu tư và nâng cao năng lực nội sinh của giai đoạn thẩm thấu công nghệ, để từ đó sáng tạo CN, vượt bẫy thu nhập trung bình, và trở thành nước phát triển. Nghị quyết 57 là tuyên ngôn của Việt Nam, đất nước đã đến lúc phải bước vào giai đoạn sáng tạo.
+Về sáng tạo và đổi mới sáng tạo
+Từ tiếng Anh "Innovation" vừa là nghĩ ra ý tưởng mới, vừa là hành động tạo ra kết quả mới, tiếng Việt không có từ tương ứng, nên phải dịch là "đổi mới sáng tạo". Sáng tạo thường dừng lại ở mức ý tưởng, mới là tiền đề của đổi mới. ĐMST nhấn mạnh tính hành động, biến ý tưởng mới thành sản phẩm/dịch vụ mới, mô hình kinh doanh mới, mô hình quản trị mới có giá trị thực tiễn. Sáng tạo là nghĩ ra cái mới, ĐMST là làm ra cái mới.
+Luật KH&CN sẽ được sửa đổi thành Luật KH, CN và ĐMST, đặt ĐMST ngang với KHCN, để nhấn mạnh tính ứng dụng vào thực tiễn của KHCN.
+Tổng Bí thư Tô Lâm nói, ĐMST là cây gậy thần, ý là dùng ĐMST như cây gậy thần để trỏ một công nghệ cao chạm vào một thực tiễn và thay đổi thực tiễn đó một cách đột phá. Tức là ứng dụng KHCN vào thực tiễn một cách sáng tạo, để tạo ra giá trị lớn.
+Về ứng dụng CNTT và CĐS
+Ứng dụng CNTT là làm cái cũ theo cách cũ, dùng CNTT để tự động hoá quy trình cũ.
+CĐS là làm cái cũ theo cách mới. Thí dụ, học online thay vì học trực tiếp. Cần thay đổi các quy định về dạy học. CĐS là vấn đề thể chế nhiều hơn là vấn đề công nghệ (thể chế 70%, công nghệ 30%). Bởi vậy, CĐS muốn nhanh thì phải thay đổi thể chế, thay đổi các quy định.
+CĐS còn là tạo ra cái mới. CĐS tạo ra một môi trường mới là môi trường số, làm xuất hiện nhiều cái mới, rất mới, như sản phẩm, dịch vụ mới, mô hình kinh doanh mới (taxi công nghệ), tài sản mới (dữ liệu, tiền kỹ thuật số). Nó cần thể chế mới để được chấp nhận. Nhiều cái mới trên môi trường số có thể thách thức, phá huỷ cái cũ, mô hình cũ (như ngân hàng số thách thức ngân hàng truyền thống), đây là sự phá huỷ mang tính sáng tạo. Phải dùng cơ chế sandbox để thử trước rồi phổ cập sau.
+Về bộ 3 KHCN, ĐMST và CĐS
+KHCN là nền tảng, nó tạo ra tri thức, công cụ mới. Khoa học là nghiên cứu cơ bản tìm ra tri thức mới. Công nghệ là phát triển ra công cụ/sản phẩm mẫu dựa trên tri thức mới.
+ĐMST là quá trình tạo ra sản phẩm, dịch vụ, quy trình hoặc mô hình mới có giá trị thực tiễn, thông qua việc kết hợp tri thức, công nghệ và cách tiếp cận mới.
+CĐS tạo ra môi trường số thuận lợi, mảnh đất mới màu mỡ để đẩy nhanh tốc độ phát triển KHCN/ĐMST, phổ cập nhanh các sản phẩm mới vào cuộc sống. Môi trường số tạo thuận lợi cho phát triển vì nó phi vật lý, phi biên giới, phi khoảng cách, phi trung gian. Nó đổi mới toàn diện phương thức vận hành, quản trị, cung cấp dịch vụ của tổ chức và quốc gia. Ngược lại, phát triển KHCN/ĐMST cũng đẩy nhanh tiến trình CĐS. Bởi vậy, CĐS vừa là môi trường vừa là mục tiêu của KHCN/ĐMST.
+Lần đầu tiên, bộ 3 này đi chung với nhau trong 1 Nghị quyết của Bộ Chính trị, và nhập với nhau về 1 bộ quản lý. Thế giới có không đến 5% các nước nhận thấy tầm quan trọng của bộ 3 này và nhập về 1 nơi, biết cách nối chúng với nhau, tạo thành một hệ sinh thái. Việt Nam thuộc nhóm tiên phong về cách tiếp cận này.
+Với Việt Nam, bộ 3 này là lựa chọn bắt buộc, là lựa chọn chiến lược, ưu tiên hàng đầu, là điều kiện tiên quyết, là thời cơ để Việt Nam giàu mạnh và hùng cường trong kỷ nguyên mới.
+Về nước có thu nhập cao, nước phát triển và bẫy thu nhập trung bình
+35 năm qua, tính từ 1990, có 34 quốc gia từ thu nhập trung bình trở thành thu nhập cao. Nhưng chỉ có 10 - 12 quốc gia được coi là nước phát triển, thí dụ như Hàn Quốc, Israel, Cộng hoà Séc, Ba Lan. Đó là những quốc gia đạt thu nhập cao thông qua KHCN/ĐMST/CĐS, có trình độ công nghiệp hoá cao, có năng suất lao động cao, có thể chế ổn định, hạ tầng hiện đại, hệ thống giáo dục, y tế phát triển.
+Việt Nam chúng ta hướng tới cả 2 mục tiêu: Thu nhập cao và phát triển. Để trở thành nước phát triển có thu nhập cao thì đóng góp vào tăng trưởng GDP của KHCN/ĐMST/CĐS phải trên 50%.
+Ngưỡng thu nhập cao năm 2023 là 13.800 USD, ngưỡng này tăng trung bình 2-3%/năm, nên ngưỡng thu nhập cao năm 2045 sẽ là 20.000 - 25.000 USD. Nếu tính cả tăng dân số, thì để đạt ngưỡng thu nhập cao vào năm 2045, GDP Việt Nam phải tăng ít nhất 5 lần trong 20 năm tới. Nếu 10 năm đầu tăng trưởng 10%, 10 năm tiếp theo vẫn phải tăng trưởng 7% thì mới đạt mục tiêu. Bởi vậy, tăng trưởng 2 con số liên tục 10 năm tới là bắt buộc.
+Một nước mà 40 năm không vượt qua được thu nhập trung bình thì chắc chắn là đã vào bẫy thu nhập trung bình, 30 năm mà chưa vượt qua được thì có nguy cơ mắc bẫy.
+Việt Nam, năm 2010 là bắt đầu vào thu nhập trung bình, nếu 2040, sau 30 năm, chưa thành thu nhập cao là có nguy cơ mắc bẫy, đến 2050, sau 40 năm, mà chưa thành thu nhập cao thì chắc chắn là vào bẫy.
+Nếu 2045, sau 35 năm, Việt Nam không vượt ngưỡng thu nhập cao thì nguy cơ rất cao là sẽ vào bẫy thu nhập trung bình. Bởi vậy, mốc thu nhập cao vào năm 2045 của Việt Nam có ý nghĩa sống còn.
+Một số nước vượt qua thu nhập trung bình là, Nhật Bản mất 25 năm, Hàn Quốc mất 32 năm, Trung Quốc mất 24 năm.
+II. Một số phát triển mới gần đây
+Về KH: Chỉnh sửa gen chính xác đã đạt được những thành tựu bứt phá, đang mở ra một kỷ nguyên mới, khi con người có thể can thiệp vào tận gốc của mã gen, mã của sự sống, có thể ghép tạng, có thể chữa các bệnh hiểm nghèo, phòng chống ung thư, cây trồng không cần thuốc trừ sâu, kiểm soát dịch bệnh. Trí tuệ nhân tạo tổng quát, là trí tuệ rất gần với con người, có thể tự học kiến thức, kỹ năng, đã ra được sản phẩm mẫu trong phòng thí nghiệm.
+Về CN: Công nghệ tính toán lượng tử đã có chip, đã tiến gần tới thương mại hoá, đi nhanh hơn dự kiến. Công nghệ AI đã rẻ đi 20 lần với sự ra đời DeepSeek của Trung Quốc, mở ra thời kỳ phổ cập của AI. Trung Quốc luôn là nước làm cho CN cao rẻ đi và phổ cập. Công nghệ tấm pin mặt trời đã đạt hiệu suất 35%, trước đây chỉ được 25%. Công nghệ pin mới đã giúp xe điện đi được 1.000km sau một lần sạc, sẽ thay đổi cục diện của xe điện.
+Về ĐMST: AI đã được sử dụng trong nghiên cứu khoa học, như hoá học, vật lý, sinh học, và sẽ đẩy rất nhanh tốc độ nghiên cứu KH.
+Về CĐS: Đã có thể tạo ra bản sao số của cả một TP, có thể làm các mô phỏng để tìm giải pháp tối ưu giải quyết các bài toán lớn của đô thị nén, như ùn tắc giao thông, úng lụt.
+III. Một số kinh nghiệm quốc tế
+Mỗi quốc gia phải có con đường riêng về phát triển KHCN/ĐMST/CĐS. Nhưng kinh nghiệm quốc tế, cả thành công và chưa thành công, đều có nhiều gợi mở cho chúng ta.
+Kinh nghiệm Trung Quốc
+Đảng Cộng sản Trung Quốc thống nhất lãnh đạo KHCN/ĐMST/CĐS từ rất sớm. Năm 2012, Tổng Bí thư Tập Cận Bình làm Trưởng Tiểu tổ trung ương về tin học hoá và an ninh mạng.
+Trung Quốc đặt phát triển KHCN/ĐMST trong bối cảnh CĐS và gắn với CĐS. Coi CĐS là môi trường mới rất thuận lợi để đẩy nhanh tốc độ KHCN/ĐMST. Mặt khác, KHCN/ĐMST phát triển cũng thúc đẩy CĐS.
+Trung Quốc chú trọng ĐMST, chú trọng phần ứng dụng trước, nhưng là ứng dụng có sáng tạo. Chỉ số sáng tạo toàn cầu của Trung Quốc trong 12 năm, từ 2012-2024, tăng 23 hạng, và hiện xếp thứ 11.
+Trung Quốc rất chú trọng sản xuất. Chương trình Made in China 2025 tập trung phát triển một số ngành công nghiệp chiến lược. Trung Quốc cũng ưu tiên làm chủ các công nghệ chiến lược, như Robot, AI, IoT, sinh học, vũ trụ, năng lượng mới. Trung Quốc hướng các hoạt động KHCN/ĐMST/CĐS vào 2 ưu tiên: Công nghệ chiến lược và công nghiệp chiến lược.
+Trung Quốc có cách tiếp cận thể chế mềm về những cái mới, thay vì ra luật sớm thì ra các định hướng của trung ương và quy định tạm thời của chính phủ.
+Trung Quốc luôn có cách tiếp cận phổ cập: Từ Internet+: Số hoá toàn diện, tới Dữ liệu x: Dữ liệu toàn diện, ứng dụng dữ liệu trong mọi ngành để nhân cao giá trị, đến AI+: AI toàn diện, đưa trí tuệ nhân tạo vào mọi lĩnh vực, để thông minh hoá, tăng năng suất lao động trong toàn bộ nền kinh tế.
+Trung Quốc rất thành công trong việc làm các thí điểm lớn rồi nhân rộng. Các thí điểm lớn do trung ương trực tiếp chỉ đạo để làm nhanh và làm tới thành công.
+Đầu tư KHCN/ĐMST của Trung Quốc đạt 2,43% GDP (gấp 5 lần Việt Nam).
+Kinh nghiệm Hàn Quốc
+Hàn Quốc kết hợp tốt FDI và nội địa hoá ngay từ đầu.
+Hàn Quốc có chính sách hỗ trợ mạnh mẽ một số doanh nghiệp lớn trong nước phát triển công nghiệp, công nghệ, nhưng là hỗ trợ có điều kiện, doanh nghiệp phải xuất khẩu được sản phẩm, tức là phải có năng lực cạnh tranh quốc tế. Từ đó đã hình thành được các tập đoàn công nghệ quốc gia lớn mạnh, dẫn dắt trong nước và ảnh hưởng toàn cầu.
+Hàn Quốc đã lựa chọn đúng các công nghệ, công nghiệp chiến lược để tập trung cho từng giai đoạn, như thép, đóng tàu, bán dẫn (bộ nhớ), ô tô.
+Chi cho KHCN/ĐMST của Hàn Quốc vào loại rất cao trên thế giới, đạt 4,9% GDP (gấp gần 10 lần Việt Nam, đứng thứ 2 thế giới, sau Israel).
+GDP của Hàn Quốc tăng 450 lần trong 60 năm qua.
+Kinh nghiệm Nhật Bản
+Nhật Bản ý thức cải tiến công nghệ nhập khẩu ngay từ những ngày đầu. Giai đoạn Ăn đi ngay với Tiêu hoá.
+Ý thức ĐMST của Nhật Bản đã có từ thế kỷ trước, từ trong gen của người Nhật, đây là đặc điểm văn hoá (liên tục cải tiến) mà Nhật Bản đã tận dụng được trong phát triển KHCN. Tận dụng được đặc điểm văn hoá trong chiến lược phát triển quốc gia luôn là yếu tố quan trọng đảm bảo thành công của chiến lược. Chiến lược mà không phù hợp văn hoá thì thường thất bại.
+Nhật Bản chọn đúng trọng tâm là ngành công nghiệp điện tử dân dụng. Ngành này có thị trường lớn, tận dụng được bộ 3: Điện tử - Bán dẫn - Cơ khí chính xác để làm ra các thiết bị điện tử nhỏ gọn, chất lượng cao, lại phù hợp với văn hoá Kaizen luôn tiến tới sự hoàn hảo của người Nhật.
+Kinh nghiệm Brazil
+Brazil chi tới 4% ngân sách nhà nước cho KHCN (gấp 8 lần Việt Nam), nhưng chi nhiều cho khối viện trường, ít chi cho doanh nghiệp. Tạo ra được một số ít thành công, thí dụ như hãng sản xuất máy bay Embraer, nhưng chỉ là một ngôi sao đơn lẻ, không kéo theo được chuỗi cung ứng công nghệ nội địa.
+Brazil chi 1 đồng cho KHCN nhưng chỉ kéo được thêm gần 1 đồng của khối doanh nghiệp. Đáng nhẽ phải kéo được từ 3-4 đồng.
+Brazil không tạo được liên kết giữa KHCN và sản xuất, giữa nghiên cứu và doanh nghiệp. Các công trình nghiên cứu hàn lâm không thương mại hoá được. Tình trạng nghiên cứu ở trên Trời, đi từ trên Trời xuống Đất nên ít thành công. Khá giống với Việt Nam hiện nay. Đáng nhẽ, nghiên cứu phải đi cả từ dưới Đất lên trên Trời.
+Brazil không vượt qua được bẫy thu nhập trung bình. Phát triển thần kỳ giai đoạn 1970-1980, tăng trưởng trung bình 13,5%/năm, nhanh chóng thoát nghèo, nhưng sau đó, hơn 40 năm nay vẫn chưa vượt ngưỡng thu nhập cao.
+IV. Thực trạng của Việt Nam
+Về xếp hạng quốc tế
+GDP/người của Việt Nam xếp thứ 120. Các xếp hạng quốc tế khác mà dưới 80 thì được coi là tốt.
+Đầu tư cho nghiên cứu và phát triển 0,5% GDP, bằng 1/3 trung bình thế giới, mức thấp của các nước đang phát triển, và bằng 60% các nước ASEAN. Chi ngân sách nhà nước cho chuyển đổi số trên 1%, đạt mức trung bình thế giới.
+Hệ sinh thái khởi nghiệp đổi mới sáng tạo với hơn 3.800 startup, đứng thứ 3 Đông Nam Á. Việt Nam nằm trong nhóm 8 quốc gia thu nhập trung bình có chỉ số đổi mới sáng tạo GII cao, và liên tục được cải thiện, xếp thứ 44 toàn cầu năm 2024.
+Xếp hạng thứ 71 về chính phủ điện tử, tăng 15 bậc sau 2 năm gần đây.
+Kinh tế số đóng góp 18,3% GDP, tốc độ tăng trưởng gấp khoảng 3 lần tăng trưởng GDP. Việt Nam xếp thứ 41 về tỷ trọng kinh tế số trong GDP.
+Việt Nam xếp hạng 72 về viễn thông, tăng 36 bậc trong 6 năm liên tục. Nhóm 60 về hạ tầng dữ liệu. Xếp thứ 17 toàn cầu về an toàn, an ninh mạng.   
+Về tồn tại của KHCN, ĐMST và CĐS
+Thể chế pháp luật, cơ chế, chính sách về KHCN, ĐMST và CĐS đang là điểm nghẽn của điểm nghẽn, chưa giải phóng được các nguồn lực, nhất là thủ tục hành chính, phân cấp, phân quyền và chậm chấp nhận cái mới.
+Nghiên cứu, ứng dụng KHCN/ĐMST/CĐS chưa có bước đột phá. Chi KHCN còn thấp. Chưa làm chủ công nghệ chiến lược. Còn có khoảng cách xa so với nhóm các nước phát triển.
+Nhân lực chất lượng cao, nhân tài còn thiếu. Hạ tầng KHCN/ĐMST/CĐS chưa đồng bộ. An toàn, an ninh thông tin còn nhiều thách thức.
+Nhận thức các cấp, các ngành, người dân về KHCN/ĐMST/CĐS chưa tới, chưa đầy đủ và sâu sắc. Chưa toàn dân và toàn diện.
+Các tồn tại trên chủ yếu là do chúng ta chưa đặt trọng tâm vào đây nên chưa tập trung làm, chưa có cách làm đúng. Nhưng Nghị quyết 57 đã tạo ra sự đột phá về nhận thức, tạo tiền đề cho các đột phá thực thi. Mọi việc bắt đầu chuyển động đúng hướng.
+Về sự cần thiết phải đột phá
+Tăng trưởng truyền thống đã tới hạn, khó vượt qua được giới hạn 7%/năm. Nên phải chuyển từ mô hình tăng trưởng kinh tế truyền thống sang mô hình tăng trưởng dựa trên khoa học công nghệ, đổi mới sáng tạo và chuyển đổi số. Nó tạo ra quản trị quốc gia hiện đại, tạo ra năng suất, chất lượng, tạo ra độc lập, tự cường, giảm sự phụ thuộc vào các cú sốc toàn cầu.
+V. Về định hướng của Đảng, Nhà nước
+Các định hướng của Đảng và Nhà nước về KHCN/ĐMST/CĐS cơ bản được thể hiện tại Nghị quyết 57. Tinh thần chính là KHCN/ĐMST/CĐS của Việt Nam phải tiến tới trình độ tiên tiến của thế giới và đóng góp vào tăng trưởng kinh tế trên 50%.
+VI. Cách tiếp cận Việt Nam
+Mỗi quốc gia có văn hoá riêng, có ngữ cảnh riêng, có trình độ phát triển và chế độ khác nhau. Bởi vậy, tìm ra cách tiếp cận phù hợp là quan trọng hàng đầu. Chưa có 2 quốc gia nào hoá rồng theo cùng một cách giống nhau.
+Về sự lãnh đạo của Đảng
+Đảng lãnh đạo toàn diện sự nghiệp KHCN/ĐMST/CĐS của đất nước. Bởi vì đây là sự nghiệp lớn, đưa Việt Nam hoá Rồng. Đảng lãnh đạo để có tầm nhìn xa trông rộng, mang tính toàn cục, tập trung vào cốt lõi. Đảng lãnh đạo để phát huy lợi thế của chế độ trong việc tập trung sức mạnh của cả hệ thống chính trị để thực hiện những nhiệm vụ lớn.
+Thành lập Ban Chỉ đạo Trung ương về KHCN/ĐMST/CĐS. Tổng Bí thư Tô Lâm là Trưởng Ban chỉ đạo Trung ương. Thành lập ban chỉ đạo các cấp do người đứng đầu làm trưởng ban, tạo thành một hệ thống chỉ đạo thống nhất từ Trung ương đến địa phương. KHCN/ĐMST/CĐS trở thành công việc thường xuyên của các cấp uỷ Đảng.
+Đảng bố trí một tỷ lệ phù hợp cán bộ có chuyên môn, kinh nghiệm KHCN/ĐMST/CĐS vào cấp uỷ các cấp. Trước đến nay, một số nghị quyết thì tốt, thực thi chưa tốt có lý do là thiếu cán bộ lãnh đạo có chuyên môn.
+Nghị quyết khoán 10 về KHCN/ĐMST/CĐS
+Nghị quyết 57 của Bộ Chính trị về đột phá phát triển KHCN/ĐMST/CĐS được ban hành ngày 22/12/2024. Lấy ngày thành lập Quân đội là để lấy tinh thần quyết chiến, quyết thắng. Lấy ngày thành lập Quân đội là để coi sự nghiệp KHCN/ĐMST/CĐS đưa Việt Nam hoá Rồng cũng giống như sự nghiệp giải phóng dân tộc, sự nghiệp bảo vệ Tổ quốc. Vì mạnh lên là cách bảo vệ Tổ quốc tốt nhất, mạnh đến mức không ai dám đến xâm phạm để có hoà bình lâu dài.
+Tinh thần khoán 10 của Nghị quyết 57 là: Quản lý theo mục tiêu, không quản cách làm; trao quyền tự chủ và trách nhiệm cho người làm; chấp nhận rủi ro, đánh giá dựa trên hiệu quả tổng thể; người làm được hưởng lợi từ thành quả lao động và sáng tạo.
+Khoán 10 là để thoát nghèo. Nghị quyết 57 là để thoát bẫy thu nhập trung bình. Khoán 10 là để giải phóng sức lao động. Nghị quyết 57 là để giải phóng sức sáng tạo. Từ chỗ thiếu KHCN/ĐMST/CĐS, chúng ta sẽ tiến tới đủ, thừa, xuất khẩu và xuất khẩu lớn về KHCN/ĐMST/CĐS, giống như chúng ta đã làm được đối với nông nghiệp.
+Khoán rất hợp với văn hoá Việt Nam. Có thể chúng ta cũng cần các nghị quyết khoán cho các lĩnh vực khác.
+Phát triển phải hướng đến kết quả cuối cùng và đo lường được
+Phát triển KHCN/ĐMST/CĐS phải hướng đến mục tiêu cuối cùng là nâng cao năng lực cạnh tranh, đóng góp vào tăng trưởng kinh tế và cải thiện chất lượng cuộc sống người dân. Cụ thể, KHCN/ĐMST/CĐS lúc này phải hướng vào tăng năng lực quản trị quốc gia, hướng vào sản xuất, tăng năng suất lao động.
+Quản lý KHCN/ĐMST/CĐS thì đầu tiên phải đo lường được đóng góp của nó tới tăng trưởng kinh tế. Không đo lường, không đánh giá được thì không quản lý được, không thúc đẩy được và không biết được hiệu quả, rất dễ dẫn đến lãng phí. Nhiều quốc gia chi rất nhiều cho KHCN những vẫn không thoát được bẫy thu nhập trung bình, là do không hướng tới kết quả cuối cùng.
+KHCN nhiều năm qua tập trung vào chi mà chưa đo lường, đánh giá được đầu ra, chưa đánh giá được hiệu quả hoạt động KHCN. Sắp tới, chi nhiều hơn cho KHCN, cơ chế chi lại thông thoáng hơn thì càng cần đo lường hiệu quả đầu ra. Bộ KH&CN sẽ ban hành bộ tiêu chí đánh giá hiệu quả hoạt động KHCN/ĐMST/CĐS.
+Chuyển từ quản lý đầu vào sang quản lý đầu ra
+Đo lường được kết quả đầu ra của KHCM/ĐMST/CĐS mang tính quyết định để chúng ta chuyển đổi từ quản lý đầu vào sang quản lý đầu ra.
+Chuyển quản lý từ tiền kiểm sang hậu kiểm, chuyển từ quản lý đầu vào sang quản lý đầu ra (từ đếm hoá đơn chứng từ sang đếm kết quả nghiên cứu), từ quản lý quá trình sang quản lý mục tiêu, từ không chấp nhận rủi ro của từng dự án nghiên cứu sang đánh giá hiệu quả tổng thể của các dự án nghiên cứu và chấp nhận rủi ro của một dự án nghiên cứu.
+Chuyển từ chi rón rén cho KHCN/ĐMST/CĐS sang chi nhiều hơn (từ 1% ngân sách sang 3% ngân sách, từ 0,5% GDP sang 2-4% GDP), từ kiểm soát chi phí nghiên cứu sang khoán chi, từ trả lại kết quả nghiên cứu cho Nhà nước sang để lại cho cơ sở nghiên cứu để thương mại hoá, từ người nghiên cứu chỉ nhận được tiền công nghiên cứu sang người nghiên cứu được hưởng một phần kết quả thương mại, và giàu lên chính đáng.
+Nghiên cứu kinh nghiệm các nước chi nhiều cho KHCN mà vẫn thất bại trong vượt bẫy thu nhập trung bình thì đều là do không quản lý hướng tới đầu ra.
+Phát triển trong một hệ sinh thái
+Hệ sinh thái bao gồm môi trường, các chủ thể sống trong đó và sự tương tác, liên kết giữa chúng. Có hệ sinh thái thì mới có cùng phát triển, các chủ thể sẽ phát triển tốt hơn là đứng riêng rẽ, một chủ thể mạnh lên thì cả hệ sinh thái cùng hưởng lợi. Nhà nước phải tạo ra các hệ sinh thái để phát triển quốc gia. Hệ sinh thái là cách phát triển vừa nhanh vừa bền vững.
+Hệ sinh thái KHCN/ĐMST/CĐS phải hoàn chỉnh và cân bằng, bao gồm thể chế (thể chế số, thể chế ĐMST, thể chế KHCN), hạ tầng (hạ tầng số, hạ tầng ĐMST, hạ tầng KHCN), hệ thống giáo dục, đào tạo nhân lực (đặc biệt là nhân tài), nhà nước, viện trường, doanh nghiệp FDI và doanh nghiệp nội địa.
+Các nước thất bại trong phát triển KHCN/ĐMST/CĐS thì đều là các nước không có hệ sinh thái, hoặc có nhưng không cân đối, như lệch về FDI (Malaysia), hoặc lệch về viện trường (Brazil).
+Đặt trong bối cảnh CĐS
+Đặc điểm lớn nhất của thời đại chúng ta đang sống là CĐS. Phát triển KHCN/ĐMST phải đặt trong bối cảnh CĐS để phổ cập nhanh các ứng dụng mới. CĐS vừa là đất phát triển vừa là mục tiêu của KHCN/ĐMST.
+CMCN lần thứ tư là cuộc cách mạng số: 50% các công nghệ 4.0 là công nghệ số: Internet vạn vật, Dữ liệu lớn, Điện toán đám mây, Trí tuệ nhân tạo, Chuỗi khối, Thực tế ảo. 50% các công nghệ còn lại là dựa trên công nghệ số để phát triển. 70-80% ĐMST là ĐMST số. 82% các kỳ lân công nghệ (công ty công nghệ có giá trị thị trường trên 1 tỷ USD) là các kỳ lân công nghệ số.
+CĐS tạo ra dữ liệu, tài nguyên mới, nhưng chuyển tài nguyên này thành tiền, thành giá trị mới thì phải là KHCN/ĐMST.
+KHCN/ĐMST giúp Việt Nam làm chủ các công nghệ chiến lược và từ đó, làm chủ tiến trình CĐS, đảm bảo cho tiến trình này an toàn.
+Đảo chiều
+Cách tiếp cận truyền thống về làm KHCN là đi từ KH -> CN -> ĐMST -> CĐS, tức là đi từ trên Trời xuống Đất. Thường áp dụng cho các nghiên cứu cơ bản tại các nước đã phát triển, có hệ sinh thái NCPT lâu đời.
+Cách tiếp cận mới đi từ CĐS -> ĐMST -> CN -> KH. CĐS làm trước để tạo môi trường cho ĐMST. ĐMST tạo ra nhu cầu về làm chủ CN. Phát triển CN sẽ tạo ra bài toán cho nghiên cứu KH. Tức là đi từ dưới Đất lên Trời. Lấy thực tiễn và nhu cầu phát triển làm đầu vào cho nghiên cứu KHCN.
+Mối quan hệ 3 nhà, Nhà nước - Viện trường - Doanh nghiệp, cũng phải có thêm 1 chiều nữa là Doanh nghiệp - Viện trường - Nhà nước. Doanh nghiệp thực hiện ĐMST sẽ phát sinh nhu cầu về KHCN, thì chủ động mang bài toán, vấn đề của mình tìm đến viện trường và hợp tác với viện trường. Nhà nước sẽ hỗ trợ mối quan hệ này.
+Kinh nghiệm không thành công về phát triển KHCN/ĐMST/CĐS của các nước đều cho thấy nghiên cứu KHCN thiếu chiều đi từ thực tiễn.
+KHCN/ĐMST/CĐS Việt Nam tập trung vào giải quyết các bài toán lớn của Việt Nam
+KHCN/ĐMST/CĐS phải tập trung vào giải quyết các bài toán lớn của đất nước, như tăng trưởng 2 con số; tinh gọn bộ máy; vấn đề của 2 đô thị siêu nén Hà Nội  và TPHCM; tăng trưởng chất lượng cao; làm chủ công nghệ chiến lược; ô nhiễm môi trường,...
+Bài toán vĩ đại, việc vĩ đại của đất nước, do Đảng đặt ra, sẽ tạo ra KHCN/ĐMST/CĐS xuất sắc, tạo ra con người xuất sắc và tạo ra nhân tài cho Đảng. KHCN thời gian qua chưa có sự phát triển bứt phá vì chưa có bài toán lớn được đặt ra, được định nghĩa rõ ràng, được lượng hoá và được giao vào các địa chỉ cụ thể.
+Bài toán quốc gia phải đủ lớn thì mới dẫn đến thuê Tây làm cho Ta, lấy được tinh hoa và nhân tài toàn cầu. Đây chính là cách mà các nước Trung Đông đã làm thành công, thuê được cả thế giới làm thuê cho mình, vì họ có những giấc mơ lớn và tất nhiên, có tiền nữa.
+Tinh gọn bộ máy phải đi với đổi mới quản trị quốc gia
+KHCN/ĐMST/CĐS tạo ra công nghệ mới, động cơ mới (cách quản trị mới), nhưng phải thiết kế lại khung xe (bộ máy mới) thì mới tạo ra chiếc xe mới chạy nhanh hơn.
+Nếu chỉ tinh gọn bộ máy mà không thay đổi quản trị thì dẫn đến thiếu người làm, thiếu công cụ, hiệu quả giảm. Nếu chỉ thay đổi cách làm mà không tinh gọn bộ máy thì vẫn chồng chéo, vẫn lãng phí, trì trệ cũ vẫn tồn tại, công nghệ mới đưa vào không chạy được. Nếu kết hợp cả hai thì bộ máy nhỏ hơn nhưng hiệu lực, hiệu quả và hiệu năng hơn. Bởi vậy, tinh gọn bộ máy là điều kiện cần, nhưng thay đổi quản trị quốc gia và công nghệ mới là điều kiện đủ để cuộc cách mạng tinh gọn bộ máy thành công. Và 2 việc này phải đi song song, không có cái trước, cái sau.
+Đổi mới quản trị quốc gia thì chủ yếu là, thứ nhất, ra quyết định dựa trên dữ liệu, thời gian thực; thứ hai, phân cấp, phân quyền linh hoạt, rõ trách nhiệm; thứ ba, tổ chức vận hành theo chức năng thay vì địa giới hành chính; và thứ tư, Nhà nước đóng vai trò kiến tạo, dẫn dắt, không ôm hết, không làm hết, mà thuê doanh nghiệp làm.
+Về cách làm: Tái cấu trúc quy trình quản lý, đẩy nhanh CĐS toàn diện và toàn dân, thiết lập nền tảng dữ liệu lớn và liên thông để quản lý tập trung.
+Về kinh nghiệm quốc tế: Estonia là chính phủ số toàn diện; Singapore là quản lý theo kết quả; Hàn quốc là tự động hoá dịch vụ công và tích hợp bộ đa ngành.
+Công nghệ, ĐMST và CĐS lúc này có nhiệm vụ trọng tâm là tạo ra các công cụ, ứng dụng, quy trình, mô hình để giúp quá trình đổi mới quản trị quốc gia thành công.
+ĐMST và CĐS hỗ trợ chính quyền cấp xã
+Thí dụ bỏ huyện thì việc của xã tăng từ 10 lên 13, làm cho xã quá tải. Vậy phải đổi mới quản trị (tức là ĐMST) và dùng công nghệ số (tức là CĐS) để đỡ cho xã 4-5 việc. Xã còn 8-9 việc thì xã sẽ tốt lên rất nhiều.
+Chúng ta có thể thiết kế lại các việc của xã để chia làm 3 loại: loại 1 là những việc cứng phải xử lý tại xã, phải gần dân (như QPAN, quản lý đất đai, xây dựng, tư pháp); loại 2 là những việc có thể làm tập trung tại tỉnh, như những việc hành chính, đã có CSDL, đã có định dạng, có tính lặp lại, mẫu hoá cao, xử lý tập trung, không cần cán bộ xã xác minh thực địa, đó là hầu hết các dịch vụ công, các báo cáo định kỳ, dự toán thu chi thường xuyên, xác nhận hộ nghèo mà tỉnh đã có dữ liệu, đây là những việc có thể tự động hoá và làm tập trung được; loại 3 là các việc mà xã có thể thuê ngoài (như xử lý rác, chăm sóc cây xanh, quản lý nhà văn hoá, thư viện, vận hành hệ thống đèn đường, chiếu sáng,...). Và ngoài ra, chúng ta sẽ phát triển một trợ lý ảo để hỗ trợ chuyên môn cho cán bộ, công, viên chức cấp xã.
+Với đổi mới quản trị và CĐS như trên thì việc của xã sẽ giảm đi và người của xã sẽ tập trung vào làm tốt nhất các việc gần dân.
+Giao nhiệm vụ tăng trưởng GDP cho ngành KHCN/ĐMST/CĐS
+Việt Nam tăng trưởng GDP 10% thì KHCN/ĐMST/CĐS phải đóng góp trên 5%. Phát triển dựa trên KHCN/ĐMST/CĐS là chính thì tăng trưởng chính phải dựa trên KHCN/ĐMST/CĐS. Trong 5% tăng trưởng GDP của giai đoạn 2026-2030, ĐMST phải đóng góp 3%, CĐS 1-1,5% và KHCN 1%.
+Lúc này, tác động tới tăng trưởng kinh tế thì ĐMST 60%, CĐS 25% và KHCN 15%.
+Việc lượng hoá tăng trưởng GDP của đất nước thành cụ thể cho các ngành, các địa phương sẽ làm cho bài toán tăng trưởng 2 con số khả thi hơn, biết cách làm hơn. Trước đến nay, chúng ta ít làm việc này, kể cả giao mục tiêu tăng trưởng cho từng tỉnh thì cũng gần đây mới giao.
+Bộ KH&CN tính toán từng lĩnh vực ĐMST, CĐS, KHCN tác động như thế nào tới tăng trưởng GDP, từ đó biết cách chi vào đâu, hỗ trợ vào đâu, kích thích vào đâu để có hiệu quả.
+Nhà nước mồi và kéo theo xã hội hoá
+Nhà nước chi 3% ngân sách nhà nước cho KHCN/ĐMST/CĐS thì cả xã hội phải chi 2,5-3% GDP. Tức là 1 đồng nhà nước phải kéo theo 3-4 đồng của doanh nghiệp. Doanh nghiệp mà chi thì thường là tác động thẳng vào tăng trưởng kinh tế, sẽ rất hiệu quả. Các nước thất bại trong phát triển KHCN/ĐMST/CĐS đều là các nước không đạt được tỷ lệ kéo này, mặc dù nhà nước chi nhiều.
+Cách làm là hướng các tài trợ, hỗ trợ của Nhà nước nhiều hơn vào khu vực các doanh nghiệp, thay vì chỉ tài trợ, hỗ trợ cho khối viện trường. Công thức đồng tài trợ nhà nước/doanh nghiệp thường là 25/75. Trong khi tài trợ cho các viện trường thì thường là 100%.
+Thí dụ, cách kéo doanh nghiệp chi cho đầu tư đổi mới công nghệ hiệu quả nhất là hỗ trợ lãi suất vay. Doanh nghiệp đầu tư đổi mới công nghệ 100 đồng, đi vay ngân hàng lãi suất 6%, mỗi năm phải trả lãi 6 đồng. Nhà nước hỗ trợ 50% lãi suất vay, tức là 3 đồng/năm, thường cũng chỉ 1-3 năm đầu. Nhà nước chỉ hỗ trợ khoảng 5% tổng giá trị đầu tư nhưng doanh nghiệp sẽ rất hào hứng. Chính những khoản đầu tư đổi mới công nghệ này sẽ làm tăng năng suất lao động, tăng công suất đầu ra, đóng góp ngay vào tăng trưởng GDP, Nhà nước thu thuế tăng. 
+Về làm chủ công nghệ chiến lược, công nghiệp chiến lược
+Chưa có quốc gia phát triển nào mà không làm chủ công nghệ chiến lược và công nghiệp chiến lược, không tự chủ, tự cường về công nghệ.
+Xác định đúng các công nghệ chiến lược và các ngành công nghiệp chiến lược để tập trung đầu tư, phát triển có ý nghĩa quyết định. Bộ KH&CN sẽ trình Chính phủ ban hành danh sách các công nghệ chiến lược.
+Công nghệ chiến lược của Việt Nam tập trung vào công nghệ blockchain để phát triển tài sản ảo, tiền ảo để mở rộng khái niệm vốn, vào công nghệ robot để tăng lao động, vào công nghệ AI để tăng tri thức. Đây sẽ là 3 công nghệ chiến lược quan trọng nhất, tập trung vào 3 yếu tố của tăng trưởng là: Vốn, lao động và TFP.
+Nhà nước sẽ giao các doanh nghiệp lớn, không phân biệt Nhà nước hay tư nhân, phát triển các sản phẩm chiến lược, công nghiệp chiến lược và công nghệ chiến lược. Chúng ta đã có những thành công bước đầu, như VinGroup làm ô tô, Viettel làm thiết bị viễn thông, radar, tên lửa.
+Làm chủ công nghệ sẽ đi từ làm chủ sản phẩm, làm chủ thiết kế sản phẩm. Đây là giai đoạn trung gian quan trọng để tiến tới làm chủ công nghệ lõi.
+Cách hỗ trợ tốt nhất của Nhà nước cho phát triển công nghệ chiến lược là hỗ trợ đầu vào theo nguyên tắc 25/75 (Nhà nước hỗ trợ doanh nghiệp 25% chi phí nghiên cứu phát triển công nghệ chiến lược), và hỗ trợ đầu ra bằng cách Nhà nước là hộ tiêu dùng đầu tiên của sản phẩm chiến lược.
+Tạo ra tinh thần ĐMST trong toàn dân
+Bộ Chính trị đã giao Bộ KH&CN viết đề án Quốc gia khởi nghiệp, nội dung chính của nó là hình thành tinh thần ĐMST trong toàn dân, đưa ĐMST trở thành lối sống, phong cách sống của mọi người dân, mọi tổ chức. Xây dựng văn hoá ĐMST, khuyến khích khám phá, khoan dung thất bại.
+KHCN mang lại giá trị thực tiễn nhiều hay ít là do ĐMST. ĐMST có thể tận dụng được thành tựu KHCN của toàn cầu, khi đó, cây gậy thần ĐMST có thể đưa công nghệ của toàn cầu chạm được nhiều hơn vào thực tiễn Việt Nam. Giai đoạn này, ưu tiên nhiều hơn cho ĐMST để phát triển nhanh đất nước.
+KHCN cơ bản giống nhau giữa các quốc gia, nhưng ĐMST thì rất khác nhau. ĐMST tạo ra năng lực cạnh tranh quốc gia, đóng góp trực tiếp vào tăng trưởng kinh tế nhiều hơn là KHCN, ít nhất là đối với các nước đang phát triển. Làm chủ công nghệ lõi lúc này với chúng ta còn khó, nhưng ứng dụng sáng tạo CN lõi vào giải các bài toán Việt Nam để Việt Nam phát triển thì lại khả thi.
+Người Việt Nam có 2 sức mạnh quan trọng: Tư duy STEM (Khoa học, Công nghệ, Kỹ thuật, Toán học) tốt nên làm khoa học và công nghệ tốt; năng lực vận dụng tốt nên làm ĐMST tốt. Đây đều là những năng lực cốt lõi của thời KHCN/ĐMST/CĐS.
+ĐMST là động lực phát triển, thúc đẩy đổi mới chính là thúc đẩy phát triển, hoạch định đổi mới là hoạch định tương lai. Đổi mới hoạt động KHCN để hướng vào giải quyết các bài toán lớn của quốc gia.
+Dùng tiêu chuẩn hoá để dẫn dắt
+Tiêu chuẩn là công cụ quan trọng, là động lực thúc đẩy phát triển KHCN, ĐMST và CĐS. Quốc gia muốn phát triển theo hướng nào thì dùng tiêu chuẩn để dẫn dắt quốc gia theo hướng đó. Muốn CĐS thì làm tiêu chuẩn về CĐS. Muốn phát triển ĐMST thì làm tiêu chuẩn về ĐMST. Muốn phát triển KHCN thì thông qua tiêu chuẩn về KHCN. Muốn nâng cao năng lực quản trị quốc gia thì làm tiêu chuẩn về quản trị quốc gia. Muốn phát triển chất lượng cao thì làm tiêu chuẩn về phát triển chất lượng cao,...
+Lĩnh vực tiêu chuẩn nhiều năm qua chưa hướng vào phục vụ phát triển. Làm xong tiêu chuẩn là như gần xong đề bài giao cho KHCN/ĐMST/CĐS.
+Sở hữu trí tuệ tạo ra thị trường KHCN/ĐMST
+Một quốc gia sẽ đẩy mạnh sở hữu trí tuệ (SHTT) khi GDP/người bắt đầu 3-4.000 USD, và bắt đầu định hướng phát triển dựa trên KHCN/ĐMST. SHTT là biến kết quả nghiên cứu thành tài sản để có thể giao dịch, khi đó mới có thị trường KHCN/ĐMST. Không có SHTT thì KHCN/ĐMST không thể trở thành động lực phát triển.
+Một quốc gia không phát triển KHCN/ĐMST thì có thể để việc vi phạm SHTT tràn lan. Việt Nam đã đến lúc phải làm tốt SHTT để phát triển KHCN/ĐMST. Chuyển dịch quan trọng nhất của SHTT là chuyển từ bảo vệ quyền sang tài sản hoá, thị trường hoá, thương mại hoá các kết quả nghiên cứu.
+Về 6 nguyên tắc triển khai
+Một là, đặt mục tiêu cao để tìm ra giải pháp, cách làm đột phá, để tìm ra người tài, để tạo ra sự phát triển bứt phá.
+Hai là, các nhiệm vụ phải được lượng hoá thành mục tiêu, chỉ tiêu cụ thể.
+Ba là, giao nhiệm vụ cho người đứng đầu trực tiếp phụ trách. Bố trí đủ cán bộ có chuyên môn, kinh nghiệm KHCN/ĐMST/CĐS vào các cấp lãnh đạo.
+Bốn là, nhiệm vụ sẽ đi kèm phân bổ nguồn lực phù hợp.
+Năm là, xây dựng công cụ đo lường trực tuyến kết quả thực hiện theo tháng, quý, năm, định kỳ đánh giá và công bố công khai.
+Sáu là, kết quả thực hiện là cơ sở để đánh giá mức độ hoàn thành nhiệm vụ của cán bộ, đặc biệt là với người đứng đầu.
+VII. Giải pháp cho một số nhiệm vụ lớn trước mắt
+Phổ cập dịch vụ công trực tuyến toàn trình cấp tỉnh
+Thay vì Nhà nước làm toàn bộ thì kết hợp công tư. Hợp tác công tư là cái gì công giỏi thì công làm, cái gì tư giỏi thì tư làm. Hợp tác công tư là cộng được 2 cái tốt để tạo thành dịch vụ tốt nhất cho người dân.
+Doanh nghiệp đầu tư, vận hành hệ thống CNTT, nhận và trả kết quả, liên tục cải tiến phần mềm phù hợp với môi trường số, người dân và công chức xử lý hồ sơ là khách hàng của hệ thống. Doanh nghiệp được thanh toán dựa trên số lượng hồ sơ được xử lý trực tuyến toàn trình nên sẽ phục vụ tốt nhất để có nhiều người dùng. Với cách tiếp cận này thì tỷ lệ DVCTT sẽ tăng từ dưới 15% (sau 25 năm) lên 70% trong 1-2 năm.
+Các bộ ngành và địa phương hoạt động online và dựa trên dữ liệu
+Cách tiếp cận giống như cung cấp DVCTT, Nhà nước thuê doanh nghiệp cung cấp dịch vụ trung tâm điều hành thông minh dựa trên dữ liệu. Chính quyền liên tục đặt ra các bài toán mới về hoạt động online và dựa trên dữ liệu để làm tốt công việc quản lý, điều hành của mình, doanh nghiệp liên tục cải tiến phần mềm, sử dụng các công nghệ mới nhất (AI, IoT) để đáp ứng. Chính quyền vì thế mà thông minh lên từng ngày.
+Phát triển thêm 1 triệu doanh nghiệp
+Việt Nam có 5 triệu hộ kinh doanh, các hộ này ngại chuyển thành doanh nghiệp vì cái được thì chưa đủ hấp dẫn, khó khăn thì thấy ngay, như không biết làm kế toán, khai thuế, không biết hoá đơn điện tử, không biết marketing, không có lịch sử tín dụng để vay vốn, không có kiến thức pháp lý. Tuyển nhân viên làm những việc này thì quá tốn kém và phức tạp.
+Giải pháp là: Xây dựng một nền tảng số doanh nghiệp siêu nhỏ hỗ trợ kế toán online, thuế online, marketing online trên điện thoại di động, không phải tuyển lao động làm những việc này, vay vốn dựa trên VNeID, doanh số bán hàng, có Chatbot AI hỗ trợ 24/7, có thể hỏi bất kỳ cái gì về doanh nghiệp siêu nhỏ và bất kỳ lúc nào.
+Bên cạnh công nghệ là đổi mới thể chế về doanh nghiệp siêu nhỏ, doanh nghiệp 1 người, đơn giản hoá thủ tục thành lập, giải thể, miễn kiểm tra, thanh tra 2 năm đầu chuyển đổi.
+Giải quyết các vấn đề của 2 đô thị siêu nén Hà Nội và TPHCM
+Giải quyết các vấn đề của đô thị lớn thì khó nhất là phải thử nhiều phương án để tìm phương án tối ưu, nhưng thử thì tốn kém và mất thời gian. Nếu có thể mô phỏng thì việc thử các phương án sẽ rất nhanh và hiệu quả
+Lời giải ở đây là đầu tư bản sao số của thành phố, có thể chưa cần mô phỏng cả thành phố, mà trước mắt tập trung vào các bài toán như quy hoạch, thoát nước, tắc đường. Chi phí không phải quá lớn đối với 1 thành phố lớn. Thí dụ, Singapore chi 73 triệu USD để tạo ra một bản sao số 3D chi tiết của cả đất nước Singapore, hỗ trợ cho quy hoạch đô thị và quản lý tài nguyên. 

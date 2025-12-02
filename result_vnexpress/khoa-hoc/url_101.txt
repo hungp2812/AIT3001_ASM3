@@ -1,0 +1,10 @@
+
+Mô hình AI dự đoán vị trí người mất tích 
+Scotland
+Đại học Glasgow phát triển mô hình AI mô phỏng hành vi của người mất tích ngoài trời, hỗ trợ đội cứu hộ tìm kiếm hiệu quả hơn.
+Mô hình được xây dựng dựa trên những báo cáo về hành động của người bị lạc và tạo ra một bản đồ nhiệt xác suất cho thấy nơi có thể tìm thấy họ trong nhiều cảnh quan khác nhau, TechXplore hôm 11/4 đưa tin. Nhóm nghiên cứu hy vọng, mô hình mới có thể dẫn đến việc phát triển một phương pháp hiệu quả giúp đội cứu hộ lựa chọn nơi tập trung tìm kiếm. Nghiên cứu mới xuất bản trên tạp chí IEEE Access.
+Theo Jan-Hendrik Ewers, nghiên cứu sinh tiến sĩ tại Trường Kỹ thuật James Watt thuộc Đại học Glasgow và tác giả chính của nghiên cứu, ông cùng đồng nghiệp đã tìm hiểu nhiều nghiên cứu cũ về cách người bị lạc hành động trong những tình huống thực tế.
+Quá trình này giúp họ tạo ra các tác nhân AI - người mô phỏng với hành vi được chi phối bởi những thuật toán và mô hình phụ. Mỗi tác nhân được thiết kế với một mục tiêu cụ thể như tìm kiếm nước, cây cối, tòa nhà hoặc đường sá. Các tác nhân mô phỏng quyết định sẽ đi đâu dựa trên một số yếu tố như vị trí hiện tại và liệu địa hình ưa thích của mình có trong tầm nhìn hay không.
+Để kiểm tra, nhóm nghiên cứu đưa các tác nhân AI - đóng vai người mất tích - vào nhiều vị trí khác nhau trên một bản đồ kỹ thuật số của đảo Arran, hòn đảo nằm ngoài khơi bờ biển phía tây Scotland. Họ ngạc nhiên khi thấy bản đồ phân bố xác suất rất khớp với dữ liệu thực tế về nơi thường tìm thấy người mất tích. Điều này cho thấy các tác nhân AI hành động tương tự người thật, và mô hình AI mới sẽ là công cụ hữu ích cho những nhiệm vụ tìm kiếm cứu hộ trong tương lai.
+"Một trong những lợi thế của phương pháp mô hình hóa tâm lý để tìm kiếm người mất tích là nó có thể áp dụng cho bất kỳ cảnh quan nào. Điều này đồng nghĩa, nó sẽ giúp ích cho các đội tìm kiếm cứu hộ trên khắp thế giới, bất kể họ đang làm việc ở vùng núi, rừng rậm hay sa mạc", David Anderson, giáo sư tại Trường Kỹ thuật James Watt, đồng tác giả nghiên cứu, cho biết.
+Thu Thảo (Theo TechXplore)

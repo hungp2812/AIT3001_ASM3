@@ -1,0 +1,27 @@
+Apple cạnh tranh với SpaceX của Elon Musk trong cuộc đua kết nối vệ tinh
+Apple và SpaceX đang triển khai các tính năng vệ tinh cạnh tranh, cho phép người dùng điện thoại thông minh gửi tin nhắn ngay cả khi ngoài vùng phủ sóng di động và Wi-Fi.
+Theo báo cáo, SpaceX đã cố gắng trì hoãn nỗ lực mở rộng vệ tinh của Apple. Vào năm ngoái, Apple cam kết đầu tư 1,5 tỷ USD vào đối tác vệ tinh Globalstar để mở rộng cơ sở hạ tầng hỗ trợ các tính năng vệ tinh tích hợp trên iPhone.
+Tuy nhiên, đầu tháng này, SpaceX đã yêu cầu Ủy ban Truyền thông Liên bang Mỹ (FCC) bác bỏ đơn xin mở rộng của Globalstar. SpaceX cho rằng các vệ tinh của Globalstar sẽ chiếm dụng độc quyền băng tần 1,6GHz và 2,4GHz trước khi FCC quyết định các quy định có thể cho phép các nhà khai thác vệ tinh khác sử dụng các băng tần này.
+SpaceX mong muốn có quyền truy cập chung vào các băng tần này, trong khi Globalstar lo ngại rằng điều này sẽ gây nhiễu và ảnh hưởng đến chất lượng các tính năng vệ tinh trên iPhone.
+Mặc dù có mâu thuẫn, Globalstar vẫn tiếp tục trả tiền cho SpaceX để phóng thêm vệ tinh.
+Báo cáo cũng cho biết, Apple và SpaceX đã có những cuộc thảo luận "căng thẳng" về việc tích hợp tính năng nhắn tin vệ tinh của Starlink trên các mẫu iPhone mới hơn. Tuy nhiên, cuối cùng hai công ty đã đạt được thỏa thuận.
+Theo tài liệu của Apple, iPhone sẽ hiển thị ký hiệu "SAT" trên thanh trạng thái khi sử dụng tính năng vệ tinh từ nhà mạng, như Starlink thông qua T-Mobile.
+Dù hợp tác, Apple vẫn duy trì quyền kiểm soát cách thức hoạt động của các tính năng vệ tinh trên iPhone, đảm bảo trải nghiệm người dùng phù hợp với hệ sinh thái của hãng.
+Dịch vụ Starlink qua T-Mobile hiện đang trong giai đoạn beta và miễn phí, nhưng sẽ chuyển sang dịch vụ trả phí vào tháng 7 cho cả người dùng iPhone và Android.
+Cuối cùng, báo cáo cho biết Apple đã đàm phán với các công ty vệ tinh khác như Boeing, EchoStar và thậm chí SpaceX trong những năm qua. Tuy nhiên, tính đến nay, các tính năng vệ tinh tích hợp trên iPhone vẫn chỉ được cung cấp độc quyền bởi Globalstar.
+Trong một tuyên bố phản hồi, Apple cho biết các tính năng vệ tinh của họ được "thiết kế để bổ trợ cho các dịch vụ của nhà mạng, mang lại cho người dùng nhiều cách kết nối hơn" và nhấn mạnh rằng các tính năng này đã "giúp cứu sống nhiều người".
+Ban đầu, tính năng vệ tinh tích hợp trên iPhone chỉ hỗ trợ liên lạc khẩn cấp, nhưng iOS 18 đã bổ sung khả năng gửi và nhận iMessage cũng như SMS qua vệ tinh.
+Người dùng iPhone cũng có thể cập nhật vị trí trong ứng dụng Find My và yêu cầu hỗ trợ bên đường qua vệ tinh. Các tính năng này hiện chỉ có sẵn tại Mỹ, với phạm vi hỗ trợ có thể khác nhau ở các quốc gia khác và vẫn được cung cấp miễn phí.
+Tính năng vệ tinh do Apple và nhà mạng cung cấp được hỗ trợ trên tất cả các mẫu iPhone 14, iPhone 15 và iPhone 16, miễn là thiết bị chạy phiên bản iOS mới nhất. 
+SpaceX giành lợi thế?
+SpaceX có lợi thế rõ ràng với hơn 6.000 vệ tinh Starlink đang hoạt động, trong khi Apple chỉ phụ thuộc vào mạng lưới nhỏ hơn của Globalstar.
+Quy mô lớn của Starlink giúp SpaceX cung cấp phủ sóng rộng hơn và kết nối ổn định hơn so với hệ thống hạn chế của Globalstar, mang lại lợi thế về khả năng tiếp cận người dùng.
+SpaceX và T-Mobile đã công bố kế hoạch cung cấp dịch vụ nhắn tin vệ tinh cho mọi điện thoại, không yêu cầu phần cứng đặc biệt. Dịch vụ này dự kiến sẽ ra mắt chính thức vào mùa hè 2025 tại Mỹ.
+Trong khi đó, Apple giới hạn tính năng vệ tinh trên iPhone, như Emergency SOS và nhắn tin, qua phần mềm và phần cứng riêng biệt, chỉ hợp tác với Globalstar.
+Một điểm mạnh của Starlink là khả năng nhắn tin mà không cần người dùng phải hướng điện thoại lên trời, khác với hệ thống của Globalstar, yêu cầu thao tác thủ công.
+Sự tiện lợi này giúp SpaceX thu hút được người dùng phổ thông hơn so với giải pháp của Apple, vốn chỉ giới hạn ở các tình huống khẩn cấp hoặc nhắn tin cơ bản.
+Ngoài ra, SpaceX đã lên kế hoạch mở rộng dịch vụ từ nhắn tin sang gọi điện và truyền dữ liệu qua vệ tinh trong tương lai gần, điều mà Elon Musk đã xác nhận trên X vào ngày 29/1.
+Trong khi đó, Apple vẫn tập trung vào các tính năng cơ bản như nhắn tin khẩn cấp và hỗ trợ bên đường, chưa có dấu hiệu rõ ràng về dịch vụ dữ liệu toàn diện.
+Rõ ràng, SpaceX đang chiếm ưu thế nhờ mạng lưới vệ tinh rộng lớn, công nghệ tiên tiến và chiến lược hợp tác linh hoạt với các nhà mạng, cùng với áp lực pháp lý.
+Nếu Apple không mở rộng nhanh chóng hoặc tìm thêm đối tác vệ tinh, họ có thể bị SpaceX bỏ xa trong cuộc đua này.
+(Tổng hợp)

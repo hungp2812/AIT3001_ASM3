@@ -1,0 +1,13 @@
+
+CEO Google: Vibe coding khiến phát triển phần mềm hấp dẫn hơn 
+CEO Google Sundar Pichai cho rằng các công cụ AI hỗ trợ lập trình sẽ khiến công việc này hấp dẫn và dễ tiếp cận với nhiều người hơn trước đây.
+"Vibe coding giúp công việc lập trình, phát triển phần mềm thú vị hơn rất nhiều. Mọi thứ dễ tiếp cận hơn, sức hấp dẫn cũng tăng lên, điều tuyệt vời nhất là mọi chuyện sẽ ngày càng tốt đẹp hơn", CEO Google Sundar Pichai cho biết trong cuộc phỏng vấn được công bố hôm 28/11.
+Vibe coding là thuật ngữ có từ lâu để chỉ phong cách "viết code theo cảm tính", không chú trọng cấu trúc hay chi tiết, miễn sản phẩm hoạt động được. Trong bối cảnh AI bùng nổ, vibe Coding được dùng để chỉ quá trình xây dựng phần mềm với sự trợ giúp của AI.
+Người dùng sử dụng ngôn ngữ tự nhiên để mô tả chức năng của phần mềm, thay vì gõ từng dòng mã cụ thể. AI sẽ tạo mã nguồn dựa trên mô tả đó và chỉnh sửa theo yêu cầu cho đến khi đạt kết quả mong muốn. Trong nhiều trường hợp, người dùng không cần hiểu chi tiết về lập trình, chỉ quan tâm phần mềm có hoạt động được hay không, giao diện hoặc trải nghiệm tổng thể đã ổn chưa.
+Pichai cho rằng mạng Internet từng giúp nhiều blogger thành nhà văn, YouTube cũng làm điều tương tự với các nhà sáng tạo nội dung và vibe coding cũng sẽ giúp những nhân lực ngoài ngành công nghệ tiếp cận với sự nghiệp lập trình.
+Ngày càng nhiều nhân lực ngoài công nghệ, như kế toán và nhân sự, dùng công cụ AI như ChatGPT, Gemini, Claude và Replit để lập trình ứng dụng cho chính mình.
+CEO Google nhấn mạnh vibe coding giúp họ trực tiếp hiện thực hóa ý tưởng, ngay cả khi không đủ trình độ để lập trình. "Trong quá khứ, họ phải mô tả ý tưởng. Giờ đây, chỉ cần vibe code một chút và cho mọi người xem thành quả", ông nói.
+Vibe coding cũng mang đến những cơ hội mới trong chính các doanh nghiệp công nghệ. Các quản lý sản phẩm của Meta đã áp dụng phương thức này để phát triển nhiều nguyên mẫu ứng dụng và trình bày cho CEO Mark Zuckerberg. Tại Google, Pichai nói rằng số người lần đầu nộp bản chỉnh sửa mã lập trình đã tăng vọt.
+Dù vậy, ông cũng thừa nhận vẫn còn nhiều nguy cơ tiềm ẩn khi giao việc lập trình cho AI. "Tôi chưa tham gia các dự án xây dựng cơ sở mã nguồn quy mô lớn, trong đó mọi thứ phải hoàn chỉnh và có đủ biện pháp bảo mật. Những người tham gia các dự án này nên đóng góp ý kiến", ông cho hay.
+Giới lập trình nhận định vibe coding phù hợp nhất cho các hoạt động thử nghiệm ít rủi ro, không dành cho những phần mềm cốt lõi có nguy cơ bị tấn công. Pichai cho rằng vibe coding sẽ ngày càng gây ấn tượng và đóng vai trò quan trọng với tương lai công nghệ, nhất là khi các công nghệ đi kèm được cải thiện. "Tôi mong đợi được xem những gì mà mọi người trên thế giới có thể làm được với nó", ông nói.
+Điệp Anh (Theo Business Insider)

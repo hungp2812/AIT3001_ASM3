@@ -1,0 +1,26 @@
+3 cách tra cứu mã số thuế cá nhân nhanh nhất năm 2025
+Chỉ cần nhớ số căn cước công dân (CCCD), người dân có thể tra cứu mã số thuế cá nhân online nhanh nhất theo các cách dưới đây.
+Bước 1: Truy cập vào trang Thuế điện tử của Tổng cục Thuế tại địa chỉ https://thuedientu.gdt.gov.vn/
+Bước 2: Chọn mục Cá nhân.
+Bước 3: Chọn Tra cứu thông tin NNT.
+Bước 4: Nhập số CCCD và mã xác nhận. Sau đó nhấn Tra cứu.
+Bước 5: Xem kết quả tra cứu mã số thuế cá nhân.
+Bước 1: Truy cập vào mục Tra cứu, trang thông tin của Tổng cục Thuế tại địa chỉ http://tracuunnt.gdt.gov.vn/tcnnt/mstcn.jsp
+Bước 2: Nhập số CCCD
+Tại mục Thông tin về người nộp thuế TNCN, chỉ cần nhập số CCCD của mình vào ô Số chứng minh thư/Thẻ căn cước.
+Bước 3: Nhập mã xác nhận.
+Lưu ý ở phần Mã xác nhận có phân biệt chữ hoa và chữ thường nên cần điền đúng và đủ mã số theo hình bên cạnh.
+Bước 4: Nhấn nút Tra cứu
+Sau khi nhập chính xác mã xác nhận, nhấn nút Tra cứu và xem kết quả. 
+Kết quả trả về sẽ hiển thị các thông tin: Mã số thuế, tên người nộp thuế, cơ quan thuế, Số CMT/thẻ căn cước, ngày thay đổi thông tin gần nhất, ghi chú,... như hình dưới đây:
+Với trang TracuuMST, người dùng dễ dàng tìm mã số thuế cá nhân bằng số CCCD chỉ qua các thao tác đơn giản.
+Lưu ý: Việc tra cứu mã số thuế cá nhân thông qua website này tiềm ẩn nguy cơ rò rỉ thông tin cá nhân, do đây không phải trang web chính thống của cơ quan nhà nước. Vì thế, người dùng cần cân nhắc trước khi sử dụng cách này.
+Bước 1: Truy cập vào website tracuumst.com
+Bước 2: Chọn mục Mã số thuế cá nhân
+Bước 3: Nhập vào số CMND/CCCD và điền kết quả phép tính để xác nhận.
+Bước 4: Nhấn Tra cứu 
+Bước 5: Hệ thống trả kết quả mã số thuế cá nhân.
+Bấm Xem chi tiết để biết đầy đủ các thông tin liên quan: Họ và tên người nộp thuế; mã số thuế cá nhân; địa chỉ thường trú; người đại diện; ngày hoạt động; đon vị thuế quản lý; tình trạng hoạt động của mã số thuế...
+Mã số thuế là một dãy số gồm 10 chữ số hoặc 13 chữ số và ký tự khác do cơ quan thuế cấp cho người nộp thuế dùng để quản lý thuế, theo Khoản 5 Điều 3 Luật Quản lý thuế 2019.
+Như vậy, mã số thuế cá nhân là một mã số thuế gồm 10 chữ số hoặc 13 chữ số và ký tự khác do cơ quan thuế cấp cho người nộp thuế dùng để quản lý thuế. Mã số thuế cá nhân là mã số duy nhất để cá nhân sử dụng với mục đích kê khai mọi khoản thu nhập của mình.
+Mã số thuế cá nhân là thông tin quan trọng, trong nhiều trường hợp cần phải sử dụng để thực hiện các thủ tục hành chính. Nhưng nếu quên, người dân có thể dễ dàng tra cứu online.

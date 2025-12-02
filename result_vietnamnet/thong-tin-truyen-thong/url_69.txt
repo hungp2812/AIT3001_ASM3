@@ -1,0 +1,18 @@
+Cách đặt ChatGPT làm công cụ tìm kiếm mặc định trên Safari
+Người dùng có thể đặt ChatGPT làm công cụ tìm kiếm mặc định trong trình duyệt Safari, từ iOS 18.1, giúp việc tìm kiếm trở nên liền mạch và thuận tiện hơn.
+ChatGPT là một mô hình trí tuệ nhân tạo (AI) dạng chatbot được phát triển bởi OpenAI, một công ty nghiên cứu AI được thành lập vào năm 2015 bởi Elon Musk, Sam Altman và những người khác. 
+Chatbot AI này ra mắt công chúng vào ngày 30/11/2022 và nhanh chóng trở thành một hiện tượng, đánh dấu một bước đột phá trong trí tuệ nhân tạo (AI) khi thể hiện khả năng giao tiếp tự nhiên, thuyết phục với lĩnh vực hiểu biết rộng lớn. 
+Nó được thiết kế để giao tiếp giống con người, có thể trả lời câu hỏi, hỗ trợ viết văn bản, lập trình, dịch thuật, và thậm chí sáng tạo nội dung như thơ ca, nhạc, hoặc kịch bản. Điểm nổi bật của ChatGPT là khả năng hiểu ngữ cảnh và trả lời một cách tự nhiên, nhờ được huấn luyện với kỹ thuật Reinforcement Learning with Human Feedback (RLHF), giúp nó học cách đáp ứng kỳ vọng của con người tốt hơn.
+Từ iOS 18.1, người dùng iPhone đều có thể đặt ChatGPT làm công cụ tìm kiếm mặc định trong trình duyệt Safari, để việc tìm kiếm thông tin liền mạch và thuận tiện hơn.
+Với Apple Intelligence trên iOS 18, Apple đã tích hợp ChatGPT của OpenAI vào nhiều tính năng khác nhau của iOS. OpenAI cũng có ứng dụng ChatGPT (miễn phí) mà người dùng có thể tải xuống từ App Store.
+Hiện tại, Apple không cung cấp cách trực tiếp để đặt OpenAI làm công cụ tìm kiếm mặc định trên iOS. Tuy nhiên, người dùng vẫn có thể kích hoạt nó để sử dụng như một công cụ tìm kiếm mặc định trong Safari bằng một số bước bổ sung.
+Cách đặt ChatGPT làm công cụ tìm kiếm mặc định trong Safari, thực hiện qua các bước sau:
+Bước 1: Người dùng iOS cần tải về và cài đặt ChatGPT từ App Store.
+Cần đảm bảo đã cài đặt thành công ứng dụng ChatGPT trên thiết bị của mình.
+Bước 2: Vào Cài đặt trên thiết bị và nhấn vào Ứng dụng > Safari.
+Bước 3: Bật công tắc chuyển đổi trong Phần mở rộng > Tìm kiếm ChatGPT > Cho phép phần mở rộng.
+Cũng có một tùy chọn Cho phép trong chế độ duyệt web riêng tư, người dùng có thể bật nếu muốn.
+Bước 4: Trong phần Quyền > google.com, chọn Cho phép.
+Bước 5: Thoát mục Cài đặt.
+Bây giờ, khi mở Safari và nhập văn bản vào thanh tìm kiếm, Safari sẽ yêu cầu ChatGPT thực hiện tìm kiếm cho bạn.
+Đây là một bổ sung tuyệt vời cho iOS và Safari, giúp việc tìm kiếm thông qua ChatGPT trở nên liền mạch và thuận tiện hơn. 

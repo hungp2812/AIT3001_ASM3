@@ -1,0 +1,10 @@
+
+Pin hữu cơ không kim loại có tuổi thọ 30 năm 
+Startup Mỹ SorbiForce chuyển đổi rác thải nông nghiệp thành nguyên mẫu pin hữu cơ không kim loại, giúp giảm tác động môi trường so với pin truyền thống.
+Nhóm nghiên cứu, dẫn đầu bởi nhà khoa học vật liệu Serhii Kaminskyi, CEO của SorbiForce, nảy ra ý tưởng này sau khi nhận thấy ngành nông nghiệp tạo ra tới 2,1 tỷ tấn rác mỗi năm. Ngoài rác nông nghiệp, họ còn sử dụng carbon, nước và muối để phát triển loại pin bền vững mới, Interesting Engineering hôm 11/4 đưa tin.
+Sau nhiều năm nghiên cứu, nhóm chuyên gia đã phát triển pin hấp thụ sử dụng ba quá trình vật lý để vận chuyển electron qua một lớp carbon siêu xốp ở lõi, đưa chúng từ cực âm sang cực dương. Cả hai điện cực đều làm từ carbon, do đó, pin hoàn toàn không cháy.
+"Điều thực sự thú vị về công nghệ của chúng tôi là vật liệu carbon siêu xốp gia tăng chất lượng theo thời gian. Tuổi thọ của pin có thể lên đến 30 năm, miễn là bạn có thể bổ sung nước", Kevin Drolet, giám đốc tiếp thị của SorbiForce, cho biết.
+Đặc biệt, đến cuối vòng đời, 95% pin có thể được phân hủy thành vật liệu hữu cơ trong khi các thành phần còn lại có khả năng tái sử dụng. Thêm vào đó, khác với pin lithium-ion (Li-ion), thường trở thành rác thải nhựa độc hại hoặc gây nguy hiểm khi tái chế, pin SorbiForce không gây nguy cơ cháy nổ hay rò rỉ chất độc hại nhờ không chứa kim loại và có thiết kế vòng kín, ngay cả khi bị cắt đôi.
+SorbiForce đang chuẩn bị cho các dự án thử nghiệm ban đầu ở mức 60 - 150 kWh, dự kiến diễn ra vào nửa cuối năm. Drolet tự tin rằng chi phí thấp và nhu cầu cao sẽ giúp công ty phát triển nhanh chóng. "So với pin lithium-ion, chi phí của chúng tôi thấp hơn nhiều vì muối và các vật liệu cho pin rất dồi dào tại Mỹ", ông nói.
+Theo Drolet, với tuổi thọ hơn 6.000 chu kỳ sạc - xả và khả năng xếp chồng nhiều module, việc chuyển từ các dự án thử nghiệm sang sản xuất quy mô lớn chỉ là vấn đề lộ trình vì nhu cầu đã có sẵn.
+Thu Thảo (Theo Interesting Engineering)

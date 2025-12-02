@@ -1,0 +1,11 @@
+1 triệu người đăng ký ChatGPT trong 60 phút
+Sau khi ChatGPT ra mắt tính năng tạo ảnh AI gây tranh cãi, 1 triệu người đã đăng ký sử dụng chatbot này.
+Hơn hai năm trước, mất 5 ngày để ChatGPT của OpenAI cán mốc 1 triệu người dùng. Ngày 31/3, CEO Sam Altman tiết lộ con số “gây choáng” hơn: 1 triệu người đăng ký chỉ trong 60 phút.
+Đó là khi ChatGPT giới thiệu tính năng tạo ảnh AI. Số lượng đăng ký nhiều tới mức có lúc hệ thống cũng gặp khó khăn. Hiện tại, website đã hoạt động bình thường trở lại.
+Tuần trước, OpenAI thông báo công cụ tạo ảnh AI sẽ có sẵn cho tất cả thuê bao, kể cả miễn phí, song lượng đăng ký tăng đột biến khiến công ty phải tạm thời chặn truy cập với người dùng miễn phí. Thậm chí, Altman còn lên X đề nghị mọi người sử dụng tính năng một cách “thư giãn” vì nhân viên của ông cũng “cần phải ngủ”.
+Một trong những điểm cộng của công cụ tạo ảnh AI trên ChatGPT là mô phỏng phong cách Studio Ghibli, xưởng phim hoạt hình đứng sau nhiều bộ phim nổi tiếng như Hàng xóm của tôi là Totoro hay Vùng đất linh hồn. Dù vậy, bản thân nhà sáng lập studio – Hayao Miyazaki – từng gọi AI là “một sự xúc phạm với cuộc sống” trong bộ phim tài liệu năm 2016.
+Công cụ một lần nữa khơi dậy cuộc tranh luận về việc sử dụng các tác phẩm của nghệ sĩ trái phép. Nhiều nghệ sĩ, tác giả và các nhà sáng tạo khác cáo buộc OpenAI và các công ty AI đào tạo mô hình ngôn ngữ lớn dựa trên công trình của họ mà không xin phép hay bồi thường.
+OpenAI vừa hoàn thành vòng gọi vốn 40 tỷ USD do tập đoàn SoftBank (Nhật Bản) dẫn đầu, nâng định giá startup lên 300 tỷ USD. Như vậy, nhà phát triển ChatGPT có giá trị cao hơn cả McDonald và lọt top những công ty tư nhân giá trị nhất thế giới.
+Theo OpenAI, 40 tỷ USD huy động được sẽ giúp công ty thúc đẩy hoạt động nghiên cứu AI hơn nữa, mở rộng hạ tầng tính toán, mang đến những công cụ ngày càng mạnh mẽ cho nửa tỷ người dùng ChatGPT mỗi tuần.
+OpenAI đang hợp tác cùng SoftBank và Oracle để thiết lập mạng lưới trung tâm dữ liệu cho dự án Stargate, nhằm củng cố năng lực AI cho nước Mỹ. Sáng kiến được tiết lộ hồi tháng 1.
+(Theo Fortune)

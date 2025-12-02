@@ -1,0 +1,18 @@
+iPhone không nút bấm vật lý sắp thành hiện thực?
+Apple vẫn đang hướng tới mẫu iPhone không có nút bấm vật lý, nhưng sẽ phải đối mặt với nhiều thách thức công nghệ.
+Tin tức rò rỉ mới nhất cho thấy, Apple chưa từ bỏ ý tưởng về các nút cảm ứng thể rắn (solid-state) trên iPhone, nhưng vẫn còn nhiều thách thức công nghệ cần vượt qua trước khi điều này có thể trở thành hiện thực.
+Trước khi iPhone 15 Pro ra mắt vào năm 2023, đã có rất nhiều báo cáo dự đoán rằng thiết bị này sẽ được trang bị các nút cảm ứng thể rắn.
+Điều này có nghĩa là thay vì các nút vật lý như nút tăng giảm âm lượng, iPhone sẽ có các khu vực cảm ứng với phản hồi rung haptic để tạo cảm giác giống như đang nhấn một nút bấm thật.
+Tuy nhiên, điều này đã không xảy ra trên iPhone 15 Pro, cũng không có trên iPhone 16 Pro và hiện tại không còn kỳ vọng sẽ xuất hiện trên iPhone 17 Pro. 
+Các nút cảm ứng thể rắn vẫn có thể đáng tin cậy hơn nút vật lý, và dù rất ít, chúng cũng sẽ giúp tiết kiệm không gian bên trong iPhone.
+Ưu điểm của thiết kế này là giảm độ phức tạp, giảm hao mòn cơ học, đồng thời cho phép người dùng phân biệt giữa một lần nhấn nhẹ và một lần nhấn mạnh để kích hoạt các chức năng khác nhau.
+Ngoài ra, Apple cũng từng được cho là muốn loại bỏ cổng sạc USB-C để chuyển hoàn toàn sang sạc không dây. Nếu iPhone không còn cổng sạc và không có nút bấm vật lý, chỉ còn lại loa là bộ phận duy nhất ngăn cản thiết bị trở thành một sản phẩm hoàn toàn kín và chống nước tối đa.
+Tuy nhiên, các nút cảm ứng thể rắn phải vừa đáng tin cậy vừa mang lại cảm giác giống nút vật lý. Theo một rò rỉ mới từ Instant Digital, Apple chưa áp dụng công nghệ này vì hiện tại nó chưa đạt tiêu chuẩn ở cả hai khía cạnh trên.
+Instant Digital cho biết trên Weibo rằng: Apple vẫn đang điều chỉnh thiết kế xúc giác của các nút cảm ứng thể rắn và độ tin cậy của chúng sau thời gian sử dụng lâu dài. Nguồn tin này cũng đề cập đến "vấn đề chạm nhầm" và rằng "độ phản hồi không thể được đảm bảo một cách hoàn hảo".
+Với những hạn chế này, nguồn tin cho biết Project Bongo - tên mã nội bộ của dự án này tại Apple - đã bị tạm hoãn. Hiện tại, Apple dường như đang ưu tiên đầu tư vào công nghệ màn hình và pin hơn là tiếp tục phát triển các nút bấm cảm ứng thể rắn.
+Do đó, không có mẫu iPhone nào được kỳ vọng sẽ chuyển sang sử dụng hoàn toàn các nút cảm ứng thể rắn trong thời gian tới.
+Bước tiến gần nhất của Apple cho đến nay là nút Camera Control trên dòng iPhone 16. Nhưng mặc dù đây là một nút cảm ứng, nó vẫn chủ yếu là một nút bấm cơ học.
+Cũng cần lưu ý rằng Instant Digital không hoàn toàn chính xác trong các thông tin rò rỉ về các sản phẩm của Apple. Chẳng hạn, độ chính xác của thông tin gần đây về một mẫu Apple Watch hoàn toàn bằng kính vẫn chưa thể kiểm chứng.
+Tuy nhiên, Instant Digital đã đúng khi dự đoán về nút Camera Control trên iPhone 16, điều này cho thấy ít nhất một số thông tin của nguồn này có độ tin cậy nhất định.
+Xem video concept iPhone màn hình tràn cạnh, nút chức năng ảo và không cổng sạc (Nguồn: ConceptsiPhone)
+(Theo Appleinsider, Macrumors)

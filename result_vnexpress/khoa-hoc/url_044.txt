@@ -1,0 +1,9 @@
+
+MIT: AI có thể thay thế gần 12% lực lượng lao động Mỹ 
+Theo Viện Công nghệ Massachusetts (MIT), AI hiện đủ khả năng nhận thức và kỹ thuật để làm nhiệm vụ trong nhiều lĩnh vực như công nghệ, tài chính, y tế.
+Nghiên cứu mới được thực hiện trên Iceberg Index, công cụ mô phỏng lao động do Viện Công nghệ Massachusetts (MIT) và Phòng thí nghiệm quốc gia Oak Ridge (ORNL) phát triển. Nhóm phân tích 151 triệu lao động Mỹ, 923 nghề nghiệp, hơn 32.000 kỹ năng và nhận thấy, 11,7% lực lượng có thể bị thay thế bằng AI, tương ứng 1,2 nghìn tỷ USD tiền lương.
+MIT chia tác động của AI đến lực lượng lao động thành hai nhóm, gồm "hữu hình" - sa thải hoặc thay đổi vai trò trong ngành công nghệ và "ẩn" - thay đổi về nhân sự, hậu cần và hành chính. Tình trạng cắt giảm hữu hình chủ yếu tập trung ở các trung tâm công nghệ, nhưng cắt giảm ẩn diễn ra trên phạm vi địa lý rộng hơn, bao trùm 50 bang, kể cả khu vực nông thôn. Những bang như Delaware, Nam Dakota, Bắc Carolina, Utah chịu tác động ẩn cao hơn California - nơi tập trung nhiều công ty công nghệ.
+MIT nhấn mạnh, Iceberg Index không phải công cụ dự đoán mất việc mà chỉ giúp hình dung những nhiệm vụ mà AI hiện đảm nhận được. "Về cơ bản, chúng tôi đang tạo ra bản sao kỹ thuật số cho thị trường lao động Mỹ", Prasanna Balaprakash, Giám đốc ORNL, đồng tác giả nghiên cứu, giải thích với CNBC.
+Iceberg Index được đánh giá hữu ích trong hỗ trợ hoạch định chính sách. Chính quyền bang Tennessee đã trích dẫn chỉ số này trong Kế hoạch Hành động lực lượng lao động AI, trong khi Utah cũng đang chuẩn bị cho động thái tương tự.
+MIT cho biết, nghiên cứu mới có thể giúp nhà hoạch định chính sách xác định những "điểm nóng" để ưu tiên đào tạo, nâng cao kỹ năng và đầu tư cơ sở hạ tầng. Đây cũng có thể là địa điểm thử nghiệm lý tưởng trước khi Mỹ chi hàng tỷ USD cho các chương trình đào tạo nguồn nhân lực.
+Thu Thảo (Theo TechRadar, CNBC)

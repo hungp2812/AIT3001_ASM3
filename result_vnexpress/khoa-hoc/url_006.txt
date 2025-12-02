@@ -1,0 +1,28 @@
+
+5 hồ sơ bình chọn cao nhất tuần đầu vòng loại Sáng kiến Khoa học 
+199 dự án tham gia cuộc thi Sáng kiến Khoa học 2025 do VnExpress tổ chức đang trong cuộc đua bình chọn, trong đó 5 bài thi nhận được sự quan tâm vượt trội.
+Tính đến ngày 8/4, top 5 giải pháp/sản phẩm dẫn đầu có số lượt bình chọn bám sát nhau sau một tuần tranh tài tại vòng loại.
+1. Trạm lắp ráp thông minh
+Dự án có số bình chọn cao nhất tuần đầu tiên với 1.213 lượt thuộc về nhóm sinh viên chuyên ngành Quản lý kỹ thuật công nghiệp - Khoa Máy tàu biển - Trường Đại học Hàng hải Việt Nam. Sản phẩm "Smart Workstation - operator 4.0" là trạm lắp ráp thông minh tùy biến theo nhân trắc học, tích hợp giám sát thao tác và hỗ trợ đào tạo phục vụ cải tiến nâng cao hiệu suất làm việc cho công nhân.
+Hệ thống nhằm hỗ trợ quá trình lắp ráp thủ công thông qua tích hợp các thành phần công nghệ như camera Kinect, phần mềm xử lý hình ảnh và thiết bị trình chiếu.
+Thông qua tích hợp công nghệ nhận dạng hình ảnh, giao diện người - máy và hỗ trợ đào tạo, hệ thống góp phần nâng cao năng suất lao động, thúc đẩy sản xuất và quá trình chuyển đổi số trong sản xuất công nghiệp tại Việt Nam.
+Bên cạnh thiết kế dễ sử dụng, hệ thống có nhiều điểm khác biệt so với các trạm lắp ráp truyền thống; có khả năng tối ưu chi phí, đặc biệt phù hợp với các doanh nghiệp vừa và nhỏ.
+2. Bộ điều khiển tưới thông minh tích hợp giọng nói và ứng dụng Edge AI
+Giải pháp trong lĩnh vực nông nghiệp thông minh của "Nhóm hệ thống tưới thông minh" do các sinh viên Trường Đại học Bách khoa, Đại học Đà Nẵng thực hiện, nhận 778 lượt bình chọn.
+Hệ thống bộ điều khiển tưới thông minh tích hợp công nghệ giọng nói và trí tuệ nhân tạo biên (Edge AI) có thể nhận diện giọng nói bằng tiếng Việt, giúp người nông dân dễ dàng thao tác và điều khiển thiết bị mà không cần sử dụng giao diện phức tạp.
+Hệ thống có thể áp dụng trên nhiều mô hình canh tác khác nhau như trồng rau, cây ăn trái, cây công nghiệp. Hệ thống còn hỗ trợ mô hình trồng rau sạch tại nhà trên sân thượng, giúp người dân tích hợp công nghệ tự động, giảm thiểu chi phí và công sức.
+3. Ứng dụng trí tuệ nhân tạo AI trong nhận diện khối u não - Sản phẩm hỗ trợ bác sĩ phân tích y khoa
+Dự án của nhóm Beona Team nhận 486 lượt bình chọn. Sản phẩm sử dụng trí tuệ nhân tạo (AI) và mô hình học sâu YOLOv8 nhằm nâng cao độ chính xác trong phát hiện khối u não từ hình ảnh y khoa. Hệ thống có khả năng nhận diện chính xác khối u và phân loại, tính diện tích và định vị vị trí của chúng, hỗ trợ bác sĩ trong việc đưa ra quyết định điều trị. Đây là một bước tiến quan trọng trong việc ứng dụng công nghệ hiện đại vào lĩnh vực y tế, giúp giảm thời gian chẩn đoán và tăng độ tin cậy trong kết quả phân tích.
+Ứng dụng này có tính đột phá khi kết hợp xử lý ảnh tiên tiến với AI, tạo ra một giải pháp hỗ trợ chẩn đoán y khoa hiệu quả hơn so với các phương pháp truyền thống. Mô hình AI của hệ thống đã được huấn luyện trên tập dữ liệu lớn, giúp nhận diện khối u với độ chính xác lên tới 95%. So với các phương pháp chẩn đoán thủ công, hệ thống AI này có thể rút ngắn thời gian phân tích từ vài giờ xuống chỉ còn vài phút.
+Nghiên cứu đang được thử nghiệm ở bệnh viện Đa Khoa Quảng Nam.
+4. Chế tạo vật liệu xây dựng không nung từ tro xỉ Biomass
+Tác giả Ngô Thanh Phong cùng cộng sự nhóm SMART-IUH chế tạo sản phẩm vật liệu xây dựng tái chế tro xỉ biomass đầu tiên ở Việt Nam sử dụng công nghệ bê tông geopolymer, nhận 420 lượt bình chọn. Sản phẩm góp phần giải quyết nhu cầu về vật liệu xây dựng không nung cũng như tái chế nguồn tro xỉ biomass thành vật liệu xây dựng hữu ích.
+Hiện sản phẩm được chuyển giao kỹ thuật một phần cho Công ty Cổ phần Đầu tư Sản xuất Năng Lượng Xanh, là đơn vị cung cấp hơi nước bão hòa từ đốt nhiên liệu sinh khối (biomass) lớn nhất Việt Nam. Sản phẩm chế tạo vật liệu xây dựng không nung từ tro xỉ biomass giúp bảo vệ môi trường, hạn chế tác hại của việc chôn lấp tro xỉ biomass, giảm tải chi phí xử lý chất thải.
+5. Gỗ nhân tạo từ rơm 
+Ở lĩnh vực môi trường, Straw wood từ Trường Đại học Trà Vinh chế tạo gỗ nhân tạo thô, nổi bật với khả năng chống mối mọt, kháng nước và hóa chất. Sản phẩm nhận 420 lượt bình chọn.
+Dự án sản xuất gỗ nhân tạo từ rơm ứng dụng công nghệ ép nhiệt và xử lý bề mặt hiện đại, cùng với việc bổ sung các chất phụ gia như borax, silane và aluminum trihydrate để đảm bảo khả năng chống mối mọt, kháng nước và chịu lửa. Nhờ ứng dụng công nghệ tái chế phụ phẩm nông nghiệp, dự án giúp giải quyết vấn đề dư thừa rơm sau mùa vụ, đồng thời bảo vệ môi trường, và hỗ trợ nông dân có thêm chi phí từ phụ phẩm.
+Cuộc thi Sáng kiến Khoa học (Creative Science Contest - CSC) năm 2025 nhận được 280 hồ sơ, chọn 199 hồ sơ vào bình chọn vòng loại (từ ngày 1/4 đến 14/4). Ở vòng này, độc giả VnExpress có thể bình chọn các sản phẩm, giải pháp yêu thích. Bài thi được bình chọn cao và nhận được phiếu lựa chọn của Ban giám khảo sẽ vào vòng chung kết.
+Khi bình chọn cho các bài thi, độc giả sẽ có cơ hội nhận được những phần quà hấp dẫn gồm chuột Pebble M350S và 1 combo bàn phím chuột Pebble 2, mỗi phần thưởng trị giá lần lượt tương ứng 699.000 đồng và 1,199 triệu đồng.
+Sau mỗi lần bình chọn cho Sáng kiến Khoa học trên trang chương trình, độc giả sẽ nhận một số may mắn qua email đăng ký. Ban tổ chức quay thưởng dựa trên số may mắn đã cung cấp cho độc giả. Người trúng giải sẽ nhận được email thông báo của Ban tổ chức.
+Danh sách độc giả trúng giải tuần sẽ được công bố trên website của cuộc thi tại đây
+Như Quỳnh
