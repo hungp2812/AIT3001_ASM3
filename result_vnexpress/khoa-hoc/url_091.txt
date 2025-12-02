@@ -1,6 +1,13 @@
 
-Cách dùng AI tạo ảnh Nano Banana Pro của Google Gemini 
-Nano Banana Pro được coi là AI tạo ảnh tốt nhất hiện nay với khả năng tạo chữ chính xác, vẽ infographic, trộn hình ảnh hay thậm chí dịch, tô màu truyện tranh.
-Nano Banana Pro là AI tạo ảnh được xây dựng trên nền tảng Gemini 3 Pro. Nhờ tận dụng khả năng lập luận tiên tiến và hiểu biết về thế giới thực của Gemini, Nano Banana Pro có thể trực quan hóa thông tin tốt hơn phiên bản Nano Banana cũ và một số mô hình AI phổ biến khác.
-Google cung cấp cho người dùng miễn phí tối đa năm câu lệnh (prompt) và hai ảnh mỗi ngày với trình tạo ảnh Nano Banana Pro. Giới hạn này tương đương những gì người dùng miễn phí nhận được với mô hình Gemini 2.5 Pro trước đó. Với người đăng ký gói Google AI Pro và Ultra, giới hạn lần lượt là 100 và 500 câu lệnh mỗi ngày.
-Trường Giang - Tuấn Hưng
+Công nghệ di chuyển tế bào không cần chạm 
+Anh
+Nhóm kỹ sư từ startup Impulsonics của Đại học Bristol phát triển thiết bị mới sử dụng công nghệ di chuyển tế bào bằng sóng âm.
+Công nghệ mới được hé lộ trong nghiên cứu đăng trên tạp chí Science hôm 3/4 của tiến sĩ Luke Cox. Cox cũng mô tả hành trình của mình từ một sinh viên Đại học Bristol đến CEO của Impulsonics. Phát minh của Impulsonics có thể đẩy nhanh việc phát hiện thuốc mới, mở ra triển vọng sàng lọc y tế cá nhân hóa trong các phòng khám.
+Mỗi loại thuốc mới thường đòi hỏi các nhà khoa học dành hàng nghìn giờ nuôi cấy tế bào trong đĩa petri để thử nghiệm trước khi thử nghiệm trên bệnh nhân. Đến nay, đây vẫn là một quá trình thủ công và khó tự động hóa, dẫn đến những quy trình đắt đỏ và đôi khi không đáng tin cậy. Điều này khiến việc phát triển thuốc mới để đưa vào sử dụng trong phòng khám trở nên khó khăn hơn.
+Công nghệ mới của Đại học Bristol dùng sóng âm để di chuyển tế bào, khiến chúng trông như đang "nhảy múa". Điều này làm giảm nhu cầu sử dụng nhiều thiết bị lớn trong phòng thí nghiệm, giúp việc tự động hóa quá trình nuôi cấy tế bào trở nên dễ dàng hơn, cho phép các nhà khoa học phát hiện thuốc mới nhanh hơn.
+Sóng âm tác dụng lực lên môi trường xung quanh. Đây là lý do chúng có thể tạo ra những rung động nhỏ trong màng nhĩ, giúp con người nghe được. Nguyên lý tương tự này có thể dùng để di chuyển những vật thể rất nhỏ như tế bào.
+Ban đầu, Luke nghiên cứu quá trình vật lý của việc nâng kim cương bay lên bằng sóng âm, tạo ra một thí nghiệm giữ các vật thể lơ lửng trong không trung, chống lại lực hấp dẫn. Quan sát thí nghiệm, ông nhận ra công nghệ này có tiềm năng thay đổi cách điều khiển những vật thể nhỏ và tinh vi.
+Thiết bị của Impulsonics sử dụng nhiều loa nhỏ để kiểm soát cẩn thận âm thanh phát ra, nhờ đó điều khiển chuyển động của tế bào. Khi phát những âm thanh khác nhau theo trình tự, các tế bào "nhảy múa" bên trong hộp chứa. Luke cùng đồng nghiệp đã phát triển công nghệ này đến mức hiện có thể thực hiện một số nhiệm vụ y sinh phức tạp như mở rộng quần thể tế bào.
+"Thiết bị có kích thước nhỏ, chỉ chiếm diện tích bằng một nửa bàn thí nghiệm tiêu chuẩn, trong khi các công nghệ cũ chiếm cả phòng. Quan trọng là nó cũng giúp tạo ra dữ liệu chất lượng cao một cách nhanh chóng, rất cần thiết cho nghiên cứu y sinh", giáo sư Bruce Drinkwater tại Đại học Bristol, đồng sáng lập Impulsonics, cho biết.
+Phát minh mới có nhiều ứng dụng tiềm năng trong công nghệ sinh học. "Tôi mong muốn mở rộng nền tảng công nghệ độc đáo này để đẩy nhanh quá trình phát triển trong ngành dược phẩm và chăm sóc sức khỏe ở bất cứ nơi nào tế bào được nuôi cấy", Cox chia sẻ.
+Thu Thảo (Theo Phys)

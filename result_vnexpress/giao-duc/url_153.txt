@@ -1,0 +1,15 @@
+
+Vượt 200 đội, PTIT và UIT giành ngôi quán quân cuộc thi Sinh viên An ninh mạng 
+Vượt qua 200 đội, Học viện Công nghệ Bưu chính Viễn thông và trường Đại học Công nghệ Thông tin, Đại học Quốc gia TP HCM, giành giải nhất cuộc thi Sinh viên An ninh mạng năm nay.
+Kết quả được công bố tối 15/11.
+PTIT.CBS - đội tuyển của Học viện Công nghệ Bưu chính Viễn thông (PTIT) thi tại bảng A, cạnh tranh với 19 đội, trong đó có đại diện từ Đại học Tsukuba (Nhật Bản). Các đội ở bảng A sẽ vừa bảo vệ hệ thống của mình, vừa tìm cách khai thác lỗ hổng từ hệ thống của đối thủ trong môi trường giả lập trung tâm dữ liệu.
+Ở bảng B, 56 đội thi trực tuyến trải qua các thử thách chuyên sâu về bảo mật web, khai thác lỗi phần mềm, giải mã, tấn công các thuật toán mã hóa... Đội thi UIT- Reze đến từ trường Đại học Công nghệ thông tin, Đại học Quốc gia TP HCM (UIT), giành giải nhất bảng này.
+Trong lễ trao giải, Thiếu tướng Lê Xuân Minh, Cục trưởng Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao (A05), Phó chủ tịch Hiệp hội An ninh mạng Quốc gia, đánh giá mặt bằng kỹ năng giữa các đội thi rất đồng đều. Điều này phản ánh tiềm năng lớn của sinh viên Việt Nam trong an ninh mạng - lĩnh vực mũi nhọn, có ý nghĩa chiến lược trong thời đại số.
+"Mỗi sinh viên tham gia hôm nay, cho dù đạt thứ hạng nào, cũng đã góp phần khẳng định năng lực trí tuệ và tinh thần tiến bộ của thế hệ trẻ Việt Nam trên bản đồ an ninh mạng khu vực và thế giới", ông Minh chia sẻ.
+Cuộc thi Sinh viên An ninh mạng do Hiệp hội An ninh mạng quốc gia (NCA) chủ trì, phối hợp Cục An ninh mạng và phòng, chống tội phạm sử dụng công nghệ cao; dưới sự bảo trợ của Bộ Công an, Bộ Giáo dục và Đào tạo.
+Cuộc thi nhằm lan tỏa kiến thức an toàn dữ liệu, xây dựng văn hóa an ninh mạng, tạo môi trường trải nghiệm thực chiến, phát triển tư duy phản biện và sáng tạo, góp phần tìm kiếm và nuôi dưỡng thế hệ chuyên gia an ninh mạng trong tương lai.
+Chủ đề cuộc thi năm nay là an ninh dữ liệu và bảo vệ dữ liệu cá nhân.
+Vòng sơ khảo diễn ra giữa tháng 10 với khoảng 200 đội thi online. Các đội phải vượt qua các thử thách theo chủ đề, gồm Pwnable (khai thác lỗi phần mềm, buffer overflow...), Reverse engineering (tập trung vào kỹ năng dịch ngược mã nguồn phần mềm, bảo vệ phần mềm); Web (các kỹ thuật tấn công vào ứng dụng Web); Crypto/ACM (Đánh đố giải mã, tấn công các thuật toán mã hóa...).
+Những đội vào chung khảo sẽ được chia bảng A và B để thi đấu với thể thức riêng.
+Ngoài bằng khen và giấy chứng nhận, các đội được NCA giới thiệu tham dự cuộc thi quốc tế về an ninh mạng như Cyber Sea Game, ASEAN Cyber Shield, đồng thời có cơ hội làm việc tại các cơ quan, công ty công nghệ.
+Thanh Hằng

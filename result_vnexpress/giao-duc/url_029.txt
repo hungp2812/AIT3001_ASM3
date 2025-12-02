@@ -1,14 +1,28 @@
 
-Thứ trưởng Giáo dục: Ưu tiên bảo vệ thông tin của thầy trò khi dùng AI 
-Bộ Giáo dục sẽ quy định về đạo đức trong sử dụng AI, để hạn chế việc lọt, lộ thông tin, dữ liệu của thầy cô và học sinh.
-Tọa đàm "Ứng dụng AI hiệu quả trong quản lý lớp học", sáng 28/11, Thứ trưởng Phạm Ngọc Thưởng cho biết Bộ Giáo dục và Đào tạo dự kiến thí điểm tích hợp AI vào chương trình phổ thông, từ cuối năm nay.
-Nội dung giáo dục AI (trí tuệ nhân tạo) cho học sinh được phát triển dựa trên 4 mạch kiến thức chính, gồm: tư duy lấy con người làm trung tâm, đạo đức AI, các kỹ thuật và ứng dụng AI, thiết kế hệ thống AI. Kiến thức sẽ phân hóa theo tâm sinh lý lứa tuổi ở hai giai đoạn: giáo dục cơ bản (tiểu học và THCS) và định hướng nghề nghiệp (THPT).
-Về phía giáo viên, AI được thí điểm trong quản lý, hỗ trợ soạn bài và đổi mới phương pháp kiểm tra, đánh giá.
-Ông Thưởng nói một trong những ưu tiên là bảo vệ dữ liệu của học sinh và giáo viên, tuân thủ chuẩn mực đạo đức và an toàn khi dùng AI. Vì vậy, ông cho rằng cần phát triển các công cụ để bảo vệ học sinh theo từng trình độ, lứa tuổi, để các em tiếp cận AI an toàn.
-Bà Lê Thị Hải Thanh, Giám đốc Chương trình Khan Academy Việt Nam, khuyên học sinh, giáo viên cân nhắc trước khi cung cấp dữ liệu cá nhân cho AI nói chung, từ những thông tin định danh (tên, tuổi, ngày tháng năm sinh...) tới sở thích, đặc điểm nhận dạng, các mối quan hệ.
-Vì thế, Khanmigo - trợ giảng AI miễn phí cho giáo viên của Khan Academy, chỉ yêu cầu email. Giáo viên và học sinh nếu dùng tài khoản chung của trường thì không cần đăng ký bất cứ thông tin nào.
-Các chuyên gia, nhà giáo đều đồng tình rằng AI sẽ trở thành công cụ hỗ trợ đắc lực trong giáo dục, giúp quá trình dạy và học sáng tạo và hiệu quả hơn. Do đó, ngành giáo dục chủ trương cho học sinh sớm tiếp cận với AI dưới sự hướng dẫn, định hướng của giáo viên, thay vì ngăn cấm.
-Ông Vũ Minh Đức, Cục trưởng Nhà giáo và Cán bộ Quản lý giáo dục, cho biết Bộ sẽ ban hành quy định về đạo đức trong sử dụng AI, gồm hướng dẫn về hạn chế chia sẻ thông tin cá nhân, hạn chế tối đa việc lộ, lọt dữ liệu trên các nền tảng.
-Nghị quyết 71 của Bộ Chính trị về đột phá giáo dục đào tạo đề cập nhiệm vụ chuyển đổi số toàn diện, phổ cập và ứng dụng mạnh mẽ công nghệ số, trí tuệ nhân tạo trong quản lý, tổ chức hoạt động giáo dục ở tất cả cấp học.
-Các chuyên gia cho rằng đưa AI vào bậc tiểu học cần thiết, song phải có cách làm phù hợp, với lộ trình thận trọng, an toàn.
+Thủ khoa Ngoại ngữ vượt định kiến để đi 'con đường hiếm' 
+Từng bị phản đối khi chọn tiếng Ả Rập, nhưng Diễm Quỳnh tin sẽ tìm được cơ hội ở con đường hiếm người đi, trở thành thủ khoa tốt nghiệp trường Đại học Ngoại ngữ.
+Đặng Thị Diễm Quỳnh, 23 tuổi, quê Hải Dương cũ (nay là Hải Phòng), dẫn đầu khóa sinh viên tốt nghiệp năm 2025 của trường Đại học Ngoại ngữ (ULIS), Đại học Quốc gia Hà Nội với điểm trung bình 3.91/4.
+Với Quỳnh, hơn cả danh hiệu thủ khoa, hành trình vượt định kiến để theo đuổi và chinh phục ngôn ngữ "trông như giá đỗ bẻ vụn" giúp cô bước qua nhiều giới hạn của bản thân, rèn sự bản lĩnh và kiên trì.
+"Ngoài vui và tự hào, kết quả này đã đền đáp công sức của mình trong thời gian qua", Quỳnh bày tỏ.
+Diễm Quỳnh là cựu học sinh trường THPT Tứ Kỳ. Năm lớp 12, thông qua chương trình tư vấn tuyển sinh, Quỳnh biết trường Đại học Ngoại ngữ đào tạo cử nhân ngành Ngôn ngữ Ả Rập. Quỳnh tự hỏi "sao không thử một ngôn ngữ ít phổ biến".
+Dự định của Quỳnh không được gia đình, bạn bè và thầy cô ủng hộ. Ai cũng lo nữ sinh sẽ gặp nhiều khó khăn trong quá trình học, sau này khó xin việc. Nhưng Quỳnh nghĩ khác. Nữ sinh cho rằng nếu đi một con đường hiếm người chọn thì có thể tiếp cận những cơ hội ít ai có, nên kiên định với lựa chọn này.
+Năm 2020, không chỉ trúng tuyển ngành Ngôn ngữ Ả Rập của ULIS như mong muốn, Quỳnh còn là thủ khoa đầu vào của ngành. Nhưng sự hào hứng của nữ sinh không kéo dài, mà nhanh chóng chuyển sang hoang mang và lo lắng vì tiếng Ả Rập "như một mê cung": bảng chữ cái viết từ phải sang trái, nhiều âm tiếng Việt không có...
+Quỳnh gặp khó cả với ngữ pháp và từ vựng khi phải nhớ hơn 10 ngôi xưng hô và cách chia động từ tương ứng. Nữ sinh cũng hay nhầm vì ở vị trí khác nhau, cùng một chữ lại có cách viết khác biệt.
+Ngoài ra, Quỳnh còn thường nói sai hoặc không phân biệt được những từ có cách phát âm tương tự, ví dụ "ma'tar" ( mưa ) với "ma'taar" (sân bay).
+"Do phát âm sai mà khi mình muốn nói 'tôi đang ở sân bay', người nghe lại hiểu thành 'tôi đang đứng dưới mưa'", Quỳnh kể.
+Để cải thiện, Quỳnh vùi đầu làm bài tập, học từ mới, tăng giao tiếp và nhờ thầy cô sửa lỗi giúp. Có những ngày, cô ngồi hàng giờ chỉ để viết đi viết lại những chữ cơ bản như "alif", "baa", "taa"...
+Đầu năm thứ hai, nữ sinh trúng học bổng toàn phần của chính phủ Qatar. Dù khả năng sử dụng tiếng Ả Rập mới ở mức cơ bản, Quỳnh vẫn quyết định du học vì nhận thấy đây là cơ hội để nâng cao kỹ năng, học hỏi văn hóa.
+Thời gian ở Qatar giúp Quỳnh vượt qua tâm lý sợ sai, ngại nói. Nhờ dùng tiếng Ả Rập hàng ngày, cô cải thiện phản xạ, khả năng nghe, hiểu và nói đều tốt hơn trước.
+Theo đúng tiến độ, sau khi hoàn thành chương trình một năm ở Qatar, Quỳnh sẽ bước vào năm thứ ba đại học ở Việt Nam. Nhưng cô chủ động xin học lại năm thứ hai. Quỳnh cho rằng cần thiết vì giai đoạn này học nhiều về lý thuyết ngữ pháp - là điều cô muốn củng cố.
+"Mọi người bảo phí, nhưng mình muốn mọi thứ bài bản, chỉn chu nhất có thể. Vì vậy, mình sẵn sàng tốt nghiệp trễ một năm để học được nhiều hơn", Quỳnh bày tỏ.
+Quan niệm ngôn ngữ chỉ thực sự sống khi mình sử dụng, song song học trên lớp, Quỳnh tìm cơ hội để dùng nhiều tiếng Ả Rập nhất có thể. Thông qua giới thiệu của thầy cô và các cựu sinh viên, nữ sinh nhận dẫn tour du lịch, phụ trách dịch thuật trong các sự kiện thương mại, kinh tế, ngoại giao.
+Mỗi khi gặp người Ả Rập, cô thường hồ hởi tới chào và hỏi thăm. Có lần dù đang đi trên đường, thấy phía ngược chiều có khách du lịch Ả Rập đang đi bộ, Quỳnh dựng xe và sang đường để chào, chúc họ có trải nghiệm đáng nhớ ở Việt Nam.
+Theo Quỳnh, dù ít hay nhiều, đây vẫn là cơ hội để được dùng ngoại ngữ với người bản xứ.
+Ngoài việc học, Quỳnh còn tham gia tổ chức các hoạt động giao lưu văn hóa giữa Việt Nam và các quốc gia Ả Rập, hai năm liền góp mặt tại Qatar Debate - cuộc thi tranh biện tiếng Ả Rập lớn nhất thế giới tổ chức tại Oman (vòng châu Á) và Qatar (vòng thế giới).
+Ngày 14/11, Quỳnh là một trong 95 thủ khoa được Hà Nội vinh danh ở Văn Miếu Quốc Tử Giám. Hiện, cô làm trợ giảng tại khoa Ngôn ngữ và Văn hóa Ả Rập, trường Đại học Ngoại ngữ.
+Thạc sĩ Phạm Thị Thùy Vân, Trưởng khoa, nhận xét Diễm Quỳnh thông minh, có năng khiếu học ngoại ngữ và khả năng tự học. Nhiều tân sinh viên gặp khó về ngữ pháp tiếng Ả Rập, nhưng không nhiều biết cách tìm tài liệu và tự nghiên cứu để vượt qua như Quỳnh.
+Cô Vân đánh giá Quỳnh xuất sắc nhất ở kỹ năng nói, một phần nhờ sự hoạt bát, hướng ngoại trong giao tiếp. Trong các hoạt động của khoa và câu lạc bộ, nữ sinh nhiệt tình và được bạn bè yêu quý.
+Sau gần hai tháng Quỳnh về khoa công tác, cô Vân cho biết Quỳnh có phong cách tiếp cận, truyền đạt kiến thức gần gũi, trẻ trung và được sinh viên yêu quý.
+Quá trình học tiếng Ả Rập đã dạy Quỳnh sự kiên nhẫn, biết cách tin vào bản thân và không bỏ cuộc. Mục tiêu trước mắt của Quỳnh là nâng cao kỹ năng sư phạm để hoàn thành tốt công việc. Đồng thời, cô ấp ủ các hoạt động để góp phần lan tỏa ngôn ngữ, văn hóa Ả Rập, hỗ trợ các bạn trẻ học ngoại ngữ này tốt hơn.
+Về lâu dài, Quỳnh cân nhắc học thạc sĩ ngành Du lịch, mong có thể kết hợp kiến thức du lịch với khả năng ngoại ngữ để tạo ra nhiều hoạt động kết nối người dân giữa hai nước.
 Thanh Hằng

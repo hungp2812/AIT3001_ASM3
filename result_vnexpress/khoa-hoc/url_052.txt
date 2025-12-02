@@ -1,12 +1,4 @@
 
-Bộ Khoa học và Công nghệ dùng nền tảng số trong hoạt động văn phòng 
-Văn phòng Bộ Khoa học và Công nghệ ứng dụng AI và nền tảng số trong điều hành hoạt động giúp rút ngắn thời gian xử lý văn bản, công việc liên thông tốt hơn.
-Sáng 28/11, Văn phòng Bộ Khoa học và Công nghệ tổ chức chia sẻ kinh nghiệm với 15 bộ, ngành và các đơn vị trong Bộ nhằm tăng kết nối và cải thiện khả năng phối hợp giữa các văn phòng bộ, ngành trong lĩnh vực khoa học, công nghệ và đổi mới sáng tạo.
-Ông Hà Minh Hiệp, Chánh Văn phòng Bộ Khoa học và Công nghệ, dẫn số liệu từ cuộc khảo sát nhanh tại chỗ, cho biết việc chia sẻ thông tin nghiệp vụ giữa các văn phòng thời gian qua còn hạn chế, chủ yếu dựa vào quan hệ cá nhân. Lý do là một số đơn vị thiếu dữ liệu để tham mưu, số khác là do quy trình sử dụng văn bản liên thông giữa các đơn vị không đồng nhất... khiến việc phối hợp chưa thật sự trôi chảy.
-Bên cạnh đó, nhiều đại biểu cho biết họ gặp khó trong chuyển đổi số công tác văn phòng, nhất là tự động hóa báo cáo và quản lý công việc, nên muốn học hỏi kinh nghiệm từ Bộ Khoa học và Công nghệ cùng các đơn vị khác.
-Chia sẻ tại hội thảo, ông Hiệp cho biết Văn phòng Bộ đã xây dựng hệ thống báo cáo tự động kết nối với các Sở Khoa học và Công nghệ địa phương. Hệ thống tích hợp AI để trích xuất thông tin từ báo cáo, giúp rút ngắn thời gian xử lý. "Đây là hạt nhân trong công tác chuyển đổi số của Văn phòng Bộ", ông nói.
-Hiện Văn phòng Bộ Khoa học và Công nghệ sử dụng nền tảng điều hành One MST để đăng ký lịch công tác, phòng họp, phương tiện, quản lý văn bản, theo dõi nhiệm vụ và báo cáo trực tuyến. Đại diện Văn phòng Bộ cho hay, hơn 5.200 cán bộ, công chức đã được cấp tài khoản, trong đó 81,5% sử dụng thường xuyên. "Hệ thống ghi nhận hơn 10.000 lượt truy cập mỗi ngày. Toàn bộ đơn vị thuộc Bộ đều đang xử lý công việc trên nền tảng", vị này nói. Các thông báo nhắc thời hạn công việc được gửi tự động, giúp cán bộ chủ động tiến độ. Nền tảng góp phần xây dựng môi trường làm việc minh bạch, giảm thời gian xử lý và chi phí vận hành.
-Nhiều bộ, ngành bày tỏ sự quan tâm đến nền tảng này. Đại diện Bộ Văn hóa, Thể thao và Du lịch đánh giá cao khả năng tích hợp và đo lường KPI của One MST, bày tỏ mong muốn được tiếp cận công nghệ mới.
-Đại diện Bộ Giáo dục và Đào tạo nêu khó khăn về thiếu nhân lực IT, trong khi Bộ Quốc phòng cho biết đang sử dụng hệ thống nhắc việc tương tự nhưng có thêm tính năng ghi âm để tạo biên bản cuộc họp.
-Ông Đỗ Đình Rô, Phó chánh Văn phòng Bộ Khoa học và Công nghệ cho biết sẵn sàng chia sẻ kinh nghiệm chuyển đổi số với các bộ, ngành. Việc tăng kết nối giữa các văn phòng sẽ là bước quan trọng để nâng cao hiệu quả phối hợp trong lĩnh vực khoa học, công nghệ và đổi mới sáng tạo thời gian tới.
-Trọng Đạt 
+Trung Quốc đóng tàu nuôi trồng thủy sản xa bờ thông minh 
+Tàu Bay Area Lingding có thể sản xuất 3.000 - 5.000 tấn thủy sản mỗi năm, tương đương mức thu được từ 333 ha hồ cá truyền thống trên cạn.
+Video: CCTV

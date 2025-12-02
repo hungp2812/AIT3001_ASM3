@@ -1,0 +1,19 @@
+Sự cố ELAC toàn cầu: Việt Nam cập nhật phần mềm sớm, bảo đảm hoạt động bay ổn định
+Toàn bộ đội tàu Airbus A320 và A321 đang khai thác bởi các hãng hàng không Việt Nam đã hoàn tất cập nhật phần mềm điều khiển ELAC theo yêu cầu của Airbus và Cơ quan An toàn hàng không châu Âu (EASA).
+Đến ngày 30/11, Cục Hàng không Việt Nam cho biết hoạt động khai thác của Vietnam Airlines và Vietjet đã trở lại bình thường, không còn bị ảnh hưởng bởi chỉ lệnh cập nhật phần mềm khẩn cấp.
+Vietnam Airlines đã hoàn tất cập nhật cho toàn bộ đội A320/A321 sớm hơn thời hạn, Vietjet cũng hoàn thành việc nâng cấp cho 69 tàu bay từ 3 giờ sáng 30/11, nhanh hơn gần bốn giờ trước hạn chót.
+Việc các hãng trong nước chủ động hoàn thành sớm yêu cầu của nhà sản xuất và cơ quan quản lý giúp hạn chế tối đa ảnh hưởng đến hoạt động bay.
+Sự cố từ bức xạ Mặt trời
+Đêm 28/11, thông điệp khẩn từ EASA gửi đến các quốc gia khai thác Airbus yêu cầu máy bay đang sử dụng hệ thống điều khiển ELAC phiên bản L104 phải cập nhật phần mềm ngay lập tức hoặc tạm dừng bay. Cục Hàng không Việt Nam ngay lập tức ban hành yêu cầu triển khai.
+Tổng công ty Quản lý bay Việt Nam (VATM) cũng kích hoạt hướng dẫn ứng phó để giảm nguy cơ chậm, hủy chuyến trên diện rộng, đồng thời bảo đảm năng lực điều hành bay tại các cảng trọng điểm.
+Nguyên nhân của chỉ lệnh an toàn này xuất phát từ một sự cố hiếm gặp tại Mỹ vào cuối tháng 10/2025. Một chiếc Airbus A320 của hãng JetBlue bị chúc mũi đột ngột trong chuyến bay do một hạt bức xạ năng lượng cao từ bão Mặt trời tác động vào bộ nhớ máy tính điều khiển ELAC, làm thay đổi dữ liệu và khiến hệ thống xử lý nhầm tình huống.
+Trên các dòng máy bay fly-by-wire hiện đại, hệ thống điều khiển phụ thuộc nhiều vào máy tính và vi mạch, nên nguy cơ bị ảnh hưởng bởi bức xạ vũ trụ tăng lên khi hoạt động ở độ cao lớn. Phiên bản phần mềm L104 có cấu trúc phức tạp hơn, khiến tính nhạy cảm trước sự cố “lật bit” cao hơn, dẫn đến yêu cầu cập nhật hoặc chuyển về phiên bản ổn định hơn.
+Việt Nam phản ứng nhanh để bảo đảm hoạt động bay
+A320/A321 là dòng máy bay chủ lực của các hãng trong nước, với 81/169 chiếc nằm trong diện phải cập nhật. Nếu toàn bộ cùng dừng hoạt động, lịch bay sẽ bị ảnh hưởng nghiêm trọng. Tuy vậy, tình huống này đã không xảy ra.
+Ngay trong đêm 28/11, các hãng hàng không họp khẩn, chia sẻ thiết bị nạp dữ liệu, huy động đội kỹ thuật làm việc xuyên đêm để nạp và kiểm tra phần mềm.
+Các dòng máy bay thân rộng như A350, Boeing 787 được tăng chuyến để hỗ trợ, lịch bay được điều chỉnh linh hoạt, chính sách đổi – hoàn vé được kích hoạt ngay.
+Nhờ phối hợp kỹ thuật – khai thác – điều hành bay, hoạt động vận tải hàng không chỉ ghi nhận một số chuyến chậm, không xảy ra hủy chuyến hàng loạt hay tình trạng hành khách ùn ứ tại sân bay. Việt Nam là một trong những nước xử lý nhanh và giữ được hoạt động ổn định trong bối cảnh khủng hoảng kỹ thuật toàn cầu.
+Năng lực an toàn tiếp tục được khẳng định
+Việt Nam hiện đạt mức 1 về năng lực giám sát an toàn hàng không theo tiêu chuẩn của Cục Hàng không liên bang Mỹ (FAA). Điều này đồng nghĩa đội bay của các hãng trong nước đáp ứng tiêu chuẩn an toàn cao nhất.
+Sau khi cập nhật phần mềm, các tàu bay A321, A320 đã trở lại hoạt động bình thường.Sự cố lần này cho thấy thách thức của công nghệ hàng không hiện đại trước các yếu tố tự nhiên, đồng thời khẳng định vai trò của con người trong khâu giám sát, vận hành và xử lý tình huống.
+An toàn hàng không luôn là quá trình cải thiện liên tục. Việc ứng phó kịp thời và đồng bộ của các cơ quan, hãng hàng không trong nước là minh chứng cho khả năng xử lý khủng hoảng chủ động, chuyên nghiệp – yếu tố then chốt để bảo đảm an toàn cho mọi chuyến bay.

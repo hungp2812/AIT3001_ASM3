@@ -1,0 +1,30 @@
+Vietnam AI Contest 2025: Khi người trẻ đưa trí tuệ nhân tạo vào đời thực
+Sau hơn 3 tháng tranh tài, hàng trăm dự án AI từ khắp nơi tham gia Vietnam AI Contest 2025 đã kể nên một câu chuyện chung: người trẻ Việt không chỉ học công nghệ, mà đang sống cùng công nghệ - với tinh thần sáng tạo, trách nhiệm và nhân văn.
+Giai đoạn chấm thi của Vietnam AI Contest 2025 đang đi đến những bước cuối cùng trước khi công bố kết quả vòng trực tuyến.
+Bức tranh toàn cảnh: Khi sáng tạo gặp thực tiễn
+Theo Ban tổ chức, các bài dự thi năm nay thể hiện rõ sự chuyển dịch từ “ý tưởng công nghệ” sang “giải pháp thực tiễn”. Nhiều nhóm không chỉ nghĩ ra ý tưởng, mà còn tìm cách biến chúng thành công cụ hữu ích cho giáo dục, sức khỏe, môi trường và cảm xúc con người.
+Tuy nhiên, hành trình ấy cũng cho thấy một thực tế: giữa “ý tưởng” và “ứng dụng”, vẫn còn khoảng cách cần lấp đầy - bằng dữ liệu, thử nghiệm và trải nghiệm người dùng.
+“AI chỉ thật sự có giá trị khi nó bước ra khỏi màn hình, chạm vào đời sống”, đại diện Hội đồng giám khảo nhận định. “Điều khiến chúng tôi ấn tượng không chỉ là các mô hình hay thuật toán, mà là cách thí sinh nghĩ về con người trong mỗi giải pháp”.
+Ý tưởng: Thực tế, nhân văn nhưng vẫn cần sắc nét hơn
+Phần lớn các dự án mang tính ứng dụng cao, tập trung vào giáo dục, chăm sóc sức khỏe, bảo vệ môi trường và nâng cao cảm xúc tinh thần. Không ít sản phẩm gợi nhắc tinh thần của chủ đề AIWS Angel - biến AI thành người bạn đồng hành chứ không phải công cụ vô cảm.
+Một số dự án sáng tạo đáng chú ý hướng đến AI tư vấn tâm lý cho học sinh, AI hỗ trợ người cao tuổi ghi nhớ thuốc, hay AI nhận diện rác thải tái chế. Tuy vậy, hội đồng cũng chỉ ra rằng, không ít nhóm vẫn chọn hướng “an toàn” hoặc “trùng lặp”, thiếu yếu tố khác biệt, hoặc chưa xác định rõ đối tượng người dùng -nđiều này khiến tính khả thi chưa được phát huy hết.
+Tính sáng tạo và đổi mới: Khi công nghệ gặp cảm xúc
+Điểm nổi bật của mùa thi năm nay là sự kết hợp liên ngành: giữa phần cứng và phần mềm, giữa kỹ thuật và nghệ thuật, giữa dữ liệu và cảm xúc con người. Nhiều bài dự thi khai thác tốt yếu tố trải nghiệm người dùng (UX), tạo giao diện thân thiện và giàu cảm xúc. Có nhóm sử dụng AI để tạo nhạc nền cảm xúc cho phim ngắn, nhóm khác dùng AI mô phỏng giọng đọc truyền cảm cho trẻ khiếm thị.
+Tuy nhiên, một số bài vẫn dừng ở mức “ứng dụng có sẵn” - như việc gọi API (Application Programming Interface - giao diện lập trình ứng dụng) từ các nền tảng lớn như ChatGPT hay Gemini, mà chưa có tùy chỉnh hoặc sáng tạo riêng.
+Ban giám khảo nhận định sáng tạo là tìm ra cách mới để công nghệ phục vụ con người, không chỉ là viết thêm một dòng mã.
+Công nghệ và kỹ thuật: Những bước tiến đáng ghi nhận
+Một điểm sáng là nhiều nhóm đã có sản phẩm demo hoàn chỉnh, có code, video minh họa và giao diện GUI (Graphical User Interface - giao diện đồ họa người dùng) được thiết kế chỉn chu, giúp người xem dễ hình dung.
+Một số đội còn xây dựng API riêng hoặc train (huấn luyện) mô hình nhỏ bằng dữ liệu tự thu thập, cho thấy sự hiểu biết sâu hơn về nền tảng kỹ thuật. Đặc biệt, có nhóm tiến hành khảo sát người dùng thật, tạo tiền đề cho việc hoàn thiện sản phẩm sau cuộc thi.
+Tuy vậy, thách thức kỹ thuật vẫn hiện hữu: một phần lớn dự án mới dừng ở giai đoạn ý tưởng hoặc giao diện tĩnh, chưa chứng minh rõ phần “trí tuệ nhân tạo” (AI Core). Nhiều nhóm còn phụ thuộc quá nhiều vào mô hình có sẵn, thiếu tính tùy chỉnh và xử lý dữ liệu riêng.
+Tính ứng dụng: Khi công nghệ đi cùng cuộc sống
+Những ý tưởng hướng đến cộng đồng luôn nhận được đánh giá cao. Từ các dự án về AI giáo dục cá nhân hóa học tập, AI hỗ trợ dinh dưỡng, AI bảo vệ môi trường đến các trợ lý ảo chăm sóc sức khỏe tinh thần, tất cả đều thể hiện mong muốn biến công nghệ thành hành động tích cực.
+Dù vậy, một số dự án có phạm vi quá rộng hoặc khó triển khai trong thực tế do thiếu nguồn dữ liệu thật hoặc kênh thử nghiệm người dùng. Những dự án có trải nghiệm người dùng cụ thể (ví dụ: ứng dụng có thể thử nghiệm ngay hoặc có kết quả khảo sát ban đầu) thường được đánh giá cao hơn, vì thể hiện được khả năng ứng dụng thực tế.
+Trình bày và hoàn thiện: Khi thuyết trình cũng là nghệ thuật
+Ở tiêu chí này, sự chuyên nghiệp của thí sinh năm nay được nâng lên rõ rệt. Phần lớn nhóm đầu tư kỹ vào slide, video, cấu trúc logic, hình ảnh minh họa và cả giọng thuyết trình. Nhiều bài thi được trình bày mạch lạc, có “storytelling” (kể chuyện sản phẩm) hấp dẫn. 
+Tổng kết vòng chấm, Hội đồng chuyên môn đánh giá cao tinh thần học hỏi, khả năng hợp tác và thái độ nghiêm túc của các đội thi. So với các mùa trước, chất lượng bài thi được nâng rõ rệt cả về kỹ thuật lẫn tư duy thiết kế sản phẩm.
+Kỳ vọng vòng trực tuyến: Khi sáng tạo bước vào giai đoạn bứt phá
+Hiện Ban tổ chức đang hoàn thiện công tác tổng hợp và sẽ sớm công bố danh sách các đội thi lọt vào vòng trực tuyến. Ở vòng này, các nhóm sẽ có cơ hội bảo vệ sản phẩm trước hội đồng cố vấn quốc tế, gồm các chuyên gia từ Harvard, Princeton, EY, Northeastern…
+Ban tổ chức nhận thấy ở các thí sinh trẻ một điểm chung: niềm tin vào công nghệ tốt đẹp và khát vọng tạo ra giá trị thực cho xã hội. Cuộc thi Vietnam AI Contest 2025 không chỉ là sân chơi kỹ thuật, mà còn là hành trình nuôi dưỡng giá trị nhân văn trong thời đại AI.
+Vietnam AI Contest 2025 không chỉ tổng kết một mùa thi, mà còn khẳng định một tinh thần: AI chỉ mạnh mẽ khi nó mang trong mình trái tim con người.
+Giữa hàng trăm ý tưởng, hàng nghìn dòng mã và vô số giờ sáng tạo, điều còn lại chính là niềm tin - rằng công nghệ Việt Nam có thể mang bản sắc Việt, trí tuệ Việt, và nhân văn Việt.
+Thế Định

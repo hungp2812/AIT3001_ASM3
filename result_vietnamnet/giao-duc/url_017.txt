@@ -1,0 +1,23 @@
+San José và kế hoạch dẫn đầu cuộc cách mạng AI trong chính quyền thành phố
+Trí tuệ nhân tạo (AI) đang rời khỏi các phòng họp của giới công nghệ để bước vào các tòa thị chính. Và hiếm có nơi nào theo đuổi xu hướng này một cách táo bạo như San José, bang California, Mỹ.
+Điều từng chỉ thuộc về các “ông lớn” công nghệ giờ đây đang trở thành công cụ thực tiễn giúp chính quyền đô thị cải thiện dịch vụ công, hỗ trợ nhân viên và hoạch định tương lai.  
+Trong cuộc trò chuyện, Thị trưởng Matt Mahan mô tả về thành phố không chạy theo trào lưu, mà xây dựng nền tảng bền vững. San José đang triển khai Chương trình đào tạo nâng cao kỹ năng AI (AI Upskilling Program) cho nhân viên, dẫn dắt Liên minh Chính phủ AI (GovAI Coalition) kết nối hàng trăm cơ quan trên toàn nước Mỹ  và khởi động Chương trình khuyến khích AI (AI Incentive Program) - sáng kiến tài trợ đầu tiên do chính quyền thành phố điều hành.
+Tất cả các bước đi này kể một câu chuyện lớn hơn: San José không chỉ thử nghiệm AI - họ đang định hình mô hình của một thành phố tương lai, nơi đổi mới được gắn liền với trách nhiệm, mục tiêu xã hội và tầm nhìn dài hạn.
+Chương trình đào tạo AI cho lực lượng lao động thành phố
+Một minh chứng rõ ràng cho cam kết của San José với AI chính là AI Upskilling Program, được thực hiện cùng Đại học Bang San José (SJSU). Chương trình kéo dài 12 tuần, trong đó nhân viên thành phố chỉ cần học 1 giờ mỗi buổi để tiếp thu các kỹ năng có thể ứng dụng ngay vào công việc - không phải lý thuyết, mà là công cụ thật, tình huống thật.Thay vì chỉ nghe hoặc đọc về AI, các học viên tự xây dựng trợ lý AI của riêng mình và kiểm nghiệm chúng với các thách thức thực tế trong công việc hành chính.
+Kết quả rất ấn tượng: chương trình đã tiết kiệm 10.000-20.000 giờ làm việc, nhiều phòng ban ghi nhận năng suất tăng tới 20%. Nghĩa là hồ sơ tồn đọng được xử lý nhanh hơn, dịch vụ đến tay người dân sớm hơn.
+Thị trưởng Mahan giải thích rằng: “Trong khi khu vực tư nhân tăng năng suất vượt bậc trong 50 năm qua, khu vực công gần như dậm chân tại chỗ. AI có thể là công cụ để thu hẹp khoảng cách đó. Chúng tôi không coi AI là mối đe dọa mà là cơ hội giúp nhân viên phục vụ người dân tốt hơn”. Hiện San José đặt mục tiêu đào tạo toàn bộ nhân viên CNTT và mở rộng cho hơn 1.000 nhân viên vào năm tới.
+Ứng dụng AI thực tế: Câu chuyện của những con người
+Thị trưởng Mahan chia sẻ hai ví dụ điển hình:  Andrea, nhân viên Sở Giao thông, đã dùng trợ lý AI tự thiết kế để giúp thành phố nhanh chóng xin lại khoản tài trợ 2,5 triệu USD sau khi gói hỗ trợ xe điện bị đình chỉ. Stephen, nhân viên CNTT, tạo ra một công cụ AI phân tích hàng nghìn phản hồi dân cư trong hệ thống 311, tự động xác định chủ đề như “rác thải” hay “nước sinh hoạt”, giúp tiết kiệm hơn 500 giờ mỗi năm.
+Theo ông Mahan, đây là minh chứng rằng AI không thay thế con người, mà tăng hiệu suất cho họ, giúp nhân viên tập trung vào tương tác giá trị cao hơn với cộng đồng.
+Đảm bảo sử dụng AI có đạo đức
+San José là một trong những thành phố tiên phong về quyền riêng tư dữ liệu ở Mỹ. Thành phố đã ban hành hướng dẫn sử dụng AI tạo sinh cho nhân viên, xây dựng Chiến lược dữ liệu toàn thành phố 3 năm và tham gia Chương trình Liên minh Dữ liệu đô thị Bloomberg.
+Mỗi khóa học trong chương trình đều nhấn mạnh đạo đức, minh bạch và kiểm tra thiên vị thường xuyên, giúp nhân viên hiểu rõ không chỉ cách dùng AI, mà còn là cách dùng có trách nhiệm.
+Liên minh GovAI: San José dẫn đầu phong trào AI quốc gia
+Ngoài việc đào tạo nhân viên thành phố, San José còn giúp các chính quyền trên khắp đất nước học cách sử dụng AI một cách có trách nhiệm. 
+Ra đời năm 2023 với 50 cơ quan thành viên, đến nay GovAI Coalition đã mở rộng lên hơn 850 cơ quan địa phương, bang và liên bang, phục vụ 150 triệu người dân.
+Liên minh hoạt động như “phòng thí nghiệm dân chủ”, nơi các chính quyền chia sẻ công cụ mã nguồn mở, kinh nghiệm và bài học thực tế để áp dụng AI một cách an toàn và hiệu quả.
+Theo Thị trưởng Mahan, “Không giống khu vực tư nhân, các thành phố không cạnh tranh nhau. Chúng tôi cùng hướng tới một mục tiêu: phục vụ người dân tốt hơn.”
+Các thành viên hiện đang cùng phát triển mô hình GPT dịch ngôn ngữ, xây dựng thư viện hợp đồng AI và bộ tiêu chuẩn minh bạch (AI FactSheet) để đảm bảo các nhà cung cấp AI công khai chính sách dữ liệu và quyền riêng tư trước khi ký hợp đồng với chính phủ.
+San José đang cho thấy điều gì xảy ra khi một thành phố coi đổi mới là chiến lược, không chỉ là khẩu hiệu. Thành phố đào tạo nhân viên để làm chủ công nghệ, kết nối hơn 850 cơ quan công qua liên minh GovAI và hỗ trợ các startup AI giải quyết những vấn đề xã hội cấp bách.
+(Theo Forbes)

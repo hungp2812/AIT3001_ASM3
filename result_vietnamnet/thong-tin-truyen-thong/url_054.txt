@@ -1,0 +1,16 @@
+Đình chỉ sinh viên viết công cụ AI lừa nhà tuyển dụng
+Theo Insider, Đại học Columbia (Mỹ) đã đình chỉ sinh viên viết công cụ AI giúp ứng viên gian lận trong các vòng phỏng vấn kỹ thuật.
+Theo văn bản kỷ luật của trường mà Insider có được, nguyên nhân Đại học Columbia đình chỉ 1 năm đối với sinh viên Chungin "Roy" Lee là do công bố “tài liệu trái phép” về buổi làm việc với trường và đăng ảnh có mặt nhân viên trường lên mạng xã hội. Nội dung của buổi họp kỷ luật liên quan đến công cụ AI có tên Interview Coder mà Lee tạo ra.
+Lee đã ký thỏa thuận không tiết lộ hồ sơ kỷ luật hoặc bản ghi âm lên mạng.
+Chia sẻ với Insider sau khi nhận được thông tin, Lee nói: “Cập nhật: Tôi đã bị đuổi”.
+Phát ngôn viên của trường từ chối bình luận.
+Interview Coder của Lee là công cụ AI “vô hình”, giúp các ứng viên gian lận những câu hỏi về kỹ thuật trong khi phỏng vấn. Startup bán công cụ với giá 60 USD/tháng. Trước khi nhận quyết định đình chỉ, cậu sinh viên 21 tuổi tiết lộ startup của mình đang trên đà đạt doanh thu 2 triệu USD mỗi năm.
+Công cụ của Lee dựa trên các mô hình AI tạo sinh, có thể viết code, sửa code, giải thích chi tiết kết quả cho ứng viên. AI phân tích cả câu hỏi miệng và văn bản rồi viết code ngay lập tức. Quy trình diễn ra nhanh chóng và theo thời gian thực.
+Quan trọng nhất, người phỏng vấn hoàn toàn không biết ứng viên đang gian lận. Theo trang web của Interview Coder, công cụ miễn nhiễm với các tính năng phát hiện phần mềm sẵn có trên Zoom hay Google Meet.
+Hồ sơ kỷ luật nêu trường tiến hành xem xét kỷ luật sau khi Lee phát triển công cụ và đăng video dùng nó để vượt qua một bài phỏng vấn của Amazon hồi tháng 12/2024. Lee và đối tác khẳng định đã đọc sổ tay học thuật trước khi xây dựng và tiếp thị công cụ. Sinh viên không được dùng nó để gian lận trong các bài tập trên lớp.
+Lee bày tỏ ngạc nhiên vì các cuộc phỏng vấn kỹ thuật nằm ngoài phạm vi trường học nhưng trường vẫn quyết định đưa ra lập trường về điều này.
+Lee tham gia buổi họp kỷ luật đầu tiên ngày 17/2 và nghĩ rằng tình hình sẽ được giải quyết êm thấm. Tại đây, cậu được hỏi về tình huống giả định khi công cụ AI được dùng trong lớp học.
+Trước khi nhận kết quả của buổi họp đầu tiên, Lee nộp giấy xin phép nghỉ học.
+Đại học Columbia đưa Lee vào diện quản chế vì xác định cậu chịu trách nhiệm về việc tạo điều kiện cho hành động không trung thực trong học tập. Trường cho rằng, công cụ có thể bị dùng để gian lận trong các kỳ thi.
+“Một tuần rưỡi sau, tôi bị trường đuổi học hoàn toàn”, Lee viết trên LinkedIn.
+(Theo Insider)

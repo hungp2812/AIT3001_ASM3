@@ -1,0 +1,22 @@
+
+'Thần đồng AI' Trung Quốc xin được yên ổn 
+Trung Quốc
+Lou Fuli, nữ kỹ sư AI đứng sau thành công của DeepSeek từng phải cầu xin truyền thông "trả lại môi trường yên tĩnh" sau khi liên tục bị thần thánh hóa.
+"Tôi đã nói rằng mình không phải thiên tài. Thần thánh hóa một người chỉ khiến người đó bị nâng càng cao, ngã càng đau", Lou Fuli, 30 tuổi, viết trên WeChat.
+Cô cầu xin các trang tin đừng vì "câu view" mà tiếp tục bám riết. "Đừng làm phiền gia đình, bạn bè, bạn học, cả giáo viên chủ nhiệm cấp 2, cấp 3 của tôi nữa. Tôi chỉ muốn yên ổn làm những việc khó nhưng đúng, chỉ vậy mà thôi!", Lou Fuli nói.
+Trái ngược với những danh xưng mạng xã hội đặt, Lou Fuli tự nhận mình có "xuất phát điểm rất thấp".
+Cô sinh ra tại một ngôi làng nhỏ ở Nghi Tân, Tứ Xuyên, trong một gia đình bình thường với cha là thợ điện, mẹ là giáo viên. Thời thơ ấu của cô hầu như không tiếp xúc với máy tính. Dù vậy, cô sớm bộc lộ niềm yêu thích với logic và thuật toán qua những cuốn sách ở thư viện làng.
+Năm 2016, cô thi đỗ vào khoa Công nghệ thông tin của Đại học Sư phạm Bắc Kinh. Nhưng đây là một "cú đấm nặng nề". "Vì tiếp xúc ít với máy tính trước đó, nền tảng lập trình của tôi gần như bằng không," cô kể. Trong môi trường "cao thủ tụ họp", cô bị choáng ngợp. Kết quả thi đầu tiên, cô gần như xếp chót lớp và rơi vào khủng hoảng, nghi ngờ bản thân không phù hợp với ngành.
+Sau thời gian dằn vặt, cô quyết định phản công. Mỗi sáng sớm, cô đã có mặt ở thư viện. Với lập trình, cô dùng cách "chép và học thuộc" mã nguồn để hiểu logic. Từ chỗ bế tắc, cô vươn lên top đầu và được tuyển thẳng lên bậc thạc sĩ tại Đại học Bắc Kinh, theo chuyên ngành Xử lý ngôn ngữ tự nhiên (NLP).
+Môi trường ở Đại học Bắc Kinh còn khắc nghiệt hơn. Lou Fuli gần như sống trong phòng thí nghiệm. Trong một cuộc phỏng vấn, cô kể lại quãng thời gian làm luận văn bận bịu tới mức ngày 29 Tết mới về nhà, mùng 5 đã quay lại trường viết bài, làm đến rằm tháng Giêng mới nộp.
+"Lúc về ký túc xá nghe ngoài kia pháo hoa, nằm trên giường mà nước mắt chảy không ngừng", cô kể.
+Sự nỗ lực đó được đền đáp. Lou có 8 bài báo được chấp nhận tại ACL (hội nghị hàng đầu về NLP), trong đó có hai bài là tác giả chính. Thành tích này khiến cô nổi tiếng chỉ sau một đêm trên diễn đàn tri thức Zhihu.
+Sự nổi tiếng bất ngờ mang đến nhiều cơ hội "kỳ quặc". "Có người mời viết sách, có người mời ghi hình khóa học, thậm chí công ty quản lý nghệ sĩ cũng liên hệ", cô tiết lộ. Nhưng cô từ chối tất cả để tập trung vào con đường kỹ thuật.
+Sau khi tốt nghiệp, Lou gia nhập DAMO Academy (Viện nghiên cứu của Alibaba) qua chương trình AliStar - cấp tuyển dụng cao nhất, tương đương chương trình "thiên tài trẻ" của Huawei.
+Tại đây, cô phụ trách dự án AliceMind và dẫn dắt phát triển mô hình đa ngôn ngữ VECO. Đây là một mô hình tiền huấn luyện đa ngôn ngữ phức tạp, hỗ trợ cả khả năng hiểu và sinh văn bản. VECO được coi là một thành công lớn, trở thành một trong 8 mô hình lõi của hệ thống AliceMind, được đồng nghiệp đánh giá cao và gây tiếng vang trong giới học thuật cũng như công nghiệp.
+Năm 2022, cô rời DAMO, chuyển sang quỹ đầu tư Huanfang Quant, chuyên về đầu tư tài chính, nơi cô làm về mô hình chiến lược học sâu.
+Năm sau, Lou là một trong những kỹ sư chủ chốt tham gia phát triển mô hình MoE DeepSeek-V2 của quỹ này. Mô hình này lập tức gây sốt khi ra mắt. Lou Fuli từng tự hào viết: "Chỉ xét năng lực tiếng Trung, DeepSeek-V2 thực sự thuộc nhóm dẫn đầu thế giới nhưng chi phí bằng 1/100 GPT-4".
+Chính thành công vang dội của DeepSeek-V2 đã đưa tên tuổi Lou Fuli lên đỉnh cao, khiến cô trở thành mục tiêu săn đón hàng đầu của các tập đoàn công nghệ lớn. Đỉnh điểm, trong một buổi livestream tháng 12/2024, Lôi Quân (Lei Jun), Chủ tịch Tập đoàn Xiaomi nói rằng sẵn sàng trả mức lương hàng chục triệu tệ để mời Lou về dẫn dắt đội ngũ R&D mô hình AI.
+Gần đây, Lou Fuli xác nhận gia nhập Xiaomi. Trong một bài đăng mới, cô viết: "Trí thông minh rồi sẽ bước từ ngôn ngữ vào thế giới vật lý. Tôi đang ở Xiaomi MiMo, cùng một nhóm những nhà nghiên cứu sáng tạo, tài năng và đầy đam mê nỗ lực xây dựng tương lai đó, hết mình hướng tới AGI (trí tuệ nhân tạo tổng quát) mà chúng tôi hằng theo đuổi".
+Xiaomi MiMo là mô hình ngôn ngữ lớn (LLM) đầu tiên của Xiaomi. Đây là lần đầu tiên Lou Fuli công khai tuyên bố vị trí mới, chấm dứt hàng loạt tin đồn.
+Bảo Nhiên (Theo Zhuanlan/Word Journal)

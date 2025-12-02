@@ -1,0 +1,17 @@
+
+Mức độ thống trị của Bitcoin giảm mạnh 
+Tỷ lệ vốn hóa của Bitcoin so với toàn bộ thị trường tiền số giảm về dưới 60%, cho thấy đồng này đang chịu ảnh hưởng nặng nề hơn.
+Mức độ thống trị của Bitcoin (Bitcoin dominance) là chỉ số đo lường vốn hóa của Bitcoin (BTC) so với toàn bộ thị trường tiền số. Chỉ số này thường tăng cao trong các đợt bán tháo diện rộng vì các token rủi ro hơn có xu hướng giảm nhanh hơn Bitcoin.
+Quy luật này đã bị đảo ngược kể từ đầu tháng 11. Dù BTC hồi phục lên vùng 90.000 USD, mức độ thống trị vẫn giảm từ 61% xuống mức thấp nhất là 58,5%. Tính đến cuối buổi sáng hôm nay, vốn hóa Bitcoin đạt hơn 1.700 tỷ USD, chiếm gần 56,5% tổng thị trường tiền số.
+Trước đó, từ tháng 2 đến tháng 5, trong đợt bán tháo cực đoan do thuế quan, mức độ thống trị của BTC đã tăng từ 58% lên 65%. Hay trong thời gian giảm giá đồng yen Nhật vào tháng 8/2024, chỉ số này cũng tăng từ 56% lên 60% cho đến tháng 11/2024. Điều này cho thấy Bitcoin đang chịu ảnh hưởng nặng nề hơn từ đợt điều chỉnh hiện tại, so với bình quân thị trường tiền số.
+Tính từ đỉnh được thiết lập đầu tháng 10, BTC đã rung lắc 55 ngày. Con số này ngắn hơn so với 77 ngày bán tháo cực đoan do thuế quan và 146 ngày vào năm 2024. Việc Bitcoin điều chỉnh mạnh hơn trong thời gian ngắn hơn đã làm tăng thêm tâm lý sợ hãi trên thị trường.
+Tuần 17-21/11, dữ liệu từ nền tảng SoSoValue cho thấy 11 quỹ ETF Bitcoin giao ngay niêm yết tại Mỹ đã phá vỡ mọi kỷ lục giao dịch, với tổng khối lượng vượt 40,32 tỷ USD. Tính chung cả tháng 11, có khoảng 3,48 tỷ USD dòng tiền ròng bị rút ra, mức cao thứ hai được ghi nhận.
+Hoạt động giao dịch kỷ lục diễn ra song song với đợt giảm sâu của Bitcoin và làn sóng rút vốn lớn. Điều này thể hiện xu hướng "thoái lui" của các nhà đầu tư tổ chức, khi họ vội vàng rời bỏ những khoản đầu tư đang thua lỗ. Như vậy, tốc độ rút tiền và vai trò thủ lĩnh của Bitcoin giảm sút cho thấy sự điều chỉnh lần này đã phá vỡ những quy luật thường bắt gặp trước đó.
+Bitcoin đã giảm hơn 30% từ mức đỉnh 126.198 USD. Tiền số lớn nhất thế giới có thời điểm còn về gần 80.000 USD một đơn vị và kết thúc tháng 11 với mức sụt 17,5%.
+Khởi động tháng 12, BTC tiếp tục giảm hơn 5% trong 24 giờ qua để giao dịch quanh 86.000 USD. Kéo theo đó, Ether (ETH) cũng sụt 5% trong khi SOL, DOGE, XRP điều chỉnh hơn 4%.
+  
+Hoạt động bán tháo tăng tốc chỉ vài giờ sau thông tin về một sự cố tại pool thanh khoản yETH. Kẻ tấn công đã lợi dụng một lỗ hổng để tự đào một lượng lớn yETH chỉ trong một giao dịch, khiến pool thanh khoản bị rút cạn và cuỗm đi khoảng 1.000 ETH (tương đương 3 triệu USD).
+Pool thanh khoản (liquidity pool) là một kho tài sản chung do người dùng gửi vào tạo thành một "hồ chứa tiền" để phục vụ giao dịch, vay - mượn hoặc tạo lợi suất; đổi lại, người cung cấp thanh khoản sẽ nhận phí giao dịch hoặc phần thưởng. Còn yETH là token đại diện, giống như phiếu chứng nhận phần tài sản bạn góp vào pool. Trong vụ hack này, kẻ tấn công đã tạo ra yETH "ảo" để rút tài sản thật trong pool.
+Giao thức này thiệt hại tổng cộng 9 triệu USD trong vụ tấn công, với 1.000 ETH bị chuyển đi. Địa chỉ của kẻ tấn công còn giữ khoảng 6 triệu USD token, theo công ty bảo mật blockchain PeckShield.
+Sự cố trên diễn ra chỉ vài ngày sau khi sàn giao dịch hàng đầu Hàn Quốc Upbit bị hack hàng chục triệu USD. Điều này cho thấy dòng tiền tổ chức đổ vào thị trường tiền số đã đẩy định giá tăng mạnh nhưng hạ tầng bảo mật lại không được củng cố tương xứng.
+Tiểu Gu (theo CoinDesk)

@@ -1,0 +1,10 @@
+
+Ba nam sinh vô địch lập trình ICPC quốc gia 
+Ba sinh viên trường Đại học Khoa học Tự nhiên TP HCM giành giải nhất trong kỳ thi lập trình ICPC đông nhất từ trước đến nay ở Việt Nam.
+Kết quả ICPC Vietnam National 2025 được công bố chiều 10/11.
+Dẫn đầu là HCMUS - AleaJactaEst với 10/12 bài giải đúng, 778 điểm phạt. Ba thành viên của đội là Vũ Quốc Lâm, Trịnh Minh Huy và Lê Nguyễn Hữu An, sinh viên khoa Công nghệ Thông tin, chương trình tiên tiến. Đây là nhóm vừa giành huy chương bạc tại kỳ thi ICPC Asia Bangkok Regional 2025 ở Thái Lan cách đây vài ngày.
+Hai vị trí tiếp theo là đội ChatGPT của trường THPT chuyên Khoa học Tự nhiên và Đội Milliard từ trường Đại học Công nghệ, Đại học Quốc gia Hà Nội. Cả hai cũng giải được 10 bài nhưng bị nhiều điểm phạt hơn, lần lượt là 802 và 983 điểm.
+ICPC là cuộc thi lập trình quốc tế dành cho sinh viên đại học (International Collegiate Programming Contest), ra đời năm 1970 ở Mỹ. Từ năm 1977, ICPC mở rộng các cuộc thi địa phương và khu vực trên toàn thế giới. Thành tích tốt nhất của Việt Nam ở sân chơi này là huy chương đồng, top 12, thuộc về trường Đại học Công nghệ, Đại học Quốc gia Hà Nội, năm 2022.
+ICPC Vietnam National 2025 do Hội Tin học Việt Nam tổ chức, khởi tranh vào sáng 9/11, đồng thời tại Hà Nội, TP HCM, Đà Nẵng, Hải Phòng, Cần Thơ, Khánh Hòa và Lâm Đồng. 491 đội tuyển đến từ các trường đại học và trung học phổ thông tham dự, đông nhất từ trước đến nay.
+Các đội phải giải 12 bài thuật toán trong 5 giờ, điểm trừ căn cứ số lần nộp bài lỗi của mỗi đội. Khoảng 100 đội dẫn đầu kỳ thi này (giải được 6-7/12 bài trở lên) được tham gia ICPC Asia HCMC, từ đó chọn ra đại diện Việt Nam vào vòng ICPC khu vực và thế giới.
+Lệ Nguyễn

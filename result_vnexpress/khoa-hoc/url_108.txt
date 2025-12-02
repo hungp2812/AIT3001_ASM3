@@ -1,0 +1,13 @@
+
+Robot bay không dây nhỏ nhất thế giới 
+Mỹ
+Với đường kính chưa đến 1 cm, robot bay tí hon có thể giúp thụ phấn, kiểm tra những không gian nhỏ và môi trường phức tạp.
+Nhóm chuyên gia tại Đại học California Berkeley phát triển robot bay không dây nhỏ nhất thế giới lấy cảm hứng từ ong, Interesting Engineering hôm 1/4 đưa tin. Nghiên cứu mới xuất bản trên tạp chí Science Advances.
+Với trọng lượng chỉ 21 milligram và đường kính chưa đến 1 cm, robot tí hon có khả năng bay lơ lửng, đổi hướng và lao vào các mục tiêu nhỏ một cách chính xác. Nó có thể tham gia giám sát, theo dõi môi trường và tìm kiếm cứu hộ.
+"Robot bay này có thể được điều khiển không dây để tiếp cận và lao trúng mục tiêu chỉ định, mô phỏng cơ chế thụ phấn khi ong thu thập mật hoa rồi bay đi", Liwei Lin, giáo sư kỹ thuật cơ khí tại Đại học California Berkeley, giải thích.
+Robot thường cần các bộ phận điện tử để điều khiển và cần nguồn năng lượng như pin để bay. Những bộ phận này khó tích hợp vào loại robot nhỏ và nhẹ. Trong nghiên cứu mới, nhóm khoa học xử lý vấn đề này bằng cách điều khiển đường bay và cung cấp năng lượng cho robot bằng từ trường bên ngoài.
+Robot có hai nam châm tí hon và được thiết kế giống một cánh quạt đẩy nhỏ. Những nam châm này bị hút và đẩy bởi từ trường bên ngoài, làm quay cánh quạt và tạo ra đủ năng lượng để nâng robot khỏi mặt đất. Nhóm nghiên cứu có thể điều khiển chính xác đường bay bằng cách điều chỉnh độ mạnh của từ trường.
+"Các robot bay tí hon rất hữu ích để khám phá không gian nhỏ và môi trường phức tạp khác. Chúng có thể giúp thụ phấn nhân tạo hoặc kiểm tra những không gian hẹp như bên trong ống", Fanping Sui, tiến sĩ kỹ thuật tại Đại học California Berkeley, đồng tác giả nghiên cứu, cho biết.
+Hiện tại, robot chỉ có thể bay thụ động, thiếu cảm biến để phát hiện vị trí hay quỹ đạo bay của mình. Khác với máy bay và drone tiên tiến, robot không thể điều chỉnh chuyển động theo thời gian thực. Dù có khả năng bay chính xác, những thay đổi môi trường đột ngột như gió mạnh có thể đẩy nó lệch hướng.
+Nhóm nghiên cứu dự định bổ sung khả năng điều khiển chủ động trong tương lai, cho phép điều chỉnh vị trí và tư thế theo thời gian thực, theo Wei Yue, đồng tác giả nghiên cứu. Robot cũng cần từ trường mạnh từ cuộn dây điện từ để hoạt động. Nhưng trong tương lai, việc giảm kích thước robot xuống khoảng 1 mm có thể khiến nó đủ nhẹ để phản ứng với các trường yếu hơn, ví dụ như từ sóng radio.
+Thu Thảo (Theo Interesting Engineering)

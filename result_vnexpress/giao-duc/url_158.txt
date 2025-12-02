@@ -1,0 +1,20 @@
+
+Gian lận AI ở loạt đại học top đầu Hàn Quốc 
+Hàn Quốc
+Dùng AI để gian lận xảy ra ở nhiều đại học hàng đầu Hàn Quốc, gây tranh cãi và đặt ra thách thức về về dạy và học trong kỷ nguyên công nghệ.
+Tại Đại học Yonsei, khoảng 190 sinh viên bị phát hiện dùng AI (trí tuệ nhân tạo) để gian lận trong bài kiểm tra giữa kỳ môn "Xử lý ngôn ngữ tự nhiên và ChatGPT", hồi tháng 10.
+Khóa học có khoảng 600 sinh viên, hoàn toàn trực tuyến vì số lượng người học lớn. Bài thi giữa kỳ diễn ra dưới hình thức trắc nghiệm qua một trang web. Sinh viên được yêu cầu ghi lại màn hình máy tính, bàn tay và khuôn mặt của mình trong suốt thời gian làm bài, nộp đoạn phim sau khi bài thi kết thúc.
+Tuy nhiên, một số sinh viên được cho là đã điều chỉnh góc quay camera để tạo điểm mù, hoặc mở nhiều cửa sổ trên màn hình để tránh bị giám sát. Khi phát hiện dấu hiệu vi phạm, giám thị cho hay bất kỳ sinh viên nào tự nguyện trình diện sẽ nhận điểm 0, nhưng không phải chịu thêm hình phạt nào.
+Sau thông báo trên, một cuộc thăm dò đã xuất hiện trong nội bộ sinh viên. Trong 350 người bỏ phiếu, 190 sinh viên thừa nhận đã gian lận.
+"Hầu hết chúng tôi đều sử dụng ChatGPT", một sinh viên chia sẻ. Một người khác cũng thừa nhận mình và rất nhiều bạn cùng lớp đã tra cứu đáp án bằng AI.
+Hiện tượng tương tự xuất hiện tại Đại học Quốc gia Seoul. Bài thi môn Thống kê hồi tháng 10 được tổ chức trực tiếp tại phòng máy. Dù được cảnh báo, nhiều sinh viên vẫn dùng AI, khiến trường cân nhắc huy kết quả và tổ chức thi lại.
+Trước đó, trong một khóa học trực tuyến với hơn 1.400 sinh viên ở Đại học Korea, khoảng 1/3 bị bắt quả tang trao đổi đáp án qua một nhóm chat, khi làm bài tập. 
+Nhiều sinh viên bày tỏ sự thất vọng trước các vụ gian lận quy mô lớn, cho rằng những người vi phạm phải chịu trách nhiệm. 
+Tuy nhiên, trên trang cộng đồng trực tuyến của Đại học Korea, không ít người chỉ trích nhà trường và giảng viên vì đã dạy và tổ chức thi trực tuyến mà không hướng dẫn rõ ràng về liêm chính học thuật. Vì thế, việc trừng phạt sinh viên là lỗi thời và không công bằng.
+"AI là công cụ không thể thiếu đối với sinh viên hiện nay. Một số giáo sư cấm, một số khác khuyến khích, còn thực tế là sinh viên vẫn dùng", theo Woo Jung-sik, sinh viên năm cuối Đại học Hanyang.
+Lee, sinh viên năm cuối khoa Sư phạm, Đại học Korea, cho rằng nhiều sinh viên đang tích cực dùng các nền tảng AI như Perplexity và Gemini, và không nghĩ rằng việc này là sai. "Sử dụng hiệu quả công nghệ AI đang phát triển nhanh cũng là một kỹ năng", Lee nói.
+Theo khảo sát với hơn 700 sinh viên của Viện Nghiên cứu Giáo dục và Đào tạo nghề Hàn Quốc năm ngoái, khoảng 92% cho biết sử dụng các công cụ AI để thu thập thông tin khi nghiên cứu hoặc để hoàn thành bài tập.
+"Mọi người xung quanh tôi đều dùng ChatGPT hoặc Gemini để làm bài tập hoặc để hiểu bài, nhiều đến mức tôi cảm thấy ngu ngốc và tụt hậu nếu không dùng", một sinh viên ở Seoul nói.
+Giáo sư Song Ki-chang, Khoa Giáo dục, Đại học Nữ Sookmyung, nhận định đã đến lúc các trường thiết lập hướng dẫn rõ ràng hơn về việc sử dụng AI.
+"Không thể cấm hoàn toàn việc sử dụng AI. Nhưng nếu không có tiêu chuẩn rõ ràng, sinh viên có thể trở nên quá phụ thuộc", ông Song nói.
+Khánh Linh (Theo Korea Joongang Daily, The Korea Times, Korea Herald)

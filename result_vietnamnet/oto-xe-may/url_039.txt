@@ -1,0 +1,27 @@
+Tại sao không nên để laptop trong ô tô dù trời nóng hay lạnh?
+Việc để laptop trong ô tô tưởng như vô hại nhưng thực tế lại là một trong những sai lầm phổ biến khiến nhiều người phải trả giá đắt. Môi trường bên trong xe dù nóng hay lạnh, đều có thể gây hư hại nghiêm trọng cho pin và màn hình.
+Thói quen để laptop trong xe mang lại sự tiện lợi, giúp người dùng không quên thiết bị khi ra ngoài. Tuy nhiên, ô tô không phải là nơi an toàn cho các thiết bị điện tử.
+Nếu bạn từng ngồi trong một chiếc xe tắt điều hòa giữa ngày nắng 32 độ C, bạn sẽ hiểu cảm giác “ngột ngạt” đó. Xe đỗ dưới nắng hấp thụ nhiệt và giữ lại bên trong, khiến nhiệt độ có thể tăng nhanh chóng đến mức phá hủy linh kiện.
+Laptop vốn có cơ chế làm mát và tự ngắt khi quá nhiệt, nhưng điều đó chỉ hoạt động khi máy đang được sử dụng trong môi trường thông thoáng.
+Khi bạn để máy trong xe, không có luồng khí lưu thông và nhiệt độ không thể thoát ra, khiến toàn bộ hệ thống bị “nung chín”.
+Nhiệt độ trong xe có thể tăng cao đến mức nào?
+Theo Trung tâm Dự phòng và Kiểm Soát Bệnh Tật (CDC) Hoa Kỳ và Cục Quản lý An toàn giao thông đường cao tốc quốc gia Hoa Kỳ (NHTSA), chỉ trong 10 phút đầu tiên, nhiệt độ trong xe có thể tăng thêm khoảng 11 độ C.
+Ngay cả khi trời tương đối mát mẻ, chỉ khoảng 25–27 độ C, nhiệt độ trong xe đỗ ngoài nắng vẫn có thể vượt 43 độ C.
+Ở mức này, pin lithium-ion là loại pin phổ biến trong laptop bắt đầu bị ảnh hưởng nghiêm trọng. Theo Apple, các dòng MacBook không nên được cất giữ trong môi trường có nhiệt độ trên 43 độ C, vì nhiệt độ cao có thể khiến pin bắt đầu lão hóa không thể phục hồi.
+Nếu xe đỗ lâu dưới nắng, nhiệt độ bên trong có thể vượt 70 độ C, đủ để làm chảy lớp keo dán trong màn hình LCD, khiến xuất hiện các đốm bong bóng hoặc vết loang.
+Ổ SSD cũng bị giảm tuổi thọ, thậm chí mất dữ liệu nếu liên tục chịu mức nhiệt này trong nhiều tháng.
+Không chỉ nóng, nhiệt độ lạnh cũng là “kẻ thù” của laptop khi pin lithium-ion có thể hoạt động kém trong điều kiện nhiệt độ thấp. Khi trời lạnh, các phản ứng hóa học trong pin diễn ra chậm lại, làm giảm hiệu suất và dung lượng.
+Ngoài ra, khi bạn mang laptop từ môi trường lạnh vào xe đang bật sưởi, sự chênh lệch nhiệt độ đột ngột có thể tạo ra hơi nước ngưng tụ bên trong máy.
+Chất lỏng này có thể gây đoản mạch hoặc làm gỉ linh kiện, khiến laptop hư hỏng vĩnh viễn. Không chỉ vậy, việc để laptop trong ô tô còn tiềm ẩn nguy cơ bị trộm cắp hoặc va đập nếu xe rung lắc.
+Cách hạn chế rủi ro nếu buộc phải để laptop trong xe
+Trong trường hợp bất khả kháng, bạn có thể áp dụng một số biện pháp bảo vệ sau:
+- Tắt hoàn toàn máy tính (không để chế độ ngủ).
+- Đặt laptop ở vị trí mát nhất, tránh ánh nắng trực tiếp như dưới sàn hoặc gầm ghế.
+- Sử dụng túi hoặc hộp cách nhiệt, giúp giảm tốc độ hấp thụ nhiệt.
+- Dùng tấm che nắng cho kính chắn gió để giảm nhiệt độ trong khoang lái.
+- Không sạc pin trong xe khi nhiệt độ quá cao hoặc quá thấp.
+- Khi lấy máy ra, chờ máy nguội hoặc ấm dần trước khi bật để tránh sốc nhiệt và ngưng tụ.
+Đừng đánh đổi sự tiện lợi bằng thiết bị đắt tiền
+Dù chỉ vài giờ để laptop trong xe cũng đủ khiến pin chai, ổ cứng hỏng, hoặc màn hình biến dạng. Chi phí sửa chữa những thiệt hại này thường cao hơn nhiều so với sự tiện lợi tạm thời.
+Vì vậy, hãy nhớ quy tắc vàng: “Không bao giờ để laptop trong xe, bất kể thời tiết nóng hay lạnh.” Nếu bạn muốn thiết bị của mình bền bỉ và hoạt động ổn định lâu dài, hãy mang theo bên người dù chỉ là một đoạn đường ngắn.
+Hãy để lại bình luận bên dưới hoặc chia sẻ bài viết về Báo VietNamNet theo email: otoxemay@vietnamnet.vn. Các nội dung phù hợp sẽ được đăng tải. Xin cảm ơn!

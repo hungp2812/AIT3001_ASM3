@@ -1,0 +1,10 @@
+ChatGPT tạo ảnh siêu thực, vẽ đồ thị cho người dùng
+OpenAI cung cấp công cụ tạo ảnh AI cho tất cả người dùng ChatGPT, bao gồm cả tài khoản miễn phí, cùng với nhiều tính năng mới khác.
+Trong sự kiện được livestream hôm 25/3, OpenAI trình diễn cách người dùng sử dụng ChatGPT để chỉnh sửa hình ảnh chỉ thông qua những câu hội thoại với chatbot. Chẳng hạn, họ có thể yêu cầu ChatGPT tạo ảnh chú ốc sên trong thành phố rồi thêm thắt các chi tiết như mũ đội hay thay đổi hậu cảnh.
+OpenAI cho biết ChatGPT có thể tạo ảnh tốt hơn khi nhận được đầu vào rõ ràng, hỗ trợ vẽ đồ thị, thiết kế logo phục vụ công việc. Người dùng có thể yêu cầu chatbot tạo thực đơn, bản đồ hoặc thực hiện các hướng dẫn phức tạp về bố cục hình ảnh.
+Hướng đến mục tiêu trở thành một ứng dụng toàn năng, OpenAI đang tích hợp ChatGPT với các tính năng như tìm kiếm, trợ lý giọng nói và tạo video. Những cải tiến mới nhất giúp sản phẩm này cạnh tranh với các chatbot khác, bao gồm Grok của Elon Musk, đồng thời đáp ứng nhu cầu từ cả cá nhân lẫn doanh nghiệp.
+Dù vậy, tính năng tạo ảnh của ChatGPT vẫn chưa hoàn thiện, chẳng hạn có thể mắc lỗi chính tả trong hình. Theo OpenAI, những sai sót này thường xảy ra nếu lời nhắc của người dùng chưa đủ chi tiết. AI cũng gặp khó khăn khi tạo ký tự nhỏ hoặc chữ ngoài bảng chữ cái Latinh.
+Theo CEO Sam Altman, ChatGPT sẽ mất khoảng một phút để tạo ảnh do mức độ chi tiết cao hơn. GPT-4o sẽ thay thế DALL·E, trở thành mô hình tạo ảnh mặc định trên ChatGPT, và có sẵn cho tất cả người dùng, bao gồm ChatGPT Free, Plus, Team và Pro.
+OpenAI cho biết những tiến bộ của GPT-4o – mô hình ra mắt năm ngoái – có được nhờ đội ngũ “huấn luyện viên con người”, những người đã gán nhãn dữ liệu đào tạo cho mô hình.
+Tuy nhiên, việc sử dụng AI để tạo hình ảnh vẫn gây tranh cãi. Một số nghệ sĩ lo ngại các công cụ này “đạo nhái” tác phẩm và đe dọa sinh kế của họ. OpenAI khẳng định GPT-4o được đào tạo dựa trên dữ liệu công khai và nguồn độc quyền từ các đối tác như Shutterstock.
+(Theo WSJ, Bloomberg)

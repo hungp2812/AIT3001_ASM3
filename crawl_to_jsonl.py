@@ -9,13 +9,13 @@ import re
 
 # 1. Đường dẫn đến folder kết quả của lần chạy hiện tại
 # Ví dụ: "result_vnexpress", "result_dantri"...
-# DATA_ROOT = "result_vnexpress"
-DATA_ROOT = "result_vietnamnet"  
+DATA_ROOT = "result_vnexpress"
+# DATA_ROOT = "result_vietnamnet"  
 
 # 2. Tên nguồn báo (để lưu vào meta data phân biệt)
 # Ví dụ: "vnexpress", "dantri", "tuoitre"
-# SOURCE_NAME = "vnexpress" 
-SOURCE_NAME = "vietnamnet"
+SOURCE_NAME = "vnexpress" 
+# SOURCE_NAME = "vietnamnet"
 
 # 3. File đầu ra chung (Không sửa tên này để nó nối đuôi vào 1 file duy nhất)
 OUTPUT_FILE = "combined_phobert_data.jsonl" 

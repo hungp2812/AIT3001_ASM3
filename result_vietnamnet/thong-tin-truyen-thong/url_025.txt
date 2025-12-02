@@ -1,0 +1,11 @@
+Apple sẽ giới thiệu iOS 19 vào ngày 9/6
+Apple thông báo Hội nghị nhà phát triển WWDC 2025 sẽ khai mạc vào ngày 9/6 và kéo dài đến 13/6 tại trụ sở phi thuyền Apple Park.
+Hội nghị WWDC 2025 diễn ra dưới hình thức trực tiếp kết hợp trực tuyến, trong đó phiên khai mạc diễn ra trực tiếp ngày 9/6 tại Apple Park.
+Các thành viên của chương trình Apple Developer Program, cựu học viên Apple Entrepreneur Camp, người thắng giải Swift Student trước đây và các thành viên hiện tại của Apple Developer Enterprise Program có thể đăng ký tham dự.
+Tuy nhiên, do không gian hạn chế, Apple sẽ lựa chọn người tham dự thông qua bốc thăm ngẫu nhiên. Vé không được chuyển nhượng. Những người không có vé vẫn có thể theo dõi qua website Apple hoặc YouTube.
+Trong hội nghị, có nhiều phiên để nhà phát triển tìm hiểu về những tính năng phần mềm mới và cách tích hợp chúng vào ứng dụng.
+Tại WWDC 2025, dự kiến, Apple sẽ giới thiệu iOS 19, iPadOS 19, macOS 16, tvOS 19, watchOS 12 và visionOS 3.
+Theo tin đồn, iOS 19 sẽ là một trong những lần lột xác quan trọng nhất lịch sử của hệ điều hành iPhone. Bản cập nhật mang đến thiết kế biểu tượng, trình đơn, ứng dụng, cửa sổ… hoàn toàn mới.
+Nó cũng đơn giản hóa cách mọi người sử dụng và điều khiển thiết bị. Bloomberg cho biết đây là lần nâng cấp lớn nhất kể từ iOS 7 năm 2013.
+macOS 16 và iPadOS 19 cũng sẽ được đổi mới về giao diện, mang đến sự nhất quán về ngôn ngữ thiết kế xuyên suốt các nền tảng.
+(Theo Macrumors, 9to5mac)

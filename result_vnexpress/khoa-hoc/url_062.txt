@@ -1,10 +1,11 @@
 
-Mảnh sao chổi vận tốc 160.000 km/h cháy sáng trên bầu trời 
-Mỹ
-Thiên thạch, nhiều khả năng là mảnh sao chổi, bốc cháy trong khí quyển, tạo ra ánh sáng xanh lục phía trên khu vực Ngũ Đại Hồ.
-Video từ các camera của tổ chức Michigan Storm Chasers về quá trình thiên thạch lao nhanh qua bầu trời hôm 23/11 được đăng trên Facebook tuần này. Theo Hiệp hội Khí tượng Mỹ (AMS), nhiều người nhìn thấy thiên thạch ở các bang Michigan, Wisconsin, Indiana, thậm chí ở nơi cách xa tới 550 km như thành phố Lancaster, bang Ohio.
-NASA sau đó truy vết đường đi của thiên thạch bằng video và những báo cáo khác. Theo cơ quan này, nó bắt đầu hiện rõ ở độ cao 100 km phía trên Hồ Hubbard, sau đó lao đi với tốc độ 160.000 km/h trong khoảng 132 km, cuối cùng tan rã ở độ cao 74 km phía trên Hồ Huron.
-Theo NASA, thiên thạch phía trên Ngũ Đại Hồ có vẻ là mảnh sao chổi nhỏ, đơn lẻ, không phải một phần của bất cứ trận mưa sao băng nào đang diễn ra như mưa sao băng Leonid, kéo dài từ ngày 6/11 đến ngày 30/11. Các thiên thạch Leonid nổi tiếng với tốc độ cao, lao vào khí quyển Trái Đất với vận tốc khoảng 260.000 km/h, trở thành cầu lửa sáng rực, đôi khi để lại vệt sáng kéo dài.
-Đa số sao chổi và thiên thạch đều có thể nhìn thấy bằng mắt thường, nhưng việc chụp ảnh đòi hỏi thiết bị nhiếp ảnh thiên văn chuyên dụng. Theo AMS, thiên thạch đôi khi phát ra ánh sáng xanh lục do nồng độ kim loại cao, ví dụ niken. Các nguyên tố có thể tạo ra cầu lửa với màu sắc khác nhau: natri tạo ra màu vàng sáng trong khi magie là xanh lam sáng.
-Thế giới từng ghi nhận nhiều trường hợp thiên thạch phát ra ánh sáng xanh lục. Ví dụ, tháng 7/2022, một cầu lửa xanh lục xuất hiện phía trên New Zealand. Tháng 11 cùng năm, một thiên thạch khác rơi xuống Hồ Ontario, trở thành tiểu hành tinh nhỏ nhất từng được đo đạc với đường kính chỉ 40-60 cm.
-Thu Thảo (Theo Live Science)
+Trận đấu quyền Anh đầu tiên trên thế giới của robot hình người 
+Công ty robot Trung Quốc Unitree thông báo sẽ phát trực tiếp trận đấu quyền Anh đầu tiên giữa hai robot hình người trong khoảng một tháng tới.
+Unitree cũng tung ra video giới thiệu kèm theo thông báo mới, cho thấy một robot của công ty đấu quyền Anh với con người và robot khác. Trận đấu đầu tiên giữa hai robot hình người mang tên "Unitree Iron Fist King: Awakening!", dự kiến diễn ra trong khoảng một tháng nữa, Interesting Engineering hôm 12/4 đưa tin.
+Unitree chưa công bố thông tin nào khác về trận đấu, bao gồm mẫu robot tham gia. Dù vậy, robot G1 cao 1,32 m là "ứng cử viên" sáng giá nhất. G1 là robot hình người tiên tiến nhưng giá cả phải chăng, nhắm đến các nhà nghiên cứu và người đam mê.
+Một lựa chọn khác là robot H1 cao 1,8 m. Mẫu này có sức mạnh tính toán lớn hơn, khả năng kiểm soát chuyển động mượt mà hơn và được coi là robot thương mại chủ chốt của công ty với giá 16.000 USD.
+G1 nhỏ hơn H1 nhưng cũng rất linh hoạt và có thể gấp gọn lại để người dùng mang theo. G1 trang bị nhiều tính năng tương tự H1 và có thể chạy với tốc độ 2 m mỗi giây.
+Video giới thiệu của Unitree giúp người xem hình dung phần nào về trận đấu quyền Anh sắp tới. Trong phần đầu của video, robot G1 đấu với con người. Robot đứng lên khá nhanh khi bị đánh ngã, nhưng so với đối thủ, nó vẫn phản ứng chậm hơn và không nhuần nhuyễn khi thực hiện những động tác như né đòn và giữ thăng bằng sau khi bị đánh. Phần sau của video là trận đấu giữa hai robot, có vẻ "ngang tài ngang sức" hơn.
+Hồi tháng 1, Unitree công bố video về khả năng nhảy giống người của các robot hình người H1, H1-2 và G1, cho thấy những chuyển động sống động trong bộ dữ liệu mới. Điều này sẽ giúp người dùng có thể sử dụng robot hình người để tương tác tự nhiên hơn trong thế giới thực.
+Unitree đã nỗ lực cải tiến khả năng điều khiển chuyển động toàn thân của robot, đồng thời đào tạo chúng đi bộ, nhảy múa giống con người, thậm chí thực hiện một số động tác từ các vận động viên nổi tiếng và từ võ kung fu. Tuy nhiên, việc huấn luyện quyền Anh của robot vẫn chưa kết thúc. Có thể Unitree sẽ thực hiện một số cải tiến nữa trước khi trận đấu chính thức diễn ra.
+Thu Thảo (Theo Interesting Engineering)

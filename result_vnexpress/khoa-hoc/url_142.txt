@@ -1,0 +1,6 @@
+
+Cách dùng AI tạo ảnh Nano Banana Pro của Google Gemini 
+Nano Banana Pro được coi là AI tạo ảnh tốt nhất hiện nay với khả năng tạo chữ chính xác, vẽ infographic, trộn hình ảnh hay thậm chí dịch, tô màu truyện tranh.
+Nano Banana Pro là AI tạo ảnh được xây dựng trên nền tảng Gemini 3 Pro. Nhờ tận dụng khả năng lập luận tiên tiến và hiểu biết về thế giới thực của Gemini, Nano Banana Pro có thể trực quan hóa thông tin tốt hơn phiên bản Nano Banana cũ và một số mô hình AI phổ biến khác.
+Google cung cấp cho người dùng miễn phí tối đa năm câu lệnh (prompt) và hai ảnh mỗi ngày với trình tạo ảnh Nano Banana Pro. Giới hạn này tương đương những gì người dùng miễn phí nhận được với mô hình Gemini 2.5 Pro trước đó. Với người đăng ký gói Google AI Pro và Ultra, giới hạn lần lượt là 100 và 500 câu lệnh mỗi ngày.
+Trường Giang - Tuấn Hưng

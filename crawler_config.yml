@@ -1,6 +1,6 @@
 # Web that want to crawls (only support vnexpress now)
-# webname: "vnexpress"
-webname: "vietnamnet"
+webname: "vnexpress"
+# webname: "vietnamnet"
 
 # tasks = ["url", "type"]
 task: "type"
@@ -14,4 +14,4 @@ num_workers: 1
 # if task == "type": 
 # article_type == "all" to crawl all of types
 article_type: "all"
-total_pages: 3
+total_pages: 5

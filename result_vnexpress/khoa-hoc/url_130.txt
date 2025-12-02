@@ -1,0 +1,10 @@
+
+Intel sẽ sản xuất chip Apple Silicon cho MacBook giá rẻ 
+Apple có thể nối lại quan hệ hợp tác với Intel nhưng theo cách mới và hạn chế hơn khi chỉ dành cho dòng M cấp thấp.
+Theo nhà phân tích Ming-Chi Kuo, Intel sẽ xuất xưởng các chip dòng M cấp thấp của Apple sớm nhất giữa năm 2027. Loạt vi xử lý này có thể sử dụng quy trình 18A của Intel và là tiến trình dưới 2 nm tiên tiến được sản xuất sớm nhất tại Bắc Mỹ.
+Theo Macrumors, nếu thông tin trên chính xác, Intel có thể cung cấp cho Apple ít nhất hai chip M6 và M7 cho các mẫu MacBook Air, iPad Air và iPad Pro trong tương lai. Apple gần đây đã ra đến chip M5 nhưng tất cả đều do TSMC sản xuất.
+So với các chip trước đây dành cho máy Mac được Intel thiết kế và dựa trên kiến trúc x86, dòng M lại do Apple thiết kế và sử dụng kiến trúc ARM. Vì vậy, với chip M cấp thấp mới, Intel sẽ chỉ hỗ trợ quá trình sản xuất thay vì nắm trọn chu trình.
+Ông Kuo cho rằng việc Apple chọn Intel giúp xoa dịu mong muốn của chính quyền Tổng thống Donald Trump về các sản phẩm "sản xuất tại Mỹ". Mặt khác, điều này cũng giúp Apple đa dạng hóa chuỗi cung ứng, tránh phụ thuộc vào duy nhất TSMC để sản xuất vi xử lý.
+"Quả táo" bắt đầu chuyển đổi từ bộ xử lý Intel sang chip M cho máy tính Mac từ năm 2020. Sau 5 năm, công ty liên tục ra các dòng mới và đều mang lại hiệu suất hàng đầu trên mỗi watt điện tiêu thụ trong ngành.
+Trước đó, nhà sản xuất MacBook cũng thông báo macOS Tahoe sẽ phiên bản hệ điều hành cuối cùng hỗ trợ các máy tính Mac chạy Intel trên kiến trúc x86.
+Intel gần đây gặp nhiều khó khăn trong giai đoạn thị trường công nghệ bước sang cuộc đua về AI. Sau chưa đầy một năm, công ty đã sa thải hơn 20.000 người và khoảng 35.000 người sau hai năm bao gồm cả các vị trí quản lý. Theo Reuters, công ty gần như không có chỗ đứng trong ngành chip AI bùng nổ, hiện do Nvidia thống trị. Trong khi đó, đối thủ lâu năm AMD đang gia tăng thị phần trong các mảng then chốt của Intel như máy tính cá nhân và chip máy chủ.

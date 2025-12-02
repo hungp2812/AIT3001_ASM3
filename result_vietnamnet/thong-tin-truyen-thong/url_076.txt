@@ -1,0 +1,18 @@
+Startup robot hình người Trung Quốc muốn bắt kịp Elon Musk
+Startup Agibot của Trung Quốc đặt mục tiêu sản xuất 5.000 robot hình người trong năm 2025, cạnh tranh trực tiếp với Optimus của Elon Musk.
+Agibot hay còn được biết đến với tên Zhiyuan Robotics dự định giao từ 3.000 đến 5.000 robot hình người trong năm nay, tăng mạnh từ dưới 1.000 đơn vị năm 2024.
+Thông tin vừa được Yao Maoqing, quản lý của Agibot, tiết lộ. Số lượng tăng vọt phản ánh nhu cầu mở rộng nhanh chóng của các startup robot Trung Quốc nhân lúc ngành công nghiệp nở rộ. 
+Sản lượng robot công nghiệp ở Trung Quốc tăng 27% lên 91.088 đơn vị trong hai tháng đầu năm 2025, trong khi sản lượng robot dịch vụ tăng 36% lên 1,5 triệu đơn vị, theo thống kế chính thức của chính phủ.
+Được thành lập vào năm 2023, Agibot đã vươn lên trở thành một công ty chủ chốt trong lĩnh vực robot của Thượng Hải, với một nhà máy tại Lâm Gang. Startup dự định mở một nhà máy mới ở huyện Phố Đông để tăng năng lực sản xuất lên hơn 400 robot mỗi tháng, theo Yao.
+Chia sẻ với SCMP, Yao cho biết năm nay công ty đặt mục tiêu triển khai các sản phẩm mới trong ngành công nghiệp, thay thế con người ở những công việc cụ thể để mang đến giá trị hữu hình cho khách hàng. Robot hình người trong gia đình có thể xuất hiện trong khoảng 5 năm nữa.
+Agibot do Peng Zhihui, cựu thành viên chương trình tuyển dụng “Thiếu niên thiên tài” nổi tiếng của Huawei, đồng sáng lập. Peng cùng với Wang Xingxing, CEO Unitree Robotics, được xem là những nhân vật quan trọng trong việc đưa Trung Quốc thành cường quốc robot.
+Yao, từng chinh chiến trong lĩnh vực xe tự lái với thời gian làm việc cho Waymo của Google cũng như hãng xe điện nội địa Nio, chỉ ra lợi thế của Trung Quốc trong phát triển robot hình người là chuỗi cung ứng phần cứng toàn diện và nhân lực AI dồi dào.
+Ông cho biết ngành công nghiệp robot hình người mới manh nha và chưa phát triển được nhiều ứng dụng, chi phí sản xuất vẫn cao. Ông hi vọng chi phí sẽ giảm đáng kể khi quy mô sản xuất tăng lên và năng suất cải thiện.
+Theo Yao, robot hình người có thể được ứng dụng rộng rãi một khi chi phí giảm xuống 50.000 NDT (hơn 176 triệu đồng) một đơn vị.
+Agibot hiện cung cấp ba dòng sản phẩm chủ lực: Yuanzheng – robot hình người hai chân dùng trong thương mại, Genie – robot hai cánh tay di chuyển bằng bánh xe và Lingxi – robot cỡ nhỏ cho các nhà phát triển và người tiêu dùng.
+Hồi tháng 1, startup đạt cột mốc 1.000 robot, bao gồm 269 Genie và 731 Yuanzheng. Peng hiện đang phụ trách phát triển Lingxi.
+Agibot đã hoàn thành ít nhất 8 vòng gọi vốn và được định giá khoảng 10 tỷ NDT.
+Dù vậy, cũng như các công ty robot khác, Agibot đối mặt với những thách thức về khan hiếm dữ liệu. Khác với dữ liệu trực tuyến dư thừa để đào tạo các mô hình ngôn ngữ lớn, robot cần đến các mô hình đa phương thức để phân tích môi trường xung quanh.
+Agibot đã thiết lập một trung tâm thu thập dữ liệu ở Thượng Hải, nơi khoảng 100 robot tạo ra khoảng 50.000 hồ sơ dữ liệu chuyển động chất lượng cao hàng ngày trong cơ sở rộng 2.000m2.
+Mỗi hồ sơ chứa hàng chục nghìn mã thông báo (token). Ông Yao nhấn mạnh, khi đạt tới hàng tỷ token, robot sẽ có thêm các năng lực mới. 
+(Theo SCMP)

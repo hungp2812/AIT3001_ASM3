@@ -1,0 +1,10 @@
+
+Mật khẩu phổ biến nhất Việt Nam năm 2025 
+Hàng triệu người dùng tại Việt Nam vẫn đặt mật khẩu dễ đoán, trong đó các dãy số 123456 hay 123456789 chiếm áp đảo.
+Cuối tuần qua, NordPass, công ty an ninh mạng chuyên theo dõi thông tin đăng nhập bị rò rỉ và mối đe dọa trực tuyến, công bố bảng xếp hạng mật khẩu phổ biến. Trong đó, mật khẩu 123456 được người Việt đặt 1.899.982 lần, gấp đôi vị trí thứ hai với mật khẩu 123456789 có 858.317 lượt đặt.
+Trong danh sách 10 mật khẩu, các dãy số dễ nhớ đều có lượt đặt vượt 100.000, như 12345678 xếp thứ ba với 603.756 lượt, 123123 đứng thứ 7 với 158.619 lượt. Mật khẩu quen thuộc như admin, Demo@123 cũng được sử dụng nhiều tại Việt Nam.
+Trên toàn cầu, mật khẩu 123456 cũng phổ biến nhất với tổng hơn 21,6 triệu lượt, xếp sau là "admin" hơn 21 triệu lượt. Ở từng quốc gia, tên và họ phổ biến cũng thường xuất hiện trong mật khẩu, như cụm ký tự "nguyen" ở Việt Nam, cho thấy vị trí địa lý và văn hóa có vai trò quan trọng trong việc hình thành các hoạt động bảo mật phổ biến, nhưng lại dễ bị tấn công, theo nhóm nghiên cứu.
+Trong nhiều năm, mật khẩu 123456 luôn đứng đầu danh sách của NordPass về mức độ sử dụng. Tuy nhiên, các chuyên gia khuyến cáo nên tránh mật khẩu này, bởi chúng dễ bị công cụ quét của hacker đoán ra, nhất là khi chúng thông minh hơn nhờ sự hỗ trợ của AI. Năm ngoái, Anh là quốc gia đầu tiên cấm người dùng đặt mật khẩu dễ đoán như 123456, admin nhằm ngăn ngừa tấn công mạng.
+Thời gian qua, nhiều công ty cũng triển khai giải pháp nhằm thay thế mật khẩu, phổ biến nhất là passkey. Thay vì nhập ký tự vào màn hình, việc xác thực sẽ thông qua thiết bị bên thứ ba. Thiết bị này liên kết với tài khoản và đóng vai trò công cụ xác thực. Khi đăng nhập, một yêu cầu mở khóa sẽ được chuyển đến thiết bị, thường sẽ xác thực bằng vân tay hoặc nhận dạng khuôn mặt. Nhược điểm của passkey là phải có kết nối Internet.
+"Không như mật khẩu, đăng nhập bằng passkey không bị rò rỉ hoặc bị đánh cắp, vì nó yêu cầu thiết bị phần cứng vật lý từ bên ngoài. Và không giống xác thực hai yếu tố (2FA), nó không thể bị chặn hoặc bỏ qua", theo Forbes.
+Bảo Lâm (theo NordPass, NYPost)

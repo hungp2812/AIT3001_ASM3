@@ -1,0 +1,26 @@
+Phát hiện điểm tương đồng bất ngờ giữa con người và mô hình AI mới
+Các nhà khoa học thần kinh tại MIT vừa phát hiện một điểm tương đồng đáng ngạc nhiên giữa cách con người và các mô hình AI thế hệ mới giải quyết những vấn đề phức tạp.
+Những mô hình ngôn ngữ lớn (LLMs) như ChatGPT có thể viết luận hoặc lập thực đơn gần như ngay lập tức. Nhưng cho đến gần đây, chúng vẫn dễ dàng bị làm khó: thường xuyên thất bại trong các bài toán hoặc các nhiệm vụ suy luận phức tạp. Tuy nhiên, thế hệ LLM mới - gọi là mô hình suy luận (reasoning models) - đã được huấn luyện để xử lý các nhiệm vụ dạng này, và giống con người, chúng cần thời gian để suy nghĩ.
+Điều đáng kinh ngạc: nghiên cứu tại Viện McGovern (MIT) phát hiện rằng những dạng câu hỏi khiến mô hình phải “tốn công suy nghĩ” nhiều nhất cũng chính là những dạng khiến con người chậm lại để xử lý kỹ hơn.
+Nói cách khác, như công bố trên tạp chí PNAS, “chi phí tư duy” của mô hình suy luận gần như song hành với chi phí tư duy của con người.
+“Điều này rất ấn tượng”, GS. Evelina Fedorenko - tác giả chính cho biết. “Những người tạo ra mô hình không hề đặt mục tiêu mô phỏng tư duy con người. Họ chỉ muốn mô hình trả lời đúng. Việc cả hai đi đến cách xử lý tương đồng thực sự đáng chú ý”.
+Mô hình suy luận: AI học cách giải quyết vấn đề từng bước
+Giống nhiều hệ thống AI khác, mô hình suy luận là mạng nơ-ron nhân tạo, được huấn luyện qua dữ liệu và bài toán. Trước đây, các mạng nơ-ron có thể xử lý ngôn ngữ hoặc nhận diện hình ảnh rất tốt, nhưng nhiều nhà khoa học tin rằng AI còn lâu mới chạm đến khả năng suy luận giống con người.
+“Ngay cả tôi cũng từng nghĩ rằng phải rất lâu nữa AI mới có thể làm suy luận đúng nghĩa”, Fedorenko nói. “Thế nhưng các mô hình mới này bất ngờ làm tốt - từ bài toán, lập trình, đến nhiều dạng suy nghĩ phức tạp”.
+Theo nhà nghiên cứu Andrea Gregor de Varda, mô hình suy luận chia bài toán thành các bước nhỏ và xử lý tuần tự, thay vì cố trả lời một lần như LLM truyền thống.
+Kỹ thuật tăng cường học (reinforcement learning) giúp mô hình học cách “tự khám phá” lời giải:
+Trả lời đúng → thưởngTrả lời sai → phạtĐiều này khiến mô hình ngày càng chọn đúng hướng suy luận.
+Nhược điểm duy nhất: chúng mất thời gian hơn để suy nghĩ - nhưng đổi lại, trả lời đúng nhiều hơn.
+Đo chi phí tư duy: Con người = thời gian, AI = token
+Để so sánh tư duy AI với con người, nhóm nghiên cứu đưa cả hai cùng làm 7 dạng nhiệm vụ, bao gồm:
+Tính toán số họcSuy luận trực giácGiải cấu trúc lưới màu (ARC challenge)Người tham gia được đo thời gian phản hồi từng mili-giây.
+Còn với mô hình, thời gian xử lý không phản ánh công sức (vì phụ thuộc phần cứng). Thay vào đó, nhóm đo số token nội bộ - chuỗi “tự nói chuyện” của mô hình khi suy nghĩ.
+“Khi giải bài toán, mô hình tạo ra nhiều token để thực hiện tính toán nội bộ, giống như con người thì thầm với chính mình”, de Varda giải thích.
+Kết quả:
+Bài toán càng khó → con người càng mất nhiều thời gianBài toán con người mất nhiều thời gian nhất → mô hình tạo ra nhiều token nhấtCác lớp bài toán khó nhất với con người (như ARC) → cũng khó nhất với mô hìnhNói cách khác: độ khó nhận thức (cognitive load) giống nhau giữa người và mô hình suy luận.
+AI có suy nghĩ như con người? Có - nhưng không phải theo cách bạn nghĩ
+Phát hiện trên cho thấy mô hình suy luận có tính tương đồng trong chi phí tư duy, nhưng điều đó không đồng nghĩa với việc AI sao chép trí thông minh con người.
+Các câu hỏi mở vẫn còn đó:
+Mô hình có biểu diễn thông tin giống não người không?Các chuỗi token “tự suy nghĩ” của mô hình thực sự tương đương hoạt động nhận thức nào?AI có thể giải quyết các bài toán yêu cầu kiến thức thế giới thực mà không có trong dữ liệu huấn luyện không?Fedorenko lưu ý rằng nội dung “suy nghĩ” của mô hình thường không hề giống tư duy ngôn ngữ của con người - chúng có thể chứa lỗi và dòng suy luận vô nghĩa, nhưng vẫn dẫn tới đáp án đúng.
+Điều đó cho thấy tư duy thực sự của mô hình có thể diễn ra trong một không gian trừu tượng phi ngôn ngữ, tương tự cách con người không dùng câu chữ trong đầu để suy nghĩ ở mức sâu nhất.
+(Theo MIT News) 

@@ -1,0 +1,20 @@
+Những cách tắt iPhone nhanh ít người biết
+Tắt và khởi động lại iPhone giúp làm mới hệ thống, giải phóng RAM và khắc phục các lỗi phần mềm nhỏ. Dưới đây là những cách tắt iPhone nhanh nhất, đặc biệt áp dụng cho iOS 18.
+Việc tắt iPhone (hoàn toàn tắt nguồn, không chỉ khóa màn hình) có thể cần thiết hoặc hữu ích trong nhiều tình huống: Khi cần khắc phục sự cố kỹ thuật, khi cần tiết kiệm pin tối đa, khi mang đi sửa chữa, khi ở khu vực nhạy cảm về an ninh, khi gặp vấn đề bảo mật hoặc bị tấn công mạng, khi không sử dụng trong thời gian dài,...
+Có sự khác biệt lớn giữa việc đưa iPhone vào chế độ ngủ và tắt nguồn hoàn toàn. Ở chế độ ngủ, người dùng chỉ cần bấm nút nguồn (Side button) ở cạnh phải iPhone để tắt màn hình. Nhưng nếu cần tắt máy hoàn toàn, người dùng cần thực hiện một số thao tác để xác nhận tắt nguồn. Sau khi bắt đầu quá trình, người dùng phải vuốt thanh trượt trên màn hình từ trái sang phải để xác nhận.
+Hầu hết các phương pháp dưới đây đã có từ iOS 11, nhưng một số cách mới trong iOS 18 sẽ giúp tắt máy dễ dàng hơn.
+Dùng nút cứng trên iPhone
+Cách phổ biến nhất để tắt iPhone là sử dụng nút vật lý trên máy. Người dùng nhấn giữ đồng thời nút Tăng âm lượng (Volume Up) và nút Nguồn (Side button). Màn hình sẽ hiển thị thanh trượt tắt nguồn, thả tay khỏi nút và vuốt để xác nhận.
+Lưu ý, phương pháp này cũng giúp khởi động lại iPhone nếu màn hình bị treo. Nếu màn hình bị đơ và không phản hồi, có thể giữ nút nguồn lâu hơn để khởi động lại máy.
+Dùng nút cứng kết hợp Siri
+Nếu Siri được bật, người dùng có thể ra lệnh bằng giọng nói để tắt máy. Nhấn giữ nút Nguồn (Side button) và nói: "Siri, power off" (Siri, tắt nguồn). Siri sẽ hiển thị hộp thoại xác nhận, người dùng chỉ cần chạm vào màn hình để xác nhận.
+Nếu không thể nói chuyện với Siri, có thể tắt máy không cần nói bằng cách: Nhấn nhanh nút tăng âm lượng > nhấn nhanh nút giảm âm lượng > nhấn giữ nút nguồn cho đến khi thanh trượt tắt nguồn xuất hiện. Vuốt để tắt máy.
+Tắt iPhone từ cài đặt 
+Nếu không muốn dùng phím cứng, người dùng có thể tắt iPhone từ Cài đặt (Settings). Mở Cài đặt (Settings) > Chọn Cài đặt chung (General) > Kéo xuống và chọn Tắt máy (Shut Down). Sau đó vuốt để xác nhận.
+Phương pháp này áp dụng cho tất cả các mẫu iPhone, ngay cả những máy không chạy iOS 18.
+Tắt iPhone bằng trung tâm điều khiển
+Trong iOS 18, Apple đã thiết kế lại hoàn toàn Trung tâm điều khiển (Control Center), và có thêm một cách tắt iPhone cực kỳ tiện lợi. 
+Đầu tiên, hãy vuốt màn hình từ trên xuống để mở Trung tâm điều khiển (Control Center). Ở góc trên cùng bên phải, sẽ thấy biểu tượng tắt nguồn.
+Nhấn giữ biểu tượng này, màn hình sẽ hiển thị thanh trượt Trượt để tắt nguồn > Vuốt để tắt máy.
+Tổng kết, có 5 cách để tắt iPhone tóm tắt theo bảng dưới đây:
+Apple không hướng dẫn trực tiếp về những cách này, nhưng với iOS 18, tắt iPhone từ Control Center là cách dễ tìm thấy nhất.

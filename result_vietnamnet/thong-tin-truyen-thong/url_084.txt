@@ -1,0 +1,10 @@
+Apple đang đẩy mạnh đầu tư vào máy chủ Nvidia để phát triển AI?
+Mặc dù Apple từng công khai khẳng định rằng họ sử dụng máy chủ Apple Silicon để vận hành Apple Intelligence, nhưng một nhà phân tích vừa tiết lộ rằng công ty này đang chi 1 tỷ USD để mua hệ thống của Nvidia.
+
+Vào tháng 4/2024, một nguồn tin tiết lộ rằng Apple sẽ sử dụng bộ xử lý Apple Silicon để vận hành các máy chủ AI. Đến tháng 6/2024, nhiều báo cáo cho biết toàn bộ trung tâm dữ liệu của Apple sẽ được vận hành bằng Apple Silicon.
+Đến tháng 9/2024, thông tin Apple sử dụng Apple Silicon cho các máy chủ AI gần như được xác nhận. Craig Federighi, Phó Chủ tịch cấp cao của Apple, khẳng định rằng Apple Intelligence vận hành trên Apple Silicon, giúp tăng cường tính riêng tư cho dịch vụ AI của công ty.
+Tuy nhiên, theo Ananda Baruah, nhà phân tích tại Loop Capital, Apple đang chi khoảng 1 tỷ USD để mua máy chủ Nvidia phục vụ AI tạo sinh (Generative AI). Cụ thể, công ty đã đặt hàng 250 máy chủ Nvidia NVL72, với mức giá từ 3,7 triệu đến 4 triệu USD mỗi chiếc.
+"Apple chính thức tham gia vào lĩnh vực máy chủ AI tạo sinh quy mô lớn, với Super Micro Computer (SMCI) và Dell là các đối tác quan trọng. Dù vẫn đang thu thập thêm thông tin, nhưng có vẻ như công ty đang xây dựng một cụm máy chủ AI cho mô hình ngôn ngữ lớn (LLM)", Baruah viết trong báo cáo gửi đến nhà đầu tư.
+Theo Nvidia, máy chủ NVL72 bao gồm 36 CPU Grace và 72 GPU Blackwell. Tuy nhiên, tính đến ngày 18/3, Nvidia vẫn chưa chính thức ra mắt dòng máy chủ này. Apple có thể đã đặt hàng trước để mở rộng hệ thống, nhưng chưa rõ liệu động thái này nhằm phục vụ nghiên cứu nội bộ hay hướng đến các dịch vụ AI công khai.
+Nếu báo cáo của Baruah là chính xác, điều này đặt ra câu hỏi: Apple thực sự tin tưởng vào Apple Silicon, hay vẫn phải dựa vào Nvidia để phát triển AI?
+(Theo Appleinsider)

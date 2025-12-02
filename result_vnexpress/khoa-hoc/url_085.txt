@@ -1,30 +1,10 @@
 
-Lãnh đạo công nghệ nói gì về 'AI cướp việc'? 
-Các lãnh đạo công nghệ hàng đầu có quan điểm khác biệt về việc AI sẽ "tiếp quản" công việc của con người hay tạo ra việc làm mới.
-Từ khi ChatGPT tạo cơn sốt cuối năm 2022, AI đã len lỏi vào mọi mặt đời sống. Nhờ các tính năng đột phá, công nghệ này giúp nhiều người xử lý công việc dễ dàng hơn, nhưng cũng gây lo ngại "cướp" công việc. Trong giới lãnh đạo công nghệ, các ý kiến cũng không đồng nhất.
-Dario Amodei
-Dario Amodei, CEO công ty khởi nghiệp AI Anthropic, nhiều lần nhấn mạnh AI sẽ thay thế công việc của con người. Hồi tháng 5, ông cảnh báo trí tuệ nhân tạo có thể loại bỏ 50% việc làm của nhân viên văn phòng cấp thấp trong 5 năm tới.
-"Bước đầu tiên để giải quyết vấn đề là phải trung thực với mọi người, rằng AI thay thế công việc của con người thực sự tồn tại", Amodei nói với Axios hồi tháng 9. "Sự biến động theo cấp số nhân khiến mọi thứ diễn ra rất nhanh, không ai có thể chắc chắn".
-Theo ông, tốc độ phát triển của AI và cách xã hội áp dụng công nghệ khiến việc dự đoán thời gian diễn ra tình trạng thay thế không dễ, nhưng áp lực hiện đã đủ lớn để ông cảm thấy cần cảnh báo thế giới.
-Elon Musk
-Tỷ phú Elon Musk so sánh AI với "sóng thần siêu thanh" có thể làm đảo lộn thị trường lao động. Trong podcast của Joe Rogan tháng 11, ông cho rằng nhu cầu việc làm khi AI bùng nổ vẫn rất cao, nhưng nhiều công việc khác cũng sẽ bị thay thế, trong đó việc văn phòng nằm trong danh mục đầu tiên. Những hoạt động liên quan đến "chuyển động vật lý", chẳng hạn làm nông nghiệp, nấu ăn... sẽ ít bị ảnh hưởng hơn.
-Musk cũng lạc quan, thậm chí dự đoán con người trở nên giàu có nhờ AI, nhưng cảnh báo sẽ có "chấn thương và gián đoạn" trên con đường chuyển tiếp.
-Jensen Huang
-CEO Nvidia Jensen Huang từng chỉ trích quan điểm của Amodei về AI thay thế con người. Theo ông, ai không sử dụng được AI thời gian tới mới là người dễ bị cướp việc.
-"Những công ty áp dụng AI, robot trước sẽ thành công trước. Họ sẽ tuyển được nhiều nhân viên hơn. Bạn sẽ mất việc, nhưng không phải vào tay AI hay robot, mà vào tay người thành thạo các công nghệ đó", ông nói tại một sự kiện tháng 10.
-Jamie Dimon
-Tổng giám đốc JPMorgan Jamie Dimon đánh giá AI giúp rút ngắn thời gian làm việc. Ông hình dung con người sẽ làm 3,5 ngày một tuần trong 20-40 năm nữa "mà vẫn có cuộc sống tuyệt vời". Dù vậy, xã hội cần chuẩn bị cho giai đoạn chuyển tiếp, vì nó có thể gây ra tình trạng sa thải hàng loạt.
-Sam Altman
-"AI chắc chắn sẽ thay đổi rất nhiều công việc, thậm chí hoàn toàn lấy đi một số công việc, nhưng cũng tạo ra nhiều việc mới", CEO OpenAI Sam Altman nói trong podcast The Circuit hồi tháng 5.
-Một tháng sau, tại Hội nghị thượng đỉnh Snowflake ở San Francisco, Altman đánh giá các tác nhân AI (AI Agent) đang hoạt động như một nhân viên cấp dưới thực thụ, đồng nghĩa nhiều nhân viên đứng trước nguy cơ bị sa thải. Ông cũng hình dung một thế giới kết hợp giữa AI và robot hình người, thậm chí mô tả viễn cảnh con người có thể gặp "bảy con robot đi ngang qua bạn" trên phố. Dù vậy, hiện thế giới "chưa sẵn sàng" cho robot hình người.
-Andy Jassy
-CEO Amazon Andy Jassy cho biết AI đang thay đổi quy trình làm việc tại công ty, đồng nghĩa một số công việc sẽ bị cắt giảm. "Khi chúng tôi triển khai AI tạo sinh và tác nhân AI, cách thực hiện công việc cũng thay đổi", ông viết trên blog Amazon. "Chúng tôi sẽ cần ít người hơn nhưng vẫn đảm nhiệm đầy đủ số lượng công việc hiện nay".
-Tháng trước, Amazon sa thải khoảng 14.000 người, với một trong những lý do là AI "giúp chuyển đổi nhanh chóng". Theo Business Insider, đây được xem là minh chứng cho thấy trí tuệ nhân tạo đã bắt đầu có tác động lớn đến công việc của con người.
-Yann LeCun
-Trong bài viết trên LinkedIn tháng trước, cựu nhà khoa học trưởng AI của Meta bác bỏ ý kiến của Amodei và đồng tình với Huang. Trước đó, ông cũng có quan điểm lạc quan về AI. Phát biểu tại hội nghị GTC của Nvidia vào tháng 3, LeCun cho biết AI có thể thay thế con người, nhưng đặt câu hỏi liệu con người có cho phép điều đó xảy ra không: "Về cơ bản, mối quan hệ của chúng ta với hệ thống AI trong tương lai, gồm cả siêu trí tuệ, là chúng ta sẽ là ông chủ của chúng".
-Demis Hassabis
-Nhà đồng sáng lập Google DeepMind Demis Hassabis cho biết vào tháng 6 rằng AI sẽ tạo ra "những công việc rất có giá trị" và "nâng cao năng lực" cho người am hiểu kỹ thuật, cũng như những người đi đầu trong việc sử dụng công nghệ này. Theo ông, con người "có khả năng thích nghi vô hạn", do đó một số ảnh hưởng về công việc có thể xảy ra, nhưng không kéo dài.
-Tuy nhiên, Hassabis khuyên người trẻ nên học các môn STEM vì hiểu kiến thức cơ bản "rất quan trọng", đặc biệt trong các lĩnh vực toán học, vật lý và khoa học máy tính để biết "cách các hệ thống này được kết hợp với nhau".
-Geoffrey Hinton
-Theo giáo sư Geoffrey Hinton, một trong những người được mệnh danh là "bố già AI", con người trong thời đại trí tuệ nhân tạo cần "rất có kỹ năng" mới có thể có được một công việc không liên quan đến AI. "Đối với lao động trí óc thông thường, AI sẽ thay thế tất cả", ông chia sẻ trên podcast Diary of a CEO hồi tháng 6. "Vì thế, trở thành thợ sửa ống nước có lẽ là một lựa chọn tốt".
-Bảo Lâm tổng hợp
+Máy bay chở khách với cánh lấy cảm hứng từ chim 
+Thế hệ máy bay chở khách Airbus tiếp theo dự kiến có cánh nhẹ, mỏng và dài hơn, đồng thời có thể gập lại giống cánh chim.
+Airbus giới thiệu những công nghệ dự kiến xuất hiện trên máy bay thế hệ mới tại Hội nghị thượng đỉnh Airbus 2025 diễn ra ở thành phố Toulouse, Pháp, ngày 24 - 25/3. Với mục tiêu giảm tác động đến môi trường, cải thiện hiệu suất vận hành và giảm chi phí, máy bay mới sẽ có nhiều cải tiến nổi bật, bao gồm cánh máy bay lấy cảm hứng từ chim, động cơ tiết kiệm nhiên liệu và công nghệ vật liệu tiên tiến.
+Thế hệ máy bay chở khách Airbus tiếp theo sẽ có cánh giống như chim: nhẹ hơn, mỏng hơn và dài hơn, giúp tạo ra lực nâng lớn hơn và giảm lực cản. Dù dài hơn nhưng mẫu cánh mới có khả năng gấp lại, cho phép máy bay dễ dàng di chuyển trong những không gian hạn chế và tương thích với các cổng sân bay tiêu chuẩn hiện nay.
+Airbus cũng đang phát triển động cơ cánh quạt hở RISE mới, dự kiến giúp giảm tiêu thụ nhiên liệu 20% so với động cơ hiện tại và có thể chạy bằng nhiên liệu hàng không bền vững (SAF). Ngoài động cơ mới, Airbus cũng giới thiệu công nghệ lai, trong đó pin lithium-ion hoặc pin thể rắn và hệ thống điện áp cao không chỉ tạo lực đẩy mà còn giúp vận hành các chức năng trên máy bay như hệ thống điều hòa không khí hoặc đèn chiếu sáng, nhờ đó giảm mức tiêu thụ nhiên liệu.
+Một cải tiến khác là vật liệu. Airbus muốn chuyển từ nhựa gia cố sợi carbon (CFRP) sang vật liệu tổng hợp polymer nhiệt dẻo gia cố sợi carbon (CFRTP). Vật liệu mới là phiên bản cải tiến của CFRP vì có thể tái định hình và xử lý lại sau khi tạo hình, sản xuất nhanh hơn, chống va đập tốt hơn, có thể tái chế và đúc lại, chi phí xử lý rẻ hơn.
+Máy bay chở khách tương lai cũng sẽ ứng dụng kỹ thuật số nhiều hơn với các hệ thống được kết nối và tự động hóa cao, có khả năng tự cập nhật tức thời và xử lý dữ liệu nhanh hơn. Ngoài ra, các hệ thống hỗ trợ tự động mới sẽ giúp chuyến bay an toàn hơn, hỗ trợ phi công xử lý những nhiệm vụ phức tạp mà ít bị mất tập trung hơn.
+Những cải tiến của Airbus được thiết lập để định nghĩa lại vận tải hàng không, giúp lĩnh vực này trở nên hiệu quả hơn, bền vững và thông minh hơn. Từ cánh máy bay lấy cảm hứng từ thiên nhiên đến tự động hóa kỹ thuật số, công ty đang định hình thế hệ máy bay tiếp theo, khiến các chuyến bay tương lai sạch hơn, yên tĩnh và tiết kiệm chi phí hơn.
+Thu Thảo (Theo New Atlas)
