@@ -2,7 +2,6 @@ import os
 import json
 import glob
 from tqdm import tqdm
-from pyvi import ViTokenizer
 import re
 
 # --- CẤU HÌNH (SỬA Ở ĐÂY CHO MỖI LẦN CHẠY) ---

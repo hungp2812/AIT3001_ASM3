@@ -3,3 +3,6 @@ requests==2.28.1
 tqdm==4.64.1
 pyyaml>=6.0.1
 pyvi
+openai 
+google-generativeai 
+python-dotenv
